@@ -1,6 +1,6 @@
 # Outreach review index (Caisson)
 
-**17 drafts** · Pricing: **Basic $180 / Medium $250** (tier matched per lead) · **IG/FB PRIMARY** where noted · Urgency: previews rebuilt with upgraded tooling tomorrow at 7pm Perth
+**25 drafts** · Pricing: **Basic $180 / Medium $250** (tier matched per lead) · **IG/FB PRIMARY** where noted · Urgency: previews rebuilt with upgraded tooling tomorrow at 7pm Perth
 
 | # | Business | Slug | Channel | Demo URL | Pitch hook | Tier | File |
 |---|----------|------|---------|----------|------------|------|------|
@@ -21,6 +21,14 @@
 | 15 | Paws in the Park | `paws-in-the-park` | **Facebook** | https://edisonrees.github.io/macrosa-web/demos/paws-in-the-park/ | Dog walking service; rank when people search dog walker Perth | Basic | `outreach/email-paws-in-the-park.txt` |
 | 16 | that girl lashess | `that-girl-lashess` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/that-girl-lashess/ | Lash artist on Instagram; preview on your own domain | Medium | `outreach/email-that-girl-lashess.txt` |
 | 17 | Yundie DC Gardening and Mowing | `yundie-dc-gardening` | **Facebook** | https://edisonrees.github.io/macrosa-web/demos/yundie-dc-gardening/ | Gardener; site ready for rental prep season Google searches | Basic | `outreach/email-yundie-dc-gardening.txt` |
+| 18 | PureFlow Plumbing and Gas | `pureflow-plumbing` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/pureflow-plumbing/ | Quinns Rocks plumber on IG only; preview for northern suburbs Google searches | Basic | `outreach/ig-pureflow-plumbing.txt` |
+| 19 | _LashesbyMonique | `lashes-by-monique` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/lashes-by-monique/ | Wellard lash studio Fresha-only; own domain beats booking link | Medium | `outreach/ig-lashes-by-monique.txt` |
+| 20 | Amy J Lash and Beauty | `amy-j-lash-beauty` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/amy-j-lash-beauty/ | Banksia Grove home salon; preview for Joondalup lash searches | Medium | `outreach/ig-amy-j-lash-beauty.txt` |
+| 21 | Lashes By Aimee Tahlia | `lashes-by-aimee-tahlia` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/lashes-by-aimee-tahlia/ | Oakford home salon; site for clients outside Fresha | Medium | `outreach/ig-lashes-by-aimee-tahlia.txt` |
+| 22 | Alexandria Gardens | `alexandria-gardens` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/alexandria-gardens/ | Perth gardener IG-only; preview for lawn mowing Google searches | Basic | `outreach/ig-alexandria-gardens.txt` |
+| 23 | Larissa's Barbershop | `larissas-barbershop` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/larissas-barbershop/ | Applecross barber Fresha-only; preview with services and hours | Basic | `outreach/ig-larissas-barbershop.txt` |
+| 24 | Miiso Nail Studio | `miiso-nail-studio` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/miiso-nail-studio/ | Koondoola nail studio; preview for northern suburbs searches | Medium | `outreach/ig-miiso-nail-studio.txt` |
+| 25 | Studio B Nails.Co | `studio-b-nails` | **Instagram** | https://edisonrees.github.io/macrosa-web/demos/studio-b-nails/ | Success BIAB/Gel X studio; own site beats Fresha-only | Medium | `outreach/ig-studio-b-nails.txt` |
 
 ## Channel priority (Edison)
 

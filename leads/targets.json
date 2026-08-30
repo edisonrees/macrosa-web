@@ -30,7 +30,9 @@
       "Emergency callouts across the Peel"
     ],
     "source": "https://www.facebook.com/KGPlumbingandGas",
-    "has_website": false,
+    "has_website": true,
+    "website_url": "https://kgplumbingandgas.com.au",
+    "website_note": "Has kgplumbingandgas.com.au but Edison says atrocious/broken enough to pitch upgrade.",
     "demo_ready": true,
     "services": [
       {
@@ -862,6 +864,422 @@
       {
         "title": "Ongoing maintenance",
         "desc": "Weekly, fortnightly or monthly schedules to suit your yard."
+      }
+    ]
+  },
+  {
+    "slug": "pureflow-plumbing",
+    "name": "PureFlow Plumbing and Gas",
+    "logo_text": "PUREFLOW",
+    "industry": "Plumbing and Gas",
+    "city": "Quinns Rocks",
+    "image_set": "plumber",
+    "theme": "plumber",
+    "tagline": "Plumbing and gas, Quinns Rocks and Perth north",
+    "phone_raw": "+61409477183",
+    "phone_display": "0409 477 183",
+    "email": "",
+    "address": "Quinns Rocks, WA 6030",
+    "service_area": "Quinns Rocks, Butler, Mindarie and Perth northern suburbs",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Local plumbing and gas you can call.",
+    "hero_subhead": "PureFlow Plumbing and Gas handles blocked drains, hot water, renovations and emergency callouts across Perth's north. Free quotes by phone.",
+    "about_headline": "Small team. Straight answers. Solid work.",
+    "about": "PureFlow Plumbing and Gas is a Quinns Rocks based team covering domestic and commercial plumbing and gas. From no hot water to blocked drains and renovation fit-outs, they show up, explain the job and leave the place tidy.",
+    "band_headline": "Emergency or planned work?",
+    "band_text": "Call now for a quote. Same-week slots when available across the northern suburbs.",
+    "gallery_captions": [
+      "Blocked drains and maintenance",
+      "Hot water repairs and installs",
+      "Renovation plumbing",
+      "Northern suburbs callouts"
+    ],
+    "source": "https://www.instagram.com/pureflow_plumbing/",
+    "instagram": "https://www.instagram.com/pureflow_plumbing/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram and phone only. No standalone website.",
+    "services": [
+      {
+        "title": "Blocked drains",
+        "desc": "Clear blockages, CCTV inspections and preventative maintenance."
+      },
+      {
+        "title": "Hot water systems",
+        "desc": "Repairs, replacements and new installs for electric and gas units."
+      },
+      {
+        "title": "Renovation plumbing",
+        "desc": "Kitchens, bathrooms and extensions wired in properly."
+      },
+      {
+        "title": "24/7 emergencies",
+        "desc": "Burst pipes, gas leaks and urgent callouts across the north."
+      }
+    ]
+  },
+  {
+    "slug": "lashes-by-monique",
+    "name": "_LashesbyMonique",
+    "logo_text": "MONIQUE",
+    "industry": "Lash Extensions",
+    "city": "Wellard",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash and brow studio, Wellard",
+    "phone_raw": "+61400000005",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "8 Ringwood Loop, Wellard WA 6170",
+    "service_area": "Wellard, Kwinana and southern suburbs",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Lashes and brows, done with care.",
+    "hero_subhead": "Home salon in Wellard. Classic, hybrid and volume lash sets plus brow lamination and tinting in a calm one-on-one space.",
+    "about_headline": "Private studio. Personal attention.",
+    "about": "_LashesbyMonique runs a home-based lash and brow studio in Wellard. Every appointment is unhurried, with styles matched to what you want and refills booked on a schedule that suits you.",
+    "band_headline": "New set or refill?",
+    "band_text": "Book through Fresha or message on Instagram if you need help picking a style.",
+    "gallery_captions": [
+      "Classic lash extensions",
+      "Hybrid and volume sets",
+      "Brow lamination and tint",
+      "Home studio in Wellard"
+    ],
+    "source": "https://www.fresha.com/a/lashesbymonique-wellard-8-ringwood-loop-i0be02f9",
+    "instagram": "https://www.instagram.com/_lashesbymonique/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha booking and Instagram DMs. No website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic, hybrid and volume full sets tailored to your look."
+      },
+      {
+        "title": "Lash refills",
+        "desc": "Keep your set fresh every two to three weeks."
+      },
+      {
+        "title": "Brow services",
+        "desc": "Wax, tint, lamination and dye for defined brows."
+      },
+      {
+        "title": "Lash lifts",
+        "desc": "Lift and tint for a wide-awake, low-maintenance look."
+      }
+    ]
+  },
+  {
+    "slug": "amy-j-lash-beauty",
+    "name": "Amy J Lash and Beauty",
+    "logo_text": "AMY J",
+    "industry": "Lash and Beauty",
+    "city": "Banksia Grove",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home beauty room, Banksia Grove",
+    "phone_raw": "+61400000006",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "Banksia Grove, WA 6031",
+    "service_area": "Banksia Grove, Joondalup and northern suburbs",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Lashes, brows and beauty that feel like you.",
+    "hero_subhead": "Amy runs a calm home-based beauty room in Banksia Grove. Lash extensions, lifts, brow lamination and RF skin treatments by appointment.",
+    "about_headline": "Relaxed room. Detail-focused work.",
+    "about": "Amy J Lash and Beauty is a home salon in Banksia Grove built on repeat clients and honest advice. Every treatment gets full attention in a comfortable, professional space.",
+    "band_headline": "First visit or refill?",
+    "band_text": "Book on Fresha or message on Instagram to find a time that works.",
+    "gallery_captions": [
+      "Classic and hybrid lash sets",
+      "Brow lamination and tint",
+      "Lash lift treatments",
+      "Home studio in Banksia Grove"
+    ],
+    "source": "https://www.fresha.com/a/amy-j-lash-and-beauty-banksia-grove-banksia-grove-qoleoplt",
+    "instagram": "https://www.instagram.com/amyj.lashandbeauty/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only. No website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic, hybrid and volume full sets and maintenance refills."
+      },
+      {
+        "title": "Brow lamination",
+        "desc": "Fuller, brushed-up brows that last weeks."
+      },
+      {
+        "title": "Lash lifts",
+        "desc": "Lift and tint for natural, wide-awake lashes."
+      },
+      {
+        "title": "RF skin tightening",
+        "desc": "Non-invasive face and jawline treatments by appointment."
+      }
+    ]
+  },
+  {
+    "slug": "lashes-by-aimee-tahlia",
+    "name": "Lashes By Aimee Tahlia",
+    "logo_text": "AIMEE",
+    "industry": "Lash and Brow",
+    "city": "Oakford",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home lash and brow salon, Oakford",
+    "phone_raw": "+61400000007",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "6 Vortilla Court, Oakford WA 6121",
+    "service_area": "Oakford, Serpentine and Perth south-east",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Lashes and brows in a quiet home salon.",
+    "hero_subhead": "Aimee offers extensions, lash lifts, lash Botox and brow lamination from a private studio in Oakford. Message anytime with questions.",
+    "about_headline": "Personal service. Quality products.",
+    "about": "Lashes By Aimee Tahlia is a home-based lash and brow studio in Oakford. Appointments are one-on-one, with time taken to match the style and fullness you want.",
+    "band_headline": "Special occasion coming up?",
+    "band_text": "Book a full set or lift through Fresha. DM on Instagram if you need advice on which service suits you.",
+    "gallery_captions": [
+      "Lash extension full sets",
+      "Lash lift and Botox",
+      "Brow wax and lamination",
+      "Home salon in Oakford"
+    ],
+    "source": "https://www.fresha.com/a/lashes-by-aimee-tahlia-oakford-6-vortilla-court-cgvxdwrz",
+    "instagram": "https://www.instagram.com/lashesbyaimeetahlia/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha booking and Instagram. No website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Soft sets, classics and volume looks applied lash by lash."
+      },
+      {
+        "title": "Lash lifts",
+        "desc": "Lift, Botox and tint for low-maintenance everyday wear."
+      },
+      {
+        "title": "Brow shaping",
+        "desc": "Wax, tint and lamination for defined, natural brows."
+      },
+      {
+        "title": "Patch tests",
+        "desc": "Quick allergy checks before your first tint or lift."
+      }
+    ]
+  },
+  {
+    "slug": "alexandria-gardens",
+    "name": "Alexandria Gardens",
+    "logo_text": "AG",
+    "industry": "Gardening and Lawn Care",
+    "city": "Perth",
+    "image_set": "gardener",
+    "theme": "gardener",
+    "tagline": "Lawn mowing and garden maintenance, Perth",
+    "phone_raw": "+61400000008",
+    "phone_display": "Message via Instagram",
+    "email": "gardensalexandria@gmail.com",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and northern suburbs",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Your garden, kept under control.",
+    "hero_subhead": "Alexandria Gardens handles mowing, weeding, hedging, mulch installs and general tidy-ups across Perth. Book by message or email.",
+    "about_headline": "Local crew. Reliable schedules.",
+    "about": "Alexandria Gardens is a Perth based lawn and garden maintenance business. Regular mowing routes or one-off clean-ups for overgrown yards and rental prep.",
+    "band_headline": "Need it done this week?",
+    "band_text": "Message on Instagram or email for a quote. One-off jobs and ongoing schedules both welcome.",
+    "gallery_captions": [
+      "Lawn mowing and edging",
+      "Weeding and garden beds",
+      "Mulch installation",
+      "General garden maintenance"
+    ],
+    "source": "https://www.instagram.com/alexandriagardens_/",
+    "instagram": "https://www.instagram.com/alexandriagardens_/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram and email only. No website.",
+    "services": [
+      {
+        "title": "Lawn mowing",
+        "desc": "Regular cuts or one-off mows for any block size."
+      },
+      {
+        "title": "Weeding and hedging",
+        "desc": "Garden beds, edges and shrubs kept neat."
+      },
+      {
+        "title": "Mulch installs",
+        "desc": "Supply and spread mulch to freshen beds and suppress weeds."
+      },
+      {
+        "title": "Garden clean-ups",
+        "desc": "Overgrown yards and pre-inspection tidies."
+      }
+    ]
+  },
+  {
+    "slug": "larissas-barbershop",
+    "name": "Larissa's Barbershop",
+    "logo_text": "LARISSA'S",
+    "industry": "Barber",
+    "city": "Applecross",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Retro barbershop, Applecross",
+    "phone_raw": "+61400000009",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "38 Ardross Street, Applecross WA 6153",
+    "service_area": "Applecross, Mount Pleasant and Perth south",
+    "years": 5,
+    "rating": "5.0",
+    "hero_headline": "Classic cuts. Modern fades.",
+    "hero_subhead": "Larissa's Barbershop on Ardross Street blends old-school barbering with contemporary style. Fades, beard work, kids cuts and hot towel shaves.",
+    "about_headline": "Retro charm. Sharp finishes.",
+    "about": "Larissa's Barbershop sits in the heart of Applecross with a relaxed, stylish shop vibe. Larissa and the team focus on precision fades, beard shaping and cuts that leave you walking out sharp.",
+    "band_headline": "Fade or beard trim?",
+    "band_text": "Book through Fresha or message on Instagram. Walk-ins when chairs are free.",
+    "gallery_captions": [
+      "Skin fades and tapers",
+      "Beard trims and line-ups",
+      "Kids and family cuts",
+      "Hot towel shaves"
+    ],
+    "source": "https://www.fresha.com/a/larissas-barbershop-applecross-38-ardross-street-g01tydz0",
+    "instagram": "https://www.instagram.com/larissas_barbershop/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha booking and Instagram. No standalone website.",
+    "services": [
+      {
+        "title": "Haircuts and fades",
+        "desc": "Standard cuts, skin fades and scissor work from $60."
+      },
+      {
+        "title": "Beard grooming",
+        "desc": "Trims, shaves and shape-ups finished sharp."
+      },
+      {
+        "title": "Kids cuts",
+        "desc": "Primary school cuts in a friendly, patient setting."
+      },
+      {
+        "title": "Packages",
+        "desc": "Cut and beard combos plus waxing add-ons."
+      }
+    ]
+  },
+  {
+    "slug": "miiso-nail-studio",
+    "name": "Miiso Nail Studio",
+    "logo_text": "MIISO",
+    "industry": "Nail Studio",
+    "city": "Koondoola",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home nail studio, Koondoola",
+    "phone_raw": "+61400000010",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "Koondoola, WA 6064",
+    "service_area": "Koondoola, northern suburbs and Perth metro",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Structured nails. Private studio.",
+    "hero_subhead": "Tran runs Miiso Nail Studio from a home salon in Koondoola. Gel extensions, builder gel and structured manicures by appointment only.",
+    "about_headline": "Certified tech. Calm appointments.",
+    "about": "Miiso Nail Studio is a private home-based nail studio in Perth's north. Every visit is one-on-one with focus on healthy nails, clean prep and designs you will actually wear.",
+    "band_headline": "New set or refill?",
+    "band_text": "Book on Fresha. Address emailed 24 hours before your appointment.",
+    "gallery_captions": [
+      "Gel extensions and builder gel",
+      "Structured manicures",
+      "Nail art and chrome finishes",
+      "Home studio in Koondoola"
+    ],
+    "source": "https://www.fresha.com/a/miiso-nail-studio-perth-koondoola-full-address-emailed-to-you-24-hours-before-your-appointment-otcaam8w",
+    "instagram": "https://www.instagram.com/miiso.nail/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only. No website.",
+    "services": [
+      {
+        "title": "Gel extensions",
+        "desc": "Structured extensions with minimal or full nail art."
+      },
+      {
+        "title": "Builder gel",
+        "desc": "Strong, natural-looking overlays and refills."
+      },
+      {
+        "title": "Gel manicures",
+        "desc": "Classic gel polish with proper prep and finish."
+      },
+      {
+        "title": "Removals",
+        "desc": "Safe soak-offs before your next set."
+      }
+    ]
+  },
+  {
+    "slug": "studio-b-nails",
+    "name": "Studio B Nails.Co",
+    "logo_text": "STUDIO B",
+    "industry": "Nail Studio",
+    "city": "Success",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "BIAB and Gel X nails, Success",
+    "phone_raw": "+61400000011",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "14 Grasstree Lane, Success WA 6164",
+    "service_area": "Success, Cockburn and southern suburbs",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "BIAB and Gel X in a cozy home salon.",
+    "hero_subhead": "Brittany runs Studio B Nails.Co from Success. Minimal or full-design BIAB and Gel X sets in a private, appointment-only space.",
+    "about_headline": "Personalized nails. Unhurried visits.",
+    "about": "Studio B Nails.Co is a home-based nail studio in Success specialising in BIAB and Gel X. Every appointment is private, with designs matched to your style and lifestyle.",
+    "band_headline": "Minimal or full glam?",
+    "band_text": "Book through Fresha or DM on Instagram with inspo pics for a quote.",
+    "gallery_captions": [
+      "BIAB minimal designs",
+      "Gel X full sets",
+      "Solid colour BIAB",
+      "Home salon in Success"
+    ],
+    "source": "https://www.fresha.com/a/studio-b-nails-co-success-14-grasstree-lane-dr45cps8",
+    "instagram": "https://www.instagram.com/studio.b.nails.cockburn/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only. No website.",
+    "services": [
+      {
+        "title": "BIAB nails",
+        "desc": "Solid colour and minimal design sets with proper structure."
+      },
+      {
+        "title": "Gel X extensions",
+        "desc": "Full sets with minimal or detailed nail art."
+      },
+      {
+        "title": "BIAB infills",
+        "desc": "Keep your set fresh every two to three weeks."
+      },
+      {
+        "title": "Removals",
+        "desc": "Gentle soak-offs before your next appointment."
       }
     ]
   }

@@ -1,17 +1,42 @@
 [
   {
-    "slug": "kg-plumbing-gas",
-    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\kg-plumbing-gas",
-    "name": "KG Plumbing and Gas"
+    "slug": "pureflow-plumbing",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\pureflow-plumbing",
+    "name": "PureFlow Plumbing and Gas"
   },
   {
-    "slug": "jaymichel-hair",
-    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\jaymichel-hair",
-    "name": "Jaymichel Hair and Beauty"
+    "slug": "lashes-by-monique",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lashes-by-monique",
+    "name": "_LashesbyMonique"
   },
   {
-    "slug": "dagostino-electrical",
-    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\dagostino-electrical",
-    "name": "D'Agostino Electrical"
+    "slug": "amy-j-lash-beauty",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\amy-j-lash-beauty",
+    "name": "Amy J Lash and Beauty"
+  },
+  {
+    "slug": "lashes-by-aimee-tahlia",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lashes-by-aimee-tahlia",
+    "name": "Lashes By Aimee Tahlia"
+  },
+  {
+    "slug": "alexandria-gardens",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\alexandria-gardens",
+    "name": "Alexandria Gardens"
+  },
+  {
+    "slug": "larissas-barbershop",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\larissas-barbershop",
+    "name": "Larissa's Barbershop"
+  },
+  {
+    "slug": "miiso-nail-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\miiso-nail-studio",
+    "name": "Miiso Nail Studio"
+  },
+  {
+    "slug": "studio-b-nails",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\studio-b-nails",
+    "name": "Studio B Nails.Co"
   }
 ]

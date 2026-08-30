@@ -1,0 +1,14 @@
+DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
+CHANNEL: Instagram DM
+PROFILE: https://www.instagram.com/_lashesbymonique/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/lashes-by-monique/
+
+Hi, quick one. I'm Edison from Caisson (web dev in Perth).
+
+I found your lash studio on Fresha in Wellard. Built a free site preview so you're not Fresha-only when people search lashes near Kwinana:
+https://edisonrees.github.io/macrosa-web/demos/lashes-by-monique/
+
+$250 one-off (Medium: basic support, Google indexing, your own domain) if you want it live. Basic is $180. Rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in. No stress if not for you.
+
+Cheers,
+Edison · Caisson · Perth
