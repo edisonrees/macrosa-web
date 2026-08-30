@@ -31,11 +31,24 @@
     ],
     "source": "https://www.facebook.com/KGPlumbingandGas",
     "has_website": false,
+    "demo_ready": true,
     "services": [
-      {"title": "General plumbing", "desc": "Leaks, taps, toilets, pipe repairs and full bathroom renos."},
-      {"title": "Gas fitting", "desc": "Licensed gas work for heaters, cooktops, bayonets and compliance checks."},
-      {"title": "Hot water", "desc": "Repairs and replacements for electric, gas and instant systems."},
-      {"title": "24/7 emergencies", "desc": "Burst pipes, blocked drains and urgent callouts. We answer the phone."}
+      {
+        "title": "General plumbing",
+        "desc": "Leaks, taps, toilets, pipe repairs and full bathroom renos."
+      },
+      {
+        "title": "Gas fitting",
+        "desc": "Licensed gas work for heaters, cooktops, bayonets and compliance checks."
+      },
+      {
+        "title": "Hot water",
+        "desc": "Repairs and replacements for electric, gas and instant systems."
+      },
+      {
+        "title": "24/7 emergencies",
+        "desc": "Burst pipes, blocked drains and urgent callouts. We answer the phone."
+      }
     ]
   },
   {
@@ -68,11 +81,25 @@
     ],
     "source": "https://www.facebook.com/profile.php?id=100061948034792",
     "has_website": false,
+    "demo_ready": true,
+    "contact_note": "No public phone or email found. Reach via Facebook Messenger.",
     "services": [
-      {"title": "Kitchen plumbing", "desc": "New kitchens, dishwashers, sinks and appliance connections."},
-      {"title": "Bathroom fit-outs", "desc": "Showers, vanities, toilets and full bathroom renovations."},
-      {"title": "Repairs and maintenance", "desc": "Leaks, blockages and general plumbing maintenance."},
-      {"title": "Renovation support", "desc": "Work with builders and homeowners on new builds and extensions."}
+      {
+        "title": "Kitchen plumbing",
+        "desc": "New kitchens, dishwashers, sinks and appliance connections."
+      },
+      {
+        "title": "Bathroom fit-outs",
+        "desc": "Showers, vanities, toilets and full bathroom renovations."
+      },
+      {
+        "title": "Repairs and maintenance",
+        "desc": "Leaks, blockages and general plumbing maintenance."
+      },
+      {
+        "title": "Renovation support",
+        "desc": "Work with builders and homeowners on new builds and extensions."
+      }
     ]
   },
   {
@@ -107,11 +134,735 @@
     ],
     "source": "https://www.facebook.com/jaymichelhairandbeauty/",
     "has_website": false,
+    "demo_ready": true,
     "services": [
-      {"title": "Haircuts and styling", "desc": "Cuts, blow dries and everyday styling."},
-      {"title": "Colour and treatments", "desc": "Colour, highlights, toners and conditioning treatments."},
-      {"title": "Beauty services", "desc": "Brows, lashes and selected beauty treatments."},
-      {"title": "Special occasions", "desc": "Formal, wedding and event hair by appointment."}
+      {
+        "title": "Haircuts and styling",
+        "desc": "Cuts, blow dries and everyday styling."
+      },
+      {
+        "title": "Colour and treatments",
+        "desc": "Colour, highlights, toners and conditioning treatments."
+      },
+      {
+        "title": "Beauty services",
+        "desc": "Brows, lashes and selected beauty treatments."
+      },
+      {
+        "title": "Special occasions",
+        "desc": "Formal, wedding and event hair by appointment."
+      }
+    ]
+  },
+  {
+    "slug": "b-the-barber",
+    "name": "B The Barber",
+    "logo_text": "B",
+    "industry": "Barber",
+    "city": "Seville Grove",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Indigenous-owned barber, Seville Grove",
+    "phone_raw": "+61400000003",
+    "phone_display": "Book via Fresha",
+    "email": "bookings@bthebarber.com.au",
+    "address": "15 Jaffa Close, Seville Grove WA 6112",
+    "service_area": "Seville Grove, Armadale and southern suburbs",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Fades, tapers and track patterns.",
+    "hero_subhead": "Indigenous-owned barbershop in Seville Grove. Skin fades, beard work and kids cuts in a welcoming, family-friendly shop.",
+    "about_headline": "Creativity and precision.",
+    "about": "B The Barber delivers sharp cuts and beard styles for adults and kids. Convenient location near public transport, with a relaxed shop vibe and attention to detail on every fade.",
+    "band_headline": "Walk in or book ahead.",
+    "band_text": "Check Fresha for availability or message on socials to lock in a time.",
+    "gallery_captions": [
+      "Skin fades and tapers",
+      "Track patterns and designs",
+      "Beard trims and grooming",
+      "Family-friendly shop"
+    ],
+    "source": "https://www.fresha.com/a/b-the-barber-perth",
+    "has_website": false,
+    "demo_ready": false,
+    "contact_note": "No public phone or email. Fresha booking only.",
+    "services": [
+      {
+        "title": "Skin fades",
+        "desc": "Clean fades and tapers, finished sharp."
+      },
+      {
+        "title": "Beard grooming",
+        "desc": "Trims, line-ups and full beard styling."
+      },
+      {
+        "title": "Kids cuts",
+        "desc": "Patient cuts for children in a friendly setting."
+      },
+      {
+        "title": "Design work",
+        "desc": "Track patterns and custom line work."
+      }
+    ]
+  },
+  {
+    "slug": "bsparkz-electrics",
+    "name": "Bsparkz Electrics",
+    "logo_text": "BSPARKZ",
+    "industry": "Electrical",
+    "city": "Kwinana",
+    "image_set": "electrician",
+    "theme": "electrician",
+    "tagline": "Domestic and commercial electrician, Kwinana",
+    "phone_raw": "+61423239596",
+    "phone_display": "0423 239 596",
+    "email": "",
+    "address": "Kwinana, WA 6167",
+    "service_area": "Kwinana, Rockingham, Cockburn and Perth south",
+    "years": 12,
+    "rating": "5.0",
+    "hero_headline": "Local sparky. No job too small.",
+    "hero_subhead": "Brett Foster runs Bsparkz Electrics, a family business covering domestic and commercial electrical across Perth's southern suburbs. Free quotes, no call-out fee for locals.",
+    "about_headline": "Licensed, insured and easy to deal with.",
+    "about": "Bsparkz Electrics handles switchboard upgrades, fault finding, rewires, lighting, data and networking, pool and shed circuits, and renovation electrical. Brett is known locally for turning up on time and leaving the job tidy.",
+    "band_headline": "Renovating or extending?",
+    "band_text": "Get Brett in early for pre-start advice on lighting and electrical plans. He works with builders and homeowners across the south.",
+    "gallery_captions": [
+      "Domestic electrical installs",
+      "Switchboard and safety work",
+      "Lighting and LED upgrades",
+      "Commercial and maintenance jobs"
+    ],
+    "source": "https://www.facebook.com/BsparkzElectrics",
+    "has_website": false,
+    "demo_flag": true,
+    "contact_note": "Facebook only. No website or public email.",
+    "services": [
+      {
+        "title": "Domestic electrical",
+        "desc": "Power points, lighting, fans, ovens and general maintenance."
+      },
+      {
+        "title": "Switchboards and safety",
+        "desc": "Upgrades, RCD installation, smoke alarms and testing."
+      },
+      {
+        "title": "Fault finding",
+        "desc": "Track down tripping circuits, dead points and wiring issues."
+      },
+      {
+        "title": "Renovations",
+        "desc": "Kitchens, bathrooms, alfrescoes and extensions."
+      }
+    ]
+  },
+  {
+    "slug": "canham-eatery",
+    "name": "Canham Eatery",
+    "logo_text": "CANHAM",
+    "industry": "Cafe and Takeaway",
+    "city": "Greenwood",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Lunch bar and Asian takeaway, Greenwood",
+    "phone_raw": "+61893433931",
+    "phone_display": "(08) 9343 3931",
+    "email": "info@canhameatery.com.au",
+    "address": "1/28 Canham Way, Greenwood WA 6024",
+    "service_area": "Greenwood, Joondalup and northern suburbs",
+    "hours": "Mon-Fri 6am-3pm, Sat 8am-2pm",
+    "years": 10,
+    "rating": "4.7",
+    "hero_headline": "Fresh lunch, done properly.",
+    "hero_subhead": "Canham Eatery on Canham Way serves lunch bar favourites and Asian dishes. Dine in, takeaway or call ahead for a quick pickup.",
+    "about_headline": "A Greenwood staple.",
+    "about": "Canham Eatery has been feeding Greenwood locals for years. Family-run, with a menu that mixes classic lunch bar options and Asian dishes. Counter service, friendly staff and consistent quality.",
+    "band_headline": "Lunch rush?",
+    "band_text": "Call ahead to order and skip the queue. Walk-ins always welcome during opening hours.",
+    "gallery_captions": [
+      "Fresh lunch bar menu",
+      "Asian dishes and specials",
+      "Counter service and takeaway",
+      "Greenwood local favourite"
+    ],
+    "source": "https://www.facebook.com/canham.eats",
+    "has_website": false,
+    "demo_ready": true,
+    "contact_note": "Facebook page is their main online presence. Also trading as The Dirty Swine.",
+    "services": [
+      {
+        "title": "Lunch bar",
+        "desc": "Sandwiches, rolls, hot food and daily specials."
+      },
+      {
+        "title": "Asian menu",
+        "desc": "Noodles, rice dishes and family favourites."
+      },
+      {
+        "title": "Takeaway",
+        "desc": "Call ahead or walk in for quick pickup."
+      },
+      {
+        "title": "Catering",
+        "desc": "Office lunches and small events by arrangement."
+      }
+    ]
+  },
+  {
+    "slug": "champion-barber-shop",
+    "name": "Champion Barber Shop",
+    "logo_text": "CHAMPION",
+    "industry": "Barber",
+    "city": "Seville Grove",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Barber shop, Seville Grove",
+    "phone_raw": "+61470135042",
+    "phone_display": "0470 135 042",
+    "email": "",
+    "address": "82 Champion Drive, Seville Grove WA 6112",
+    "service_area": "Seville Grove, Armadale and southern suburbs",
+    "years": 5,
+    "rating": "4.9",
+    "hero_headline": "Sharp cuts. Local barber.",
+    "hero_subhead": "Walk-ins welcome at Champion Drive Shopping Centre. Fades, tapers, beard trims and kids cuts. Call ahead to book a time.",
+    "about_headline": "Your local barber in Seville Grove.",
+    "about": "Champion Barber Shop sits in the Champion Drive Shopping Centre, serving Seville Grove and the surrounding southern suburbs. Straightforward pricing, consistent cuts and a friendly shop atmosphere.",
+    "band_headline": "Kids cut or fresh fade?",
+    "band_text": "Call 0470 135 042 to book. Walk-ins taken when chairs are free.",
+    "gallery_captions": [
+      "Skin fades and tapers",
+      "Beard trims and line-ups",
+      "Kids and family cuts",
+      "Walk-in friendly shop"
+    ],
+    "source": "https://www.facebook.com/championbarbershop",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Haircuts",
+        "desc": "Fades, tapers, scissor cuts and classic styles."
+      },
+      {
+        "title": "Beard grooming",
+        "desc": "Trims, line-ups and hot towel finishes."
+      },
+      {
+        "title": "Kids cuts",
+        "desc": "Patient, quick cuts for children of all ages."
+      },
+      {
+        "title": "Walk-ins",
+        "desc": "No appointment needed when chairs are available."
+      }
+    ]
+  },
+  {
+    "slug": "cut-above-grooming",
+    "name": "Cut Above Grooming",
+    "logo_text": "CUT ABOVE",
+    "industry": "Dog Grooming",
+    "city": "Perth North",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Home-based dog grooming, Tremont Place",
+    "phone_raw": "+61415396633",
+    "phone_display": "0415 396 633",
+    "email": "",
+    "address": "Tremont Place, Perth WA 6025",
+    "service_area": "Perth northern suburbs",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Dog grooming with care.",
+    "hero_subhead": "Home-based salon on Tremont Place specialising in all breeds. Natural, high-quality products. Book by text or Facebook message.",
+    "about_headline": "Small salon. Big attention to detail.",
+    "about": "Cut Above Grooming is a home-based dog grooming salon in Perth's north. Every appointment gets full focus in a calm, one-on-one setting. Baths, clips, nail trims and breed-specific styling for dogs of all sizes.",
+    "band_headline": "New client?",
+    "band_text": "Text 0415 396 633 with your dog's breed and preferred date. Regular clients can pre-book to lock in a spot.",
+    "gallery_captions": [
+      "Full grooms and breed clips",
+      "Bath and tidy packages",
+      "Nail trims and ear care",
+      "Calm home-based salon"
+    ],
+    "source": "https://www.facebook.com/CutAboveGrooming",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Full grooms",
+        "desc": "Wash, dry, clip and style tailored to your dog's coat."
+      },
+      {
+        "title": "Bath and tidy",
+        "desc": "Quick freshen-ups between full grooms."
+      },
+      {
+        "title": "Nail and ear care",
+        "desc": "Nail trims, ear cleaning and basic hygiene."
+      },
+      {
+        "title": "Puppy introductions",
+        "desc": "Gentle first visits to get young dogs comfortable."
+      }
+    ]
+  },
+  {
+    "slug": "dagostino-electrical",
+    "name": "D'Agostino Electrical",
+    "logo_text": "DA",
+    "industry": "Electrical",
+    "city": "Wanneroo",
+    "image_set": "electrician",
+    "theme": "electrician",
+    "tagline": "Licensed electrician, Wanneroo and Perth north",
+    "phone_raw": "+61400236886",
+    "phone_display": "0400 236 886",
+    "email": "",
+    "address": "Wanneroo, WA",
+    "service_area": "Wanneroo, northern suburbs and Perth metro",
+    "years": 10,
+    "rating": "5.0",
+    "hero_headline": "Your electrician, start to finish.",
+    "hero_subhead": "Peter runs D'Agostino Electrical solo. The person you call is the person who shows up. Residential and commercial, free quotes, no call-out fee.",
+    "about_headline": "One owner. One point of contact.",
+    "about": "Peter D'Agostino is a licensed electrical contractor based in Wanneroo. He handles everything from power points and lighting to air con installs, smoke alarms and full renovation wiring. Fast, friendly and competitively priced.",
+    "band_headline": "Got a written quote from someone else?",
+    "band_text": "Peter offers price matching on written quotes. Call and talk it through. No pressure, no call-out fee.",
+    "gallery_headline": "Electrical work across Perth north",
+    "gallery_subhead": "Residential installs, maintenance and commercial jobs.",
+    "gallery_captions": [
+      "Residential wiring and lighting",
+      "Switchboard upgrades and safety",
+      "Air conditioning electrical",
+      "Commercial and maintenance work"
+    ],
+    "source": "https://www.facebook.com/dagostinoelectrical",
+    "has_website": false,
+    "demo_flag": true,
+    "contact_note": "No website. Facebook and phone only.",
+    "services": [
+      {
+        "title": "Residential electrical",
+        "desc": "Power points, lighting, fans, ovens and general installs."
+      },
+      {
+        "title": "Air conditioning",
+        "desc": "Split system electrical work and compliance."
+      },
+      {
+        "title": "Safety and compliance",
+        "desc": "Smoke alarms, RCDs, switchboard upgrades and inspections."
+      },
+      {
+        "title": "Commercial work",
+        "desc": "Shops, offices and light commercial maintenance."
+      }
+    ]
+  },
+  {
+    "slug": "kazzs-jamaican-kitchen",
+    "name": "Kazz's Jamaican Kitchen",
+    "logo_text": "KAZZ'S",
+    "industry": "Jamaican Restaurant",
+    "city": "Malaga",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Authentic Jamaican food, Malaga",
+    "phone_raw": "+61405362277",
+    "phone_display": "0405 362 277",
+    "email": "kazzsjamaicankitchen@gmail.com",
+    "address": "Malaga, WA 6090",
+    "service_area": "Malaga, northern suburbs and Perth metro",
+    "years": 4,
+    "rating": "4.9",
+    "hero_headline": "Real Jamaican flavour in Malaga.",
+    "hero_subhead": "Kazz's Jamaican Kitchen serves jerk chicken, curry goat, oxtail and island sides. Dine in, takeaway or call ahead to order.",
+    "about_headline": "Island cooking, local welcome.",
+    "about": "Kazz's Jamaican Kitchen brings authentic Caribbean flavours to Malaga. Family-run with a menu built on jerk spice, slow-cooked meats and hearty sides. Friendly service and portions that satisfy.",
+    "band_headline": "Feeding a crowd?",
+    "band_text": "Call or email to order ahead for takeaway or ask about catering for small events.",
+    "gallery_captions": [
+      "Jerk chicken and island spices",
+      "Curry goat and oxtail",
+      "Takeaway and dine in",
+      "Malaga local favourite"
+    ],
+    "source": "https://www.facebook.com/kazzsjamaicankitchen",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Jerk dishes",
+        "desc": "Jerk chicken, pork and wings with traditional spice and smoke."
+      },
+      {
+        "title": "Curries and stews",
+        "desc": "Curry goat, oxtail and slow-cooked island favourites."
+      },
+      {
+        "title": "Takeaway",
+        "desc": "Call ahead or walk in for quick pickup."
+      },
+      {
+        "title": "Catering",
+        "desc": "Small events and group orders by arrangement."
+      }
+    ]
+  },
+  {
+    "slug": "lash-generation",
+    "name": "Lash Generation",
+    "logo_text": "LASH",
+    "industry": "Lash Extensions",
+    "city": "Gwelup",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash extensions, Gwelup",
+    "phone_raw": "+61400000004",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "Gwelup, WA 6018",
+    "service_area": "Gwelup, northern suburbs and Perth metro",
+    "years": 2,
+    "rating": "5.0",
+    "hero_headline": "Lashes that lift your look.",
+    "hero_subhead": "Home-based lash studio in Gwelup. Classic, hybrid and volume extensions in a private, relaxed setting.",
+    "about_headline": "Detail-focused lash work in Gwelup.",
+    "about": "Lash Generation is a home-based lash studio serving Gwelup and surrounding northern suburbs. Every appointment is one-on-one, with time taken to match the style and fullness you want.",
+    "band_headline": "New set or refill?",
+    "band_text": "Book through Fresha for a full set, refill or lash lift. Message on Fresha if you need help choosing a style.",
+    "gallery_captions": [
+      "Classic lash extensions",
+      "Hybrid and volume sets",
+      "Lash lifts and tints",
+      "Home studio in Gwelup"
+    ],
+    "source": "https://www.fresha.com/a/lash-generation-gwelup",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "No public phone or email. Fresha booking only. Demo for outreach.",
+    "services": [
+      {
+        "title": "Classic lashes",
+        "desc": "Natural-looking extensions applied lash by lash."
+      },
+      {
+        "title": "Hybrid and volume",
+        "desc": "Fuller sets for everyday wear or special occasions."
+      },
+      {
+        "title": "Lash refills",
+        "desc": "Keep your set fresh every two to three weeks."
+      },
+      {
+        "title": "Lash lifts",
+        "desc": "Lift and tint for a wide-awake, low-maintenance look."
+      }
+    ]
+  },
+  {
+    "slug": "lumi-brow-studio",
+    "name": "Lumi Brow Studio",
+    "logo_text": "LUMI",
+    "industry": "Brows and Lashes",
+    "city": "Coodanup",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Brows and lashes, Coodanup",
+    "phone_raw": "+61400000001",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "30 Vaucluse Way, Coodanup WA 6210",
+    "service_area": "Mandurah, Coodanup and Peel region",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Brows and lashes, done with care.",
+    "hero_subhead": "Home-based studio in Coodanup. Calm, one-on-one appointments for brow shaping, lash lifts and tinting.",
+    "about_headline": "A quiet space to feel looked after.",
+    "about": "Lumi Brow Studio is a home-based brow and lash studio run with attention to detail and a relaxed atmosphere. Every appointment is unhurried, clean and focused on natural-looking results.",
+    "band_headline": "First visit?",
+    "band_text": "Book through Fresha or send a message to find a time that suits.",
+    "gallery_captions": [
+      "Brow shaping and tinting",
+      "Lash lifts and tints",
+      "Home studio appointments",
+      "Natural, polished results"
+    ],
+    "source": "https://www.fresha.com/a/lumi-brow-studio-coodanup",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "No public phone or email. Fresha booking only. Demo for outreach.",
+    "services": [
+      {
+        "title": "Brow shaping",
+        "desc": "Waxing, shaping and tinting for defined brows."
+      },
+      {
+        "title": "Lash lifts",
+        "desc": "Lift and tint for natural, wide-awake lashes."
+      },
+      {
+        "title": "Brow lamination",
+        "desc": "Fuller, brushed-up brows that last weeks."
+      },
+      {
+        "title": "Combo treatments",
+        "desc": "Brow and lash packages for special occasions."
+      }
+    ]
+  },
+  {
+    "slug": "mech-mobile",
+    "name": "Mech Mobile",
+    "logo_text": "MECH",
+    "industry": "Mobile Mechanic",
+    "city": "Perth",
+    "image_set": "mechanic",
+    "theme": "mechanic",
+    "tagline": "Mobile mechanic, Perth metro",
+    "phone_raw": "+61407878188",
+    "phone_display": "0407 878 188",
+    "email": "",
+    "address": "Perth, WA",
+    "service_area": "Perth metro, light and heavy vehicles",
+    "years": 5,
+    "rating": "4.9",
+    "hero_headline": "We come to you.",
+    "hero_subhead": "Mobile automotive repairs, logbook servicing and air conditioning for light and heavy vehicles across Perth. Licensed repairer MR810136.",
+    "about_headline": "Mobile workshop on wheels.",
+    "about": "Mech Mobile brings the workshop to your driveway or job site. Logbook services, engine repairs, brakes, tyres, batteries, suspension, air con re-gas and heavy diesel work. One call, wheels rolling.",
+    "band_headline": "Stuck roadside?",
+    "band_text": "Call now for breakdown assistance and on-site repairs. We cover Perth metro and surrounds.",
+    "gallery_captions": [
+      "Logbook servicing on-site",
+      "Engine and brake repairs",
+      "Air conditioning service",
+      "Heavy vehicle maintenance"
+    ],
+    "source": "https://www.linkedin.com/company/mech-mobile-pty-ltd",
+    "has_website": false,
+    "demo_flag": true,
+    "contact_note": "No public website or email. Phone and LinkedIn only.",
+    "services": [
+      {
+        "title": "Logbook servicing",
+        "desc": "Manufacturer-scheduled services at your home or workplace."
+      },
+      {
+        "title": "Repairs and diagnostics",
+        "desc": "Engine, brakes, suspension and general mechanical fault finding."
+      },
+      {
+        "title": "Air conditioning",
+        "desc": "Re-gas, leak detection, compressor and condenser work."
+      },
+      {
+        "title": "Heavy vehicles",
+        "desc": "Truck and diesel servicing and roadside breakdowns."
+      }
+    ]
+  },
+  {
+    "slug": "megs-dog-walking",
+    "name": "Meg's Dog Walking Service",
+    "logo_text": "MEG'S",
+    "industry": "Dog Walking",
+    "city": "Perth",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Professional dog walking, Perth",
+    "phone_raw": "+61422855420",
+    "phone_display": "0422 855 420",
+    "email": "",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and surrounds",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "One goal: a happy dog.",
+    "hero_subhead": "Meg is a professional dog walker based in Perth. Flexible service across a wide range of suburbs. Your pup gets outdoor time and plenty of attention.",
+    "about_headline": "Experienced, reliable and flexible.",
+    "about": "Meg's Dog Walking Service covers Perth with a focus on convenience for busy owners. Regular walks, ad-hoc bookings and green-space exercise so your dog comes home tired and content.",
+    "band_headline": "Busy week ahead?",
+    "band_text": "Call or message to set up a regular slot or book a one-off walk.",
+    "gallery_captions": [
+      "Park and trail walks",
+      "One-on-one attention",
+      "Flexible scheduling",
+      "Perth-wide coverage"
+    ],
+    "source": "https://meg-s-dog-walking-service.ueniweb.com/",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Regular walks",
+        "desc": "Weekly or daily slots to fit your schedule."
+      },
+      {
+        "title": "One-off walks",
+        "desc": "Cover busy days when you cannot get out."
+      },
+      {
+        "title": "Group or solo",
+        "desc": "Walks matched to your dog's social needs."
+      },
+      {
+        "title": "Wide coverage",
+        "desc": "Servicing suburbs across the Perth metro area."
+      }
+    ]
+  },
+  {
+    "slug": "paws-in-the-park",
+    "name": "Paws in the Park",
+    "logo_text": "PAWS",
+    "industry": "Dog Walking and Pet Sitting",
+    "city": "Perth",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Dog walking and pet sitting, Perth",
+    "phone_raw": "+61406540024",
+    "phone_display": "0406 540 024",
+    "email": "",
+    "address": "Perth, WA",
+    "service_area": "Perth metro",
+    "years": 8,
+    "rating": "5.0",
+    "hero_headline": "Your pets, cared for while you are away.",
+    "hero_subhead": "Professional dog walking and pet sitting across Perth. Keeping your pets comfortable and happy when you cannot be there.",
+    "about_headline": "Trusted with your fur family.",
+    "about": "Paws in the Park offers dog walking, pet sitting and in-home care for Perth pet owners. Reliable visits, updates while you are away, and animals treated like their own.",
+    "band_headline": "Going away for the weekend?",
+    "band_text": "Book early for peak periods. Call to discuss your pet's routine and get a quote.",
+    "gallery_captions": [
+      "Daily dog walks",
+      "In-home pet sitting",
+      "Holiday care visits",
+      "Happy Perth pups"
+    ],
+    "source": "https://www.perfectpets.com.au/profile/dog-walking-service/perth-wa-594",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Dog walking",
+        "desc": "Regular or one-off walks tailored to your dog's energy."
+      },
+      {
+        "title": "Pet sitting",
+        "desc": "In-home visits while you are at work or away."
+      },
+      {
+        "title": "Holiday care",
+        "desc": "Extended sitting for weekends and trips away."
+      },
+      {
+        "title": "Feeding and routines",
+        "desc": "Meals, medication and keeping to your pet's schedule."
+      }
+    ]
+  },
+  {
+    "slug": "that-girl-lashess",
+    "name": "that girl lashess",
+    "logo_text": "TGL",
+    "industry": "Lash Extensions",
+    "city": "Treeby",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash extensions, Treeby",
+    "phone_raw": "+61400000002",
+    "phone_display": "Book via Fresha",
+    "email": "",
+    "address": "Catseye Walk, Treeby WA 6164",
+    "service_area": "Treeby, Cockburn and southern suburbs",
+    "years": 2,
+    "rating": "5.0",
+    "hero_headline": "Lashes you will want to show off.",
+    "hero_subhead": "Home-based lash studio in Treeby. Classic, hybrid and volume sets in a calm, one-on-one space.",
+    "about_headline": "Thoughtful work, relaxed appointments.",
+    "about": "that girl lashess runs a home-based studio in Treeby focused on lash extensions and brow services. Every appointment is private, unhurried and tailored to the look you want.",
+    "band_headline": "Special event coming up?",
+    "band_text": "Book a full set or refill through Fresha. Message if you need advice on which style suits you.",
+    "gallery_captions": [
+      "Classic lash extensions",
+      "Hybrid and volume sets",
+      "Brow wax and tint",
+      "Home studio in Treeby"
+    ],
+    "source": "https://www.fresha.com/a/that-girl-lashess-treeby",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "No public phone or email. Fresha booking only. Demo for outreach.",
+    "services": [
+      {
+        "title": "Classic lashes",
+        "desc": "Natural-looking extensions, one lash at a time."
+      },
+      {
+        "title": "Hybrid and volume",
+        "desc": "Fuller looks for everyday or events."
+      },
+      {
+        "title": "Lash refills",
+        "desc": "Maintain your set every two to three weeks."
+      },
+      {
+        "title": "Brow services",
+        "desc": "Wax, shape and tint to frame your face."
+      }
+    ]
+  },
+  {
+    "slug": "yundie-dc-gardening",
+    "name": "Yundie DC Gardening and Mowing",
+    "logo_text": "YUNDIE",
+    "industry": "Gardening and Lawn Care",
+    "city": "Perth",
+    "image_set": "gardener",
+    "theme": "gardener",
+    "tagline": "Lawn mowing and gardening, Perth",
+    "phone_raw": "+61436438748",
+    "phone_display": "0436 438 748",
+    "email": "",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and northern suburbs",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Your lawn, handled.",
+    "hero_subhead": "James runs Yundie DC Gardening and Mowing across Perth. Mowing, edging, weeding, clean-ups and general garden maintenance. Free quotes by phone.",
+    "about_headline": "Reliable, local and fairly priced.",
+    "about": "Yundie DC Gardening and Mowing is a sole-trader gardening service run by James. Regular mowing schedules or one-off tidy-ups for rent inspections and overgrown yards. Fully insured, prompt and easy to book.",
+    "band_headline": "Need it done this week?",
+    "band_text": "Call or text James for a same-week quote. One-off jobs and ongoing schedules both welcome.",
+    "gallery_captions": [
+      "Lawn mowing and edging",
+      "Garden clean-ups",
+      "Weeding and maintenance",
+      "Regular scheduled visits"
+    ],
+    "source": "https://www.facebook.com/yundiedcgardening",
+    "has_website": false,
+    "demo_flag": true,
+    "services": [
+      {
+        "title": "Lawn mowing",
+        "desc": "Regular cuts or one-off mows for any block size."
+      },
+      {
+        "title": "Edging and trimming",
+        "desc": "Clean edges along paths, driveways and garden beds."
+      },
+      {
+        "title": "Garden clean-ups",
+        "desc": "Overgrown yards, green waste removal and pre-inspection tidies."
+      },
+      {
+        "title": "Ongoing maintenance",
+        "desc": "Weekly, fortnightly or monthly schedules to suit your yard."
+      }
     ]
   }
 ]
