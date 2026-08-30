@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous — not email backup)
 CHANNEL NOTE: Facebook PRIMARY
-DEMO: https://edisonrees.github.io/caisson-web/demos/cut-above-grooming/
+DEMO: https://edisonrees.github.io/macroa-web/demos/cut-above-grooming/
 TO: 0415 396 633 (text) or Cut Above Grooming Facebook
 Subject: website preview for Cut Above Grooming
 
@@ -14,7 +14,7 @@ I saw Cut Above Grooming on Facebook. Home-based grooming on Tremont Place with 
 
 I built a preview:
 
-https://edisonrees.github.io/caisson-web/demos/cut-above-grooming/
+https://edisonrees.github.io/macroa-web/demos/cut-above-grooming/
 
 Services, booking info, mobile friendly.
 

@@ -26,4 +26,4 @@ All outreach, websites, and client copy is written as **Edison**, a Perth web de
 
 ## Demo link base
 
-https://edisonrees.github.io/caisson-web/demos/[slug]/
+https://edisonrees.github.io/macroa-web/demos/[slug]/

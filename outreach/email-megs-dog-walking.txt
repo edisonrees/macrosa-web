@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
 PRIMARY: SMS (prefer/simultaneous — not email backup)
 CHANNEL NOTE: SMS PRIMARY (0422 855 420)
-DEMO: https://edisonrees.github.io/caisson-web/demos/megs-dog-walking/
+DEMO: https://edisonrees.github.io/macroa-web/demos/megs-dog-walking/
 TO: 0422 855 420
 Subject: website preview for Meg's Dog Walking
 
@@ -14,7 +14,7 @@ I found Meg's Dog Walking Service online. You have a basic free listing but noth
 
 I made a preview for you:
 
-https://edisonrees.github.io/caisson-web/demos/megs-dog-walking/
+https://edisonrees.github.io/macroa-web/demos/megs-dog-walking/
 
 Services, suburbs, contact form and call button.
 

@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous — not email backup)
 CHANNEL NOTE: Facebook PRIMARY (email fallback: info@kgplumbingandgas.com.au)
-DEMO: https://edisonrees.github.io/caisson-web/demos/kg-plumbing-gas/
+DEMO: https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
 TO: info@kgplumbingandgas.com.au
 Subject: put together a website preview for KG Plumbing and Gas
 
@@ -14,11 +14,11 @@ I found KG Plumbing and Gas on Facebook and noticed you are getting good work in
 
 I built a preview site for you anyway, no charge to look at it:
 
-https://edisonrees.github.io/caisson-web/demos/kg-plumbing-gas/
+https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
 
 It has your services, phone number, contact form and works on mobile.
 
-If you want it live properly I can do that for $650 one-off. That includes hosting setup and any small changes you want. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+If you want it live properly I can do that for $650 one-off. That includes hosting setup and any small changes you want. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 If it is not for you, no stress at all.
 
