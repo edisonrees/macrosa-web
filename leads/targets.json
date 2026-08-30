@@ -1,119 +1,82 @@
 [
   {
-    "slug": "historic-plumbing",
-    "name": "Historic Plumbing",
-    "industry": "Plumbing & Gas",
-    "city": "Perth",
-    "tagline": "Your one-stop call for plumbing & gas",
-    "phone_raw": "+61430290153",
-    "phone_display": "0430 290 153",
-    "email": "info@historicplumbing.com.au",
-    "address": "Perth, WA",
-    "service_area": "Perth metro & surrounds",
-    "years": 10,
-    "rating": "4.6",
-    "hero_headline": "Perth plumbing & gas — no job too big or small",
-    "hero_subhead": "General plumbing, gas fitting and maintenance from a trusted local operator. Call now for a free quote.",
-    "about": "Historic Plumbing is a Perth-based plumbing and gas specialist serving homeowners and businesses across the metro area. Known for reliable service and honest quotes.",
-    "source": "https://www.facebook.com/historicplumbing",
-    "has_website": false,
-    "contact_method": "phone_facebook",
-    "services": [
-      {"icon": "🔧", "title": "General Plumbing", "desc": "Leaks, taps, toilets, pipe repairs and maintenance."},
-      {"icon": "🔥", "title": "Gas Works", "desc": "Licensed gas fitting for appliances, heaters and compliance."},
-      {"icon": "🚿", "title": "Hot Water", "desc": "Repairs and replacements for all hot water systems."},
-      {"icon": "🏠", "title": "Residential & Commercial", "desc": "Homes, rentals, offices and small commercial sites."}
-    ],
-    "reviews": [
-      {"stars": 5, "text": "Reliable, turned up on time and sorted our gas heater quickly.", "author": "Perth homeowner"},
-      {"stars": 5, "text": "Fair pricing and good communication throughout.", "author": "Google reviewer"}
-    ]
-  },
-  {
     "slug": "kg-plumbing-gas",
     "name": "KG Plumbing and Gas",
-    "industry": "Plumbing & Gas",
-    "city": "Mandurah & Peel",
-    "tagline": "24/7 Plumbing & Gas · Mandurah to Pinjarra",
+    "industry": "Plumbing and Gas",
+    "city": "Mandurah and Peel",
+    "tagline": "24/7 Plumbing and Gas, Mandurah to Pinjarra",
     "phone_raw": "+617397882416",
     "phone_display": "0397 882 416",
     "email": "info@kgplumbingandgas.com.au",
     "address": "Dawesville, WA",
-    "service_area": "Mandurah, Dawesville, Pinjarra, Lake Clifton & Peel region",
+    "service_area": "Mandurah, Dawesville, Pinjarra, Lake Clifton and Peel region",
     "years": 8,
     "rating": "4.8",
-    "hero_headline": "Peel region plumbing you can trust — day or night",
-    "hero_subhead": "Blocked drains, hot water, gas fitting & emergency callouts. Free quotes, no job too big or small.",
-    "about": "KG Plumbing and Gas is a locally owned team based in Dawesville, servicing Mandurah through to Pinjarra and everywhere in between. We're available 24/7 for emergencies and take pride in honest pricing and clean workmanship.",
+    "hero_headline": "Peel region plumbing you can trust, day or night",
+    "hero_subhead": "Blocked drains, hot water, gas fitting and emergency callouts. Free quotes, no job too big or small.",
+    "about": "KG Plumbing and Gas is a locally owned team based in Dawesville, servicing Mandurah through to Pinjarra and everywhere in between. We are available 24/7 for emergencies and take pride in honest pricing and clean workmanship.",
     "source": "https://www.facebook.com/KGPlumbingandGas",
     "has_website": false,
     "services": [
-      {"icon": "🔧", "title": "General Plumbing", "desc": "Leaks, taps, toilets, pipe repairs and full bathroom renos."},
-      {"icon": "🔥", "title": "Gas Fitting", "desc": "Licensed gas work for heaters, cooktops, bayonets and compliance checks."},
-      {"icon": "🚿", "title": "Hot Water", "desc": "Repairs and replacements for electric, gas and instant systems."},
-      {"icon": "🚨", "title": "24/7 Emergencies", "desc": "Burst pipes, blocked drains and urgent callouts — we answer the phone."}
+      {"title": "General plumbing", "desc": "Leaks, taps, toilets, pipe repairs and full bathroom renos."},
+      {"title": "Gas fitting", "desc": "Licensed gas work for heaters, cooktops, bayonets and compliance checks."},
+      {"title": "Hot water", "desc": "Repairs and replacements for electric, gas and instant systems."},
+      {"title": "24/7 emergencies", "desc": "Burst pipes, blocked drains and urgent callouts. We answer the phone."}
     ],
-    "reviews": [
-      {"stars": 5, "text": "Best plumbing company around. Showed up fast and fixed our hot water same day.", "author": "Local customer"},
-      {"stars": 5, "text": "Reliable, fair pricing and great communication. Highly recommend.", "author": "Peel region homeowner"}
-    ]
+    "reviews": []
   },
   {
     "slug": "mh-plumbing-services",
     "name": "MH Plumbing Services",
     "industry": "Plumbing",
     "city": "Perth North",
-    "tagline": "Kitchen, bathroom & general plumbing",
+    "tagline": "Kitchen, bathroom and general plumbing",
     "phone_raw": "+61400000000",
     "phone_display": "Contact via Facebook",
     "email": "enquiries@mhplumbingservices.com.au",
     "address": "Mirrabooka, WA",
-    "service_area": "Mirrabooka, northern suburbs & Perth metro",
+    "service_area": "Mirrabooka, northern suburbs and Perth metro",
     "years": 12,
     "rating": "5.0",
-    "hero_headline": "Quality plumbing for Perth homes & renovations",
-    "hero_subhead": "From kitchen installs to full bathroom fit-outs — professional work, local reputation.",
+    "hero_headline": "Quality plumbing for Perth homes and renovations",
+    "hero_subhead": "From kitchen installs to full bathroom fit-outs. Professional work and a local reputation.",
     "about": "MH Plumbing Services is a trusted name in Perth's northern suburbs, known for renovation work and reliable general plumbing. Michael and the team deliver clean, professional results on every job.",
     "source": "https://www.facebook.com/profile.php?id=100061948034792",
     "has_website": false,
     "services": [
-      {"icon": "🍳", "title": "Kitchen Plumbing", "desc": "New kitchens, dishwashers, sinks and appliance connections."},
-      {"icon": "🛁", "title": "Bathroom Fit-outs", "desc": "Showers, vanities, toilets and full bathroom renovations."},
-      {"icon": "🔧", "title": "Repairs & Maintenance", "desc": "Leaks, blockages and general plumbing maintenance."},
-      {"icon": "✅", "title": "Renovation Support", "desc": "Work with builders and homeowners on new builds and extensions."}
+      {"title": "Kitchen plumbing", "desc": "New kitchens, dishwashers, sinks and appliance connections."},
+      {"title": "Bathroom fit-outs", "desc": "Showers, vanities, toilets and full bathroom renovations."},
+      {"title": "Repairs and maintenance", "desc": "Leaks, blockages and general plumbing maintenance."},
+      {"title": "Renovation support", "desc": "Work with builders and homeowners on new builds and extensions."}
     ],
     "reviews": [
-      {"stars": 5, "text": "New kitchen at Mirrabooka — looks the goods. Well done Michael!", "author": "Lauren F."},
-      {"stars": 5, "text": "Professional, tidy and on time. Would use again.", "author": "Perth homeowner"}
+      {"text": "New kitchen at Mirrabooka looks the goods. Well done Michael.", "author": "Lauren F.", "source": "Facebook comment"}
     ]
   },
   {
-    "slug": "neighbourhood-plumbing-gas",
-    "name": "Neighbourhood Plumbing & Gas",
-    "industry": "Plumbing, Gas & Electrical",
+    "slug": "jaymichel-hair",
+    "name": "Jaymichel Hair and Beauty",
+    "industry": "Hair and Beauty",
     "city": "Perth",
-    "tagline": "Plumbing, gas, electrical & hot water",
-    "phone_raw": "+61800000000",
-    "phone_display": "Contact for quote",
-    "email": "hello@neighbourhoodplumbing.com.au",
+    "tagline": "Hair and beauty, Perth",
+    "phone_raw": "+61418957020",
+    "phone_display": "0418 957 020",
+    "email": "hello.jaymichel@gmail.com",
     "address": "Perth, WA",
-    "service_area": "Perth metro & surrounding suburbs",
+    "service_area": "Perth metro",
     "years": 15,
-    "rating": "4.9",
-    "hero_headline": "One team for plumbing, gas & electrical",
-    "hero_subhead": "Water filtration, hot water, gas fitting and electrical — covered by locals who care.",
-    "about": "Neighbourhood Plumbing & Gas is a Perth-based team offering plumbing, gas and electrical services under one roof. From water filtration to hot water systems, we help homeowners and businesses stay running smoothly.",
-    "source": "https://www.facebook.com/NHOOD1",
+    "rating": "5.0",
+    "hero_headline": "Hair and beauty with a personal touch",
+    "hero_subhead": "Cuts, colour, styling and beauty services from Helen and the Jaymichel team.",
+    "about": "Jaymichel Hair and Beauty is run by Helen, offering hair and beauty services for clients across Perth. Friendly service, honest advice, and results you can walk out happy with.",
+    "source": "https://www.facebook.com/jaymichelhairandbeauty/",
     "has_website": false,
     "services": [
-      {"icon": "💧", "title": "Water Filtration", "desc": "Clean, filtered water systems for home and office."},
-      {"icon": "🔥", "title": "Hot Water Systems", "desc": "Install, repair and replace all major hot water brands."},
-      {"icon": "⚡", "title": "Electrical", "desc": "General electrical work alongside our plumbing & gas team."},
-      {"icon": "🔧", "title": "Plumbing & Gas", "desc": "Full-service plumbing and licensed gas fitting across Perth."}
+      {"title": "Haircuts and styling", "desc": "Cuts, blow dries and everyday styling."},
+      {"title": "Colour and treatments", "desc": "Colour, highlights, toners and conditioning treatments."},
+      {"title": "Beauty services", "desc": "Brows, lashes and selected beauty treatments."},
+      {"title": "Special occasions", "desc": "Formal, wedding and event hair by appointment."}
     ],
-    "reviews": [
-      {"stars": 5, "text": "Great team — sorted our hot water and filtration in one visit.", "author": "Perth customer"},
-      {"stars": 5, "text": "Reliable and easy to deal with. Fair quotes.", "author": "Local business owner"}
-    ]
+    "reviews": []
   }
 ]
