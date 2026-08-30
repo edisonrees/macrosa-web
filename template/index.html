@@ -25,8 +25,8 @@
 
   <main id="top">
     <section class="hero">
-      <div class="hero-banner shield">
-        <img src="{{HERO_IMAGE}}" alt="" draggable="false" />
+      <div class="hero-banner shield img-load">
+        <img src="{{HERO_IMAGE}}" alt="" draggable="false" data-img />
         <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
         <div class="hero-fade" aria-hidden="true"></div>
       </div>
@@ -47,10 +47,35 @@
       </div>
     </section>
 
+    <section class="trust-strip" aria-label="Why choose us">
+      <ul class="trust-rail">
+        <li>
+          <span class="trust-mark">01</span>
+          <h3>Licensed and insured</h3>
+          <p>Qualified work with proper coverage on every job.</p>
+        </li>
+        <li>
+          <span class="trust-mark">02</span>
+          <h3>Local to {{CITY}}</h3>
+          <p>We know the area and show up when we say we will.</p>
+        </li>
+        <li>
+          <span class="trust-mark">03</span>
+          <h3>Upfront quotes</h3>
+          <p>Clear pricing before we start. No surprise invoices.</p>
+        </li>
+        <li>
+          <span class="trust-mark">04</span>
+          <h3>Real people answer</h3>
+          <p>Call {{PHONE_DISPLAY}} and talk to someone who can help.</p>
+        </li>
+      </ul>
+    </section>
+
     <section id="about" class="section about">
       <div class="about-grid">
-        <figure class="about-photo shield reveal">
-          <img src="{{ABOUT_IMAGE}}" alt="{{BUSINESS_NAME}}" draggable="false" />
+        <figure class="about-photo shield img-load reveal">
+          <img src="{{ABOUT_IMAGE}}" alt="{{BUSINESS_NAME}}" draggable="false" data-img />
           <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
         </figure>
         <div class="about-copy reveal">
@@ -84,16 +109,24 @@
         <h2>{{GALLERY_HEADLINE}}</h2>
         <p class="section-lede">{{GALLERY_SUBHEAD}}</p>
       </div>
-      <div class="carousel reveal" data-carousel>
-        <div class="carousel-viewport">
-          <div class="carousel-track">
-            {{GALLERY_HTML}}
-          </div>
+      <div class="gallery-layout">
+        <div class="gallery-mosaic reveal" aria-hidden="true">
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-1.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-2.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-3.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-4.jpg" alt="" loading="lazy" data-img /></figure>
         </div>
-        <div class="carousel-controls">
-          <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous slide">←</button>
-          <div class="carousel-dots" data-carousel-dots></div>
-          <button type="button" class="carousel-btn" data-carousel-next aria-label="Next slide">→</button>
+        <div class="carousel reveal" data-carousel>
+          <div class="carousel-viewport">
+            <div class="carousel-track">
+              {{GALLERY_HTML}}
+            </div>
+          </div>
+          <div class="carousel-controls">
+            <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous slide">Prev</button>
+            <div class="carousel-dots" data-carousel-dots></div>
+            <button type="button" class="carousel-btn" data-carousel-next aria-label="Next slide">Next</button>
+          </div>
         </div>
       </div>
     </section>

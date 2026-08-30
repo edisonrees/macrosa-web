@@ -10,6 +10,7 @@
     const prev = root.querySelector("[data-carousel-prev]");
     const next = root.querySelector("[data-carousel-next]");
     const dotsHost = root.querySelector("[data-carousel-dots]");
+    const thumbs = [...root.querySelectorAll("[data-gallery-thumb]")];
     if (!track || slides.length === 0) return;
 
     let index = 0;
@@ -25,11 +26,18 @@
       return dot;
     });
 
+    const syncThumbs = () => {
+      thumbs.forEach((t, n) => t.classList.toggle("is-active", n === index));
+    };
+
     const go = (i) => {
       index = (i + slides.length) % slides.length;
       track.style.transform = `translateX(-${index * 100}%)`;
       dots.forEach((d, n) => d.classList.toggle("is-active", n === index));
+      syncThumbs();
     };
+
+    thumbs.forEach((t, i) => t.addEventListener("click", () => go(i)));
 
     prev?.addEventListener("click", () => go(index - 1));
     next?.addEventListener("click", () => go(index + 1));
@@ -55,7 +63,7 @@
     const autoplay = () => {
       if (reduced || slides.length < 2) return;
       clearInterval(timer);
-      timer = setInterval(() => go(index + 1), 6000);
+      timer = setInterval(() => go(index + 1), 6500);
     };
 
     root.addEventListener("mouseenter", () => clearInterval(timer));

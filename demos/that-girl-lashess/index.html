@@ -29,8 +29,8 @@
 
   <main id="top">
     <section class="hero">
-      <div class="hero-banner shield">
-        <img src="assets/hero.jpg" alt="" draggable="false" />
+      <div class="hero-banner shield img-load">
+        <img src="assets/hero.jpg" alt="" draggable="false" data-img />
         <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
         <div class="hero-fade" aria-hidden="true"></div>
       </div>
@@ -51,10 +51,35 @@
       </div>
     </section>
 
+    <section class="trust-strip" aria-label="Why choose us">
+      <ul class="trust-rail">
+        <li>
+          <span class="trust-mark">01</span>
+          <h3>Licensed and insured</h3>
+          <p>Qualified work with proper coverage on every job.</p>
+        </li>
+        <li>
+          <span class="trust-mark">02</span>
+          <h3>Local to Treeby</h3>
+          <p>We know the area and show up when we say we will.</p>
+        </li>
+        <li>
+          <span class="trust-mark">03</span>
+          <h3>Upfront quotes</h3>
+          <p>Clear pricing before we start. No surprise invoices.</p>
+        </li>
+        <li>
+          <span class="trust-mark">04</span>
+          <h3>Real people answer</h3>
+          <p>Call Book via Fresha and talk to someone who can help.</p>
+        </li>
+      </ul>
+    </section>
+
     <section id="about" class="section about">
       <div class="about-grid">
-        <figure class="about-photo shield reveal">
-          <img src="assets/about.jpg" alt="that girl lashess" draggable="false" />
+        <figure class="about-photo shield img-load reveal">
+          <img src="assets/about.jpg" alt="that girl lashess" draggable="false" data-img />
           <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
         </figure>
         <div class="about-copy reveal">
@@ -115,35 +140,43 @@
         <h2>Work we stand behind</h2>
         <p class="section-lede">A sample of the kind of jobs we take on every week across the local area.</p>
       </div>
-      <div class="carousel reveal" data-carousel>
-        <div class="carousel-viewport">
-          <div class="carousel-track">
-            <figure class="carousel-slide shield">
-  <img src="assets/gallery-1.jpg" alt="Classic lash extensions" draggable="false" loading="lazy" />
+      <div class="gallery-layout">
+        <div class="gallery-mosaic reveal" aria-hidden="true">
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-1.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-2.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-3.jpg" alt="" loading="lazy" data-img /></figure>
+          <figure class="gallery-thumb shield img-load"><img src="assets/gallery-4.jpg" alt="" loading="lazy" data-img /></figure>
+        </div>
+        <div class="carousel reveal" data-carousel>
+          <div class="carousel-viewport">
+            <div class="carousel-track">
+              <figure class="carousel-slide shield img-loading">
+  <img src="assets/gallery-1.jpg" alt="Classic lash extensions" draggable="false" loading="lazy" data-img-load />
   <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
   <figcaption>Classic lash extensions</figcaption>
 </figure>
-            <figure class="carousel-slide shield">
-  <img src="assets/gallery-2.jpg" alt="Hybrid and volume sets" draggable="false" loading="lazy" />
+              <figure class="carousel-slide shield img-loading">
+  <img src="assets/gallery-2.jpg" alt="Hybrid and volume sets" draggable="false" loading="lazy" data-img-load />
   <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
   <figcaption>Hybrid and volume sets</figcaption>
 </figure>
-            <figure class="carousel-slide shield">
-  <img src="assets/gallery-3.jpg" alt="Brow wax and tint" draggable="false" loading="lazy" />
+              <figure class="carousel-slide shield img-loading">
+  <img src="assets/gallery-3.jpg" alt="Brow wax and tint" draggable="false" loading="lazy" data-img-load />
   <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
   <figcaption>Brow wax and tint</figcaption>
 </figure>
-            <figure class="carousel-slide shield">
-  <img src="assets/gallery-4.jpg" alt="Home studio in Treeby" draggable="false" loading="lazy" />
+              <figure class="carousel-slide shield img-loading">
+  <img src="assets/gallery-4.jpg" alt="Home studio in Treeby" draggable="false" loading="lazy" data-img-load />
   <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
   <figcaption>Home studio in Treeby</figcaption>
 </figure>
+            </div>
           </div>
-        </div>
-        <div class="carousel-controls">
-          <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous slide">←</button>
-          <div class="carousel-dots" data-carousel-dots></div>
-          <button type="button" class="carousel-btn" data-carousel-next aria-label="Next slide">→</button>
+          <div class="carousel-controls">
+            <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous slide">Prev</button>
+            <div class="carousel-dots" data-carousel-dots></div>
+            <button type="button" class="carousel-btn" data-carousel-next aria-label="Next slide">Next</button>
+          </div>
         </div>
       </div>
     </section>

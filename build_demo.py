@@ -98,11 +98,42 @@ def service_item(num: int, title: str, desc: str) -> str:
 
 
 def gallery_slide(src: str, caption: str) -> str:
-    return f"""<figure class="carousel-slide shield">
-  <img src="{src}" alt="{caption}" draggable="false" loading="lazy" />
+    return f"""<figure class="carousel-slide shield img-loading">
+  <img src="{src}" alt="{caption}" draggable="false" loading="lazy" data-img-load />
   <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
   <figcaption>{caption}</figcaption>
 </figure>"""
+
+
+def gallery_thumb(src: str, caption: str, index: int) -> str:
+    active = " is-active" if index == 0 else ""
+    return f"""<button type="button" class="gallery-thumb{active}" data-gallery-thumb aria-label="{caption}">
+  <img src="{src}" alt="" loading="lazy" />
+  <span>{caption}</span>
+</button>"""
+
+
+def faq_item(question: str, answer: str) -> str:
+    return f"""<div class="reveal">
+  <dt>{question}</dt>
+  <dd>{answer}</dd>
+</div>"""
+
+
+DEFAULT_FAQ = [
+    (
+        "Do you offer free quotes?",
+        "Yes. We can usually give you a ballpark over the phone and confirm after seeing the job if needed.",
+    ),
+    (
+        "What areas do you cover?",
+        "We work across our local service area. Call or message with your suburb and we will confirm availability.",
+    ),
+    (
+        "Are you licensed and insured?",
+        "Yes. We carry the licences and insurance required for this trade and can talk you through it on request.",
+    ),
+]
 
 
 def apply(content: str, mapping: dict[str, str]) -> str:
@@ -139,10 +170,19 @@ def build_site(lead: dict) -> Path:
 
     gallery = lead.get("gallery_captions", [])
     gallery_paths = [f"assets/gallery-{i}.jpg" for i in range(1, 5)]
-    gallery_html = "\n            ".join(
-        gallery_slide(path, gallery[i] if i < len(gallery) else f"Recent work by {lead['name']}")
-        for i, path in enumerate(gallery_paths)
+    gallery_captions = [
+        gallery[i] if i < len(gallery) else f"Recent work by {lead['name']}"
+        for i in range(len(gallery_paths))
+    ]
+    gallery_html = "\n              ".join(
+        gallery_slide(path, caption) for path, caption in zip(gallery_paths, gallery_captions)
     )
+    gallery_thumbs_html = "\n          ".join(
+        gallery_thumb(path, caption, i) for i, (path, caption) in enumerate(zip(gallery_paths, gallery_captions))
+    )
+
+    faq_entries = lead.get("faq") or DEFAULT_FAQ
+    faq_html = "\n        ".join(faq_item(q, a) for q, a in faq_entries)
 
     logo = lead.get("logo_text") or lead["name"].split()[0].upper()
 
@@ -191,6 +231,8 @@ def build_site(lead: dict) -> Path:
         ),
         "{{SERVICES_HTML}}": services_html,
         "{{GALLERY_HTML}}": gallery_html,
+        "{{GALLERY_THUMBS_HTML}}": gallery_thumbs_html,
+        "{{FAQ_HTML}}": faq_html,
     }
 
     for fname in ("index.html", "privacy.html", "terms.html"):
@@ -203,10 +245,16 @@ def build_site(lead: dict) -> Path:
 
 def main() -> None:
     leads_file = ROOT / "leads" / "targets.json"
-    if len(sys.argv) > 1:
-        leads_file = Path(sys.argv[1])
+    slug_filter: set[str] = set()
+    args = sys.argv[1:]
+    if args and not args[0].endswith(".json"):
+        slug_filter = set(args)
+    elif args:
+        leads_file = Path(args[0])
 
     leads = json.loads(leads_file.read_text(encoding="utf-8"))
+    if slug_filter:
+        leads = [lead for lead in leads if lead["slug"] in slug_filter]
     built = []
     for lead in leads:
         path = build_site(lead)
