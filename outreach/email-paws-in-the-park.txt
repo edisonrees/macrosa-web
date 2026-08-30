@@ -1,9 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous, not email backup)
-CHANNEL NOTE: SMS PRIMARY (0406 540 024)
+CHANNEL: Facebook
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY (Paws in the Park Facebook)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/paws-in-the-park/
-TO: 0406 540 024
+TO: Paws in the Park Facebook Messenger
 Subject: website preview for Paws in the Park
 
 Hi,

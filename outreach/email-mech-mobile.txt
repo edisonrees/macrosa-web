@@ -1,9 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous, not email backup)
-CHANNEL NOTE: SMS PRIMARY (0407 878 188)
+CHANNEL: Facebook
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY — no public page found; DM if listed or call 0407 878 188
 DEMO: https://edisonrees.github.io/macrosa-web/demos/mech-mobile/
-TO: 0407 878 188
+TO: Mech Mobile Facebook Messenger (or call 0407 878 188)
 Subject: website preview for Mech Mobile
 
 Hi,

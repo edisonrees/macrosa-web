@@ -1,16 +1,16 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous, not email backup)
-CHANNEL NOTE: SMS PRIMARY (0436 438 748)
+CHANNEL: Facebook
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY (Yundie DC Gardening Facebook)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/yundie-dc-gardening/
-TO: 0436 438 748
+TO: Yundie DC Gardening Facebook Messenger
 Subject: website preview for Yundie DC Gardening
 
 Hi James,
 
 I am Edison, a web developer in Perth.
 
-I came across Yundie DC Gardening and Mowing. Sole trader lawn care with no website, which means Hipages and word of mouth are doing all the work.
+I came across Yundie DC Gardening and Mowing on Facebook. Sole trader lawn care with no website, which means Hipages and word of mouth are doing all the work.
 
 I put together a simple preview:
 

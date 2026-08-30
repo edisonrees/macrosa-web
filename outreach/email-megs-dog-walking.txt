@@ -1,9 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous, not email backup)
-CHANNEL NOTE: SMS PRIMARY (0422 855 420)
+CHANNEL: Facebook
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY (Meg's Dog Walking Facebook)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/megs-dog-walking/
-TO: 0422 855 420
+TO: Meg's Dog Walking Service Facebook Messenger
 Subject: website preview for Meg's Dog Walking
 
 Hi Meg,

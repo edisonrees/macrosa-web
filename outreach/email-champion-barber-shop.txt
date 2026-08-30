@@ -1,9 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous, not email backup)
-CHANNEL NOTE: SMS PRIMARY (0470 135 042), Facebook simultaneous if listed
+CHANNEL: Facebook
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY (Champion Barber Shop Facebook)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/champion-barber-shop/
-TO: 0470 135 042 or Champion Barber Shop Facebook
+TO: Champion Barber Shop Facebook Messenger
 Subject: website preview for Champion Barber Shop
 
 Hi,
