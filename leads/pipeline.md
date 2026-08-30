@@ -25,14 +25,14 @@
 | that girl lashess | Fresha | No | ✅ | ✅ | Instagram | Ready |
 | Lash Generation | Fresha | No | ✅ | ✅ | Instagram | Ready |
 | B The Barber | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| PureFlow Plumbing and Gas | 0409 477 183 | No (IG) | ✅ | ✅ | Instagram | Ready |
-| _LashesbyMonique | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| Amy J Lash and Beauty | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| Lashes By Aimee Tahlia | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| Alexandria Gardens | IG/email | No | ✅ | ✅ | Instagram | Ready |
-| Larissa's Barbershop | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| Miiso Nail Studio | Fresha | No | ✅ | ✅ | Instagram | Ready |
-| Studio B Nails.Co | Fresha | No | ✅ | ✅ | Instagram | Ready |
+| PureFlow Plumbing and Gas | 0409 477 183 | No (IG) | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| _LashesbyMonique | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Amy J Lash and Beauty | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Lashes By Aimee Tahlia | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Alexandria Gardens | IG/email | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Larissa's Barbershop | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Miiso Nail Studio | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
+| Studio B Nails.Co | Fresha | No | ✅ | ✅ | Instagram | Ready (browsermcp blocked IG) |
 
 ## Contact channel priority
 
