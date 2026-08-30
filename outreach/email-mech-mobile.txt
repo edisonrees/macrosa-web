@@ -1,6 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous — not email backup)
+PRIMARY: SMS (prefer/simultaneous, not email backup)
 CHANNEL NOTE: SMS PRIMARY (0407 878 188)
 DEMO: https://edisonrees.github.io/macroa-web/demos/mech-mobile/
 TO: 0407 878 188
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/mech-mobile/
 
 Services, call button, contact form, mobile layout.
 
-$650 one-off to deploy it properly. Happy to adjust copy with you. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to deploy it properly. Happy to adjust copy with you. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 If it is not for you, no worries at all.
 

@@ -1,7 +1,7 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
-CHANNEL NOTE: Facebook PRIMARY — Facebook only
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY, Facebook only
 DEMO: https://edisonrees.github.io/macroa-web/demos/canham-eatery/
 TO: 08 9343 3931 (also trading as The Dirty Swine)
 Subject: website preview for Canham Eatery
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/canham-eatery/
 
 Menu highlights, hours, location and contact form. Mobile friendly for people walking past.
 
-$650 one-off to go live properly. I can update it when your menu changes. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to go live properly. I can update it when your menu changes. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 No stress if you are not interested.
 

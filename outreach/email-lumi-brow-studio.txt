@@ -1,7 +1,7 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-PRIMARY: Instagram (prefer/simultaneous — not email backup)
-CHANNEL NOTE: Instagram PRIMARY — Fresha booking only
+PRIMARY: Instagram (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Instagram PRIMARY, Fresha booking only
 DEMO: https://edisonrees.github.io/macroa-web/demos/lumi-brow-studio/
 TO: Lumi Brow Studio Fresha (Coodanup)
 Subject: website preview for Lumi Brow Studio
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/lumi-brow-studio/
 
 Services, studio info and contact form on mobile.
 
-$650 one-off to deploy. Good for Google visibility in the Peel. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to deploy. Good for Google visibility in the Peel. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 Ignore if not useful.
 

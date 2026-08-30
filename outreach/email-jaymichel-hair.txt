@@ -1,6 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY (corporate email may DMARC-block @gmail.com)
 DEMO: https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
 TO: hello.jaymichel@gmail.com

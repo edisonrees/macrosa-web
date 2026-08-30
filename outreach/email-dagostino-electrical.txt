@@ -1,9 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY
 DEMO: https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
-TO: D'Agostino Electrical Facebook page (or call 0400 236 886)
+TO: dagostinoelectrical@bigpond.com
 Subject: website preview for D'Agostino Electrical
 
 Hi Peter,

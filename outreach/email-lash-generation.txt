@@ -1,7 +1,7 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-PRIMARY: Instagram (prefer/simultaneous — not email backup)
-CHANNEL NOTE: Instagram PRIMARY — Fresha booking only
+PRIMARY: Instagram (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Instagram PRIMARY, Fresha booking only
 DEMO: https://edisonrees.github.io/macroa-web/demos/lash-generation/
 TO: Lash Generation Fresha (Gwelup)
 Subject: website preview for Lash Generation
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/lash-generation/
 
 Lash services, booking prompt and mobile layout.
 
-$650 one-off if you want your own site. I can add your real photos. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off if you want your own site. I can add your real photos. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 No obligation.
 

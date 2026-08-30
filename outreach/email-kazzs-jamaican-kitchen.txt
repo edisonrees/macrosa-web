@@ -1,6 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY
 DEMO: https://edisonrees.github.io/macroa-web/demos/kazzs-jamaican-kitchen/
 TO: kazzsjamaicankitchen@gmail.com
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/kazzs-jamaican-kitchen/
 
 Catering services, menu highlights, contact form and mobile layout for event enquiries.
 
-$650 one-off to go live. Easier for wedding and corporate clients to take you seriously. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to go live. Easier for wedding and corporate clients to take you seriously. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 Let me know what you think.
 

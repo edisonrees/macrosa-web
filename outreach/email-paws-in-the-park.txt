@@ -1,6 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous — not email backup)
+PRIMARY: SMS (prefer/simultaneous, not email backup)
 CHANNEL NOTE: SMS PRIMARY (0406 540 024)
 DEMO: https://edisonrees.github.io/macroa-web/demos/paws-in-the-park/
 TO: 0406 540 024
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/paws-in-the-park/
 
 Walking, sitting, contact form and mobile layout.
 
-$650 one-off to go live. Helps when people search dog walker Perth instead of scrolling Facebook groups. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to go live. Helps when people search dog walker Perth instead of scrolling Facebook groups. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 No obligation to reply.
 

@@ -4,7 +4,7 @@ SECONDARY: after FB Messenger (same day)
 PROFILE: https://www.instagram.com/dagostinoelectrical/
 DEMO: https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
 
-Hi Peter, quick one — I'm Edison from Caisson (web dev in Perth).
+Hi Peter, quick one. I'm Edison from Caisson (web dev in Perth).
 
 Built a free site preview for D'Agostino Electrical:
 https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/

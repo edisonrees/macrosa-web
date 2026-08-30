@@ -1,7 +1,7 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
-CHANNEL NOTE: Facebook PRIMARY — profile only, no public phone or email
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook PRIMARY, profile only, no public phone or email
 DEMO: https://edisonrees.github.io/macroa-web/demos/mh-plumbing-services/
 
 Hi,
@@ -16,7 +16,7 @@ https://edisonrees.github.io/macroa-web/demos/mh-plumbing-services/
 
 It covers your services, contact details and works on mobile.
 
-If you want it live properly I can do that for $650 one-off. Hosting setup and small tweaks included. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+If you want it live properly I can do that for $650 one-off. Hosting setup and small tweaks included. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 No stress if it is not for you.
 

@@ -1,6 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous — not email backup)
+PRIMARY: SMS (prefer/simultaneous, not email backup)
 CHANNEL NOTE: SMS PRIMARY (0422 855 420)
 DEMO: https://edisonrees.github.io/macroa-web/demos/megs-dog-walking/
 TO: 0422 855 420
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/megs-dog-walking/
 
 Services, suburbs, contact form and call button.
 
-$650 one-off if you want it live. I can swap in photos of dogs you walk (with owner permission). Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off if you want it live. I can swap in photos of dogs you walk (with owner permission). Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 No worries if you are not interested.
 

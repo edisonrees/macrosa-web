@@ -6,12 +6,12 @@ DEMO: https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
 
 Hi Helen, quick one.
 
-I am Edison from Caisson, web developer in Perth. I came across Jaymichel Hair and Beauty on Facebook — great reviews, but no standalone website, which makes it harder for new clients to find you outside social.
+I am Edison from Caisson, web developer in Perth. I came across Jaymichel Hair and Beauty on Facebook. Great reviews, but no standalone website, which makes it harder for new clients to find you outside social.
 
 I built a free preview for you:
 https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back — just ask. If not, no worries at all.
+If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, no worries at all.
 
 Cheers,
 Edison Rees

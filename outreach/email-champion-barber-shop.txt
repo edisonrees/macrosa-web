@@ -1,7 +1,7 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-PRIMARY: SMS (prefer/simultaneous — not email backup)
-CHANNEL NOTE: SMS PRIMARY (0470 135 042) — Facebook simultaneous if listed
+PRIMARY: SMS (prefer/simultaneous, not email backup)
+CHANNEL NOTE: SMS PRIMARY (0470 135 042), Facebook simultaneous if listed
 DEMO: https://edisonrees.github.io/macroa-web/demos/champion-barber-shop/
 TO: 0470 135 042 or Champion Barber Shop Facebook
 Subject: website preview for Champion Barber Shop
@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/champion-barber-shop/
 
 Cuts, booking info, map area and phone number on mobile.
 
-$650 one-off to go live before you pay for ads. Easy for locals to find hours and services. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
+$650 one-off to go live before you pay for ads. Easy for locals to find hours and services. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
 
 Ignore this if you are not keen.
 

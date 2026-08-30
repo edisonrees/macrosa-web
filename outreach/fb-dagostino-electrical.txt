@@ -6,12 +6,12 @@ DEMO: https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
 
 Hi Peter, quick one.
 
-I am Edison from Caisson, web developer in Perth. I found D'Agostino Electrical on Facebook — good reviews around Wanneroo but no proper website, so people searching Google still land on directories instead of you.
+I am Edison from Caisson, web developer in Perth. I found D'Agostino Electrical on Facebook. Good reviews around Wanneroo but no proper website, so people searching Google still land on directories instead of you.
 
 I built a free preview for you:
 https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back — just ask. If not, no worries.
+If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, no worries.
 
 Cheers,
 Edison Rees
