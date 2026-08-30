@@ -2606,5 +2606,42 @@
         "desc": "Quick response for walls and fences."
       }
     ]
+  },
+  {
+    "slug": "caisson-ai",
+    "name": "Caisson",
+    "logo_text": "CAISSON",
+    "industry": "Web development",
+    "city": "Perth",
+    "theme": "plumber",
+    "tagline": "Perth websites for local businesses",
+    "email": "freddison200@gmail.com",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and surrounds",
+    "hero_headline": "Sites that win more calls for local businesses.",
+    "hero_subhead": "Clean, mobile-ready websites for Perth tradies, salons, and small businesses. Free preview first.",
+    "source": "https://instagram.com/caissonai",
+    "has_website": true,
+    "website_url": "https://edisonrees.github.io/macrosa-web/demos/caisson-ai/",
+    "demo_ready": true,
+    "internal": true,
+    "services": [
+      {
+        "title": "Business websites",
+        "desc": "One-page sites built around your services, hours, and contact details."
+      },
+      {
+        "title": "Mobile-first design",
+        "desc": "Sticky header, click-to-call, contact form. Built for phones."
+      },
+      {
+        "title": "Live previews",
+        "desc": "Working draft with your business name before you commit."
+      },
+      {
+        "title": "Launch and handover",
+        "desc": "Publish, connect domain, one-off invoice. The site is yours."
+      }
+    ]
   }
 ]
