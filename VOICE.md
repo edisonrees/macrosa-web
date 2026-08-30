@@ -21,8 +21,10 @@ All outreach, websites, and client copy is written as **Edison**, a Perth web de
 
 ## Pricing anchor
 
-- Standard site: $650 one-off (aim $650–800)
-- Offer "good bloke discount" in outreach if price is the blocker
+- **Basic:** $180 one-off (mobile site, contact form, deployment)
+- **Medium:** $250 one-off (Basic + support, Google indexing, custom URL; client pays domain upfront)
+- **Advanced:** $400 one-off (3-day sprint, scope defined together)
+- Surprise discount for nice people only on call. Never mention in outreach.
 
 ## Demo link base
 

@@ -1,6 +1,6 @@
 # Outreach review index (Caisson)
 
-**17 drafts** · Pricing: **Basic $180 / Medium $250** (tier matched per lead) · **IG/FB PRIMARY** where noted · Urgency: previews rebuilt with upgraded tooling tomorrow evening
+**17 drafts** · Pricing: **Basic $180 / Medium $250** (tier matched per lead) · **IG/FB PRIMARY** where noted · Urgency: previews rebuilt with upgraded tooling tomorrow at 7pm Perth
 
 | # | Business | Slug | Channel | Demo URL | Pitch hook | Tier | File |
 |---|----------|------|---------|----------|------------|------|------|
@@ -37,7 +37,7 @@
 | **Advanced** | $400 | 3-day sprint, scope defined together |
 
 - Outreach leads with **Basic $180** (tradies, SMS leads) or **Medium $250** (salons, cafes, SEO/domain angle).
-- Urgency line in every draft: rebuilding previews with upgraded tooling **tomorrow evening** (Perth).
+- Urgency line in every draft: rebuilding previews with upgraded tooling **tomorrow at 7pm Perth**.
 - **No good bloke discount** in any customer copy (surprise-and-delight only on call).
 
 ## Do not send

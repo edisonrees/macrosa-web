@@ -31,9 +31,10 @@
 
 ## Pricing (Caisson)
 
-- Standard site: **$650 one-off** (anchor high)
-- Scope-dependent: up to **$800**
-- **Good bloke discount** available in outreach if price is the blocker
+- **Basic:** $180 one-off
+- **Medium:** $250 one-off (support, Google indexing, custom URL)
+- **Advanced:** $400 one-off (3-day sprint scope)
+- Goal: $1,000 to $2,000 AUD in 3 days via volume + upsells
 
 ## Revenue tracker
 

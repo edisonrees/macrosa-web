@@ -23,35 +23,35 @@ EMAIL_MEDIUM = (
     "If you want it live, Medium is $250 one-off: everything in Basic plus basic support, "
     "Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). "
     "Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling "
-    "tomorrow evening, so shout if you want this version locked in."
+    "tomorrow at 7pm Perth, so shout if you want this version locked in."
 )
 
 EMAIL_BASIC = (
     "If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. "
     "Medium is $250 if you want basic support, Google indexing, and your own domain. "
-    "I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in."
+    "I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this version locked in."
 )
 
 FB_MEDIUM = (
     "If you like it I can get it live from $250 one-off (Medium: basic support, Google indexing, your own domain). "
-    "Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow evening, "
+    "Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, "
     "so shout if you want this one locked in."
 )
 
 FB_BASIC = (
     "If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, "
-    "Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, "
+    "Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, "
     "so shout if you want this one locked in."
 )
 
 IG_MEDIUM = (
     "$250 one-off (Medium: basic support, Google indexing, your own domain) if you want it live. "
-    "Basic is $180. Rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in."
+    "Basic is $180. Rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in."
 )
 
 IG_BASIC = (
     "$180 one-off (Basic) if you want it live. Medium is $250 with support, Google indexing, and your own domain. "
-    "Rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in."
+    "Rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in."
 )
 
 PRICE_LINE = re.compile(

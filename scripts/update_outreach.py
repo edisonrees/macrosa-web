@@ -20,13 +20,13 @@ EMAIL_MEDIUM = (
     "If you want it live, Medium is $250 one-off: everything in Basic plus basic support, "
     "Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). "
     "Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling "
-    "tomorrow evening, so shout if you want this version locked in."
+    "tomorrow at 7pm Perth, so shout if you want this version locked in."
 )
 
 EMAIL_BASIC = (
     "If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. "
     "Medium is $250 if you want basic support, Google indexing, and your own domain. "
-    "I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in."
+    "I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this version locked in."
 )
 
 SIGNATURE = """Cheers,
@@ -143,7 +143,7 @@ I am Edison from Caisson, web developer in Perth. I noticed you are on Facebook 
 I built a free preview for you here:
 https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
 
-If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
+If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 
 Cheers,
 Edison Rees

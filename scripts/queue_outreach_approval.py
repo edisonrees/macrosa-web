@@ -34,7 +34,7 @@ def queue(text: str) -> None:
 
 
 MESSAGES = [
-    """**OUTREACH APPROVAL 1/3 — Jaymichel Hair and Beauty**
+    """**OUTREACH APPROVAL 1/3: Jaymichel Hair and Beauty**
 
 **Channels found**
 • Facebook: https://www.facebook.com/jaymichelhairandbeauty/ (PRIMARY)
@@ -43,7 +43,7 @@ MESSAGES = [
 • Phone: 0418 957 020 (not sending SMS unless you say)
 
 **Demo:** https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
-**Price:** $650 one-off + good bloke discount
+**Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---
 **FB Messenger** (send first)
@@ -65,7 +65,7 @@ MESSAGES = [
 ```
 
 Reply **approve jaymichel** / **edit jaymichel** / **skip jaymichel**""",
-    """**OUTREACH APPROVAL 2/3 — KG Plumbing and Gas**
+    """**OUTREACH APPROVAL 2/3: KG Plumbing and Gas**
 
 **Channels found**
 • Facebook: https://www.facebook.com/KGPlumbingandGas (PRIMARY — 1K followers)
@@ -74,7 +74,7 @@ Reply **approve jaymichel** / **edit jaymichel** / **skip jaymichel**""",
 • Phone: 0432 172 527 (FB; targets had old landline)
 
 **Demo:** https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
-**Price:** $650 one-off + good bloke discount
+**Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---
 **FB Messenger** (send first)
@@ -90,7 +90,7 @@ Reply **approve jaymichel** / **edit jaymichel** / **skip jaymichel**""",
 ```
 
 Reply **approve kg** / **edit kg** / **skip kg**""",
-    """**OUTREACH APPROVAL 3/3 — D'Agostino Electrical**
+    """**OUTREACH APPROVAL 3/3: D'Agostino Electrical**
 
 **Channels found**
 • Facebook: https://www.facebook.com/dagostinoelectrical (PRIMARY — 1K followers)
@@ -99,7 +99,7 @@ Reply **approve kg** / **edit kg** / **skip kg**""",
 • Phone: 0400 236 886 (no SMS draft)
 
 **Demo:** https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
-**Price:** $650 one-off + good bloke discount
+**Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---
 **FB Messenger** (send first)

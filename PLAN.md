@@ -1,17 +1,17 @@
 # Caisson — 3-Day Money Sprint
 
-**Goal:** AUD $1,000  
-**Strategy:** Find Perth/Mandurah tradies with weak or no web presence → build personalised demo sites → outreach with live preview → close at $650–800/site.
+**Goal:** AUD $1,000 to $2,000  
+**Strategy:** Find Perth/Mandurah tradies with weak or no web presence → build personalised demo sites → outreach with live preview → close at volume tier pricing with upsells.
 
 ## Pricing
 
 | Package | Price (AUD) | Includes |
 |---------|-------------|----------|
-| Launch | $650 | 1-page site, mobile-ready, contact form, deployed |
-| Standard | $750 | Multi-section site, Google Maps embed, 2 revision rounds |
-| Premium | $800 | Standard + logo polish, basic SEO, 30-day support |
+| Basic | $180 | 1-page site, mobile-ready, contact form, deployed |
+| Medium | $250 | Basic + basic support, Google indexing, custom URL (client pays domain upfront) |
+| Advanced | $400 | 3-day sprint; extra pages, booking flows, or custom features (scope defined together) |
 
-**Target:** 2× Standard = $1,500 (buffer for "good bloke discount" negotiation)
+**Target:** 5 to 10× Basic/Medium = $1,000 to $2,000 (upsell Medium where SEO/domain angle fits)
 
 **Outreach channels:** Email when available, but Facebook/Instagram often convert better than @gmail.com (corporate DMARC). SMS for mobile-only leads.
 
@@ -37,39 +37,18 @@
 
 ## Outreach angle
 
-> "Hi [Name] — I came across [Business] on Google/Facebook and noticed you don't have a proper website yet (or yours looks outdated). I put together a free demo specifically for your business: [link]. If you like it, I can have it live this week for $650. Happy to do a good bloke discount if the price is the only thing holding you back. No obligation — just thought it might help you win more calls."
+> "Hi [Name], I came across [Business] on Google/Facebook and noticed you do not have a proper website yet. I put together a free demo specifically for your business: [link]. If you like it, Basic is $180 one-off to go live. Medium is $250 if you want support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this version locked in. No obligation."
 
 ## Lead criteria (score 1–5)
 
 1. Has phone number publicly listed
 2. No website OR website clearly outdated (pre-2018, not mobile-friendly)
-3. Active on Google Maps / Facebook (still in business)
-4. Local Perth/Mandurah/Joondalup area
-5. Email findable OR Facebook messageable
+3. Active on Facebook/Google (recent posts or reviews)
+4. Local service business (trades, food, beauty, auto)
+5. Mandurah/Peel or Perth metro (easy to reference locally)
 
-## Niches to hit (high conversion)
+Score 4+ = build demo and draft outreach.
 
-1. Plumbers / electricians (Facebook-only presence common)
-2. Hair salons / barbers
-3. Auto mechanics
-4. Cleaners
-5. Landscapers
-6. Small cafes / takeaway shops
+## Do not send without approval
 
-## Deployment (free)
-
-- Demos: GitHub Pages or Cloudflare Pages
-- Agency site: same stack
-- Custom domain: client pays (~$20/yr) or we use `[business].pages.dev`
-
-## Legal / compliance
-
-- No false claims in demo copy (use generic testimonials marked as placeholder until client approves)
-- CAN-SPAM: include business name, physical address, unsubscribe in bulk emails
-- ABN on invoices if Edison has one (ask if needed)
-- Don't impersonate the business — demo clearly labelled "preview prepared for [Business]"
-
-## Payment
-
-- Bank transfer to BSB 06-6534 / Acc 10187742
-- Or Stripe link once set up
+All outreach drafts require Edison sign-off on Discord before sending.
