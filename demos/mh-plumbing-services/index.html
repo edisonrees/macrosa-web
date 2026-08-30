@@ -2,132 +2,197 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>MH Plumbing Services | Kitchen, bathroom and general plumbing</title>
-  <meta name="description" content="MH Plumbing Services. Professional Plumbing in Perth North." />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="MH Plumbing Services. Plumbing in Perth North." />
+  <meta name="theme-color" content="#0a1014" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <style>:root { --ink: #0a1014;
+  --accent: #c87533;
+  --accent-deep: #8b4513;
+  --cream: #eef2f0;
+  --muted: #9aa8a0; }</style>
 </head>
 <body>
-  <div class="topbar">
-    <div class="wrap topbar-inner">
-      <span>Perth North Plumbing</span>
-      <a href="tel:+61400000000" class="topbar-phone">Contact via Facebook</a>
-    </div>
-  </div>
+  <div class="grain" aria-hidden="true"></div>
 
-  <header class="header">
-    <div class="wrap header-inner">
-      <a class="logo" href="#top">MH Plumbing Services</a>
-      <button class="menu-btn" aria-label="Open menu" aria-expanded="false">Menu</button>
-      <nav class="nav">
-        <a href="#services">Services</a>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
-        <a href="tel:+61400000000" class="nav-cta">Call now</a>
-      </nav>
-    </div>
+  <header class="site-header">
+    <a class="logo" href="#top">MH<span>.</span></a>
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#gallery">Work</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="btn btn-call" href="tel:+61400000000">Contact via Facebook</a>
   </header>
 
   <main id="top">
     <section class="hero">
-      <div class="wrap hero-inner">
-        <p class="kicker">Perth North</p>
-        <h1>Quality plumbing for Perth homes and renovations</h1>
-        <p class="intro">From kitchen installs to full bathroom fit-outs. Professional work and a local reputation.</p>
-        <div class="hero-actions">
-          <a href="tel:+61400000000" class="btn primary">Call Contact via Facebook</a>
-          <a href="#contact" class="btn secondary">Send an enquiry</a>
+      <div class="hero-banner shield">
+        <img src="assets/hero.jpg" alt="" draggable="false" />
+        <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+        <div class="hero-fade" aria-hidden="true"></div>
+      </div>
+      <div class="hero-panel reveal">
+        <p class="eyebrow">Perth North · Plumbing</p>
+        <h1>Renovation plumbing done properly.</h1>
+        <p class="lede">Kitchen installs, bathroom fit-outs and general plumbing across Perth's northern suburbs. Clean work, clear communication.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="tel:+61400000000">Call Contact via Facebook</a>
+          <a class="btn btn-ghost" href="#contact">Get a quote</a>
         </div>
-        <ul class="facts">
-          <li><strong>12+ years</strong> local experience</li>
-          <li><strong>5.0</strong> average rating</li>
-          <li><strong>Free quotes</strong> on most jobs</li>
+        <ul class="hero-stats" aria-label="Business highlights">
+          <li><strong>12+</strong><span>years</span></li>
+          <li><strong>5.0</strong><span>rating</span></li>
+          <li><strong>24/7</strong><span>emergencies</span></li>
+          <li><strong>Free</strong><span>quotes</span></li>
         </ul>
       </div>
     </section>
 
-    <section class="services" id="services">
-      <div class="wrap">
-        <h2>What we do</h2>
-        <div class="service-list">
-          <article class="service-item">
-  <h3>Kitchen plumbing</h3>
-  <p>New kitchens, dishwashers, sinks and appliance connections.</p>
-</article>
-          <article class="service-item">
-  <h3>Bathroom fit-outs</h3>
-  <p>Showers, vanities, toilets and full bathroom renovations.</p>
-</article>
-          <article class="service-item">
-  <h3>Repairs and maintenance</h3>
-  <p>Leaks, blockages and general plumbing maintenance.</p>
-</article>
-          <article class="service-item">
-  <h3>Renovation support</h3>
-  <p>Work with builders and homeowners on new builds and extensions.</p>
-</article>
+    <section id="about" class="section about">
+      <div class="about-grid">
+        <figure class="about-photo shield reveal">
+          <img src="assets/about.jpg" alt="MH Plumbing Services" draggable="false" />
+          <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+        </figure>
+        <div class="about-copy reveal">
+          <p class="eyebrow">About us</p>
+          <h2>Trusted on renos across the northern suburbs.</h2>
+          <div class="about-body">
+            <p>MH Plumbing Services is known in Mirrabooka and surrounding suburbs for renovation work and reliable general plumbing. Michael and the team focus on getting the detail right on kitchens, bathrooms and maintenance jobs.</p>
+          </div>
+          <dl class="quick-facts">
+            <div><dt>Service area</dt><dd>Mirrabooka, northern suburbs and Perth metro</dd></div>
+            <div><dt>Hours</dt><dd>Mon-Fri 7am-6pm, Sat 8am-2pm, 24/7 emergencies</dd></div>
+            <div><dt>Email</dt><dd><a href="mailto:enquiries@mhplumbingservices.com.au">enquiries@mhplumbingservices.com.au</a></dd></div>
+          </dl>
         </div>
       </div>
     </section>
 
-    <section class="about" id="about">
-      <div class="wrap about-grid">
-        <div>
-          <h2>About MH Plumbing Services</h2>
-          <p>MH Plumbing Services is a trusted name in Perth's northern suburbs, known for renovation work and reliable general plumbing. Michael and the team deliver clean, professional results on every job.</p>
+    <section id="services" class="section services">
+      <div class="section-head reveal">
+        <p class="eyebrow">What we do</p>
+        <h2>Services you can book today</h2>
+      </div>
+      <ul class="service-rail">
+        <li class="reveal">
+  <span class="service-mark">01</span>
+  <div>
+    <h3>Kitchen plumbing</h3>
+    <p>New kitchens, dishwashers, sinks and appliance connections.</p>
+  </div>
+</li>
+        <li class="reveal">
+  <span class="service-mark">02</span>
+  <div>
+    <h3>Bathroom fit-outs</h3>
+    <p>Showers, vanities, toilets and full bathroom renovations.</p>
+  </div>
+</li>
+        <li class="reveal">
+  <span class="service-mark">03</span>
+  <div>
+    <h3>Repairs and maintenance</h3>
+    <p>Leaks, blockages and general plumbing maintenance.</p>
+  </div>
+</li>
+        <li class="reveal">
+  <span class="service-mark">04</span>
+  <div>
+    <h3>Renovation support</h3>
+    <p>Work with builders and homeowners on new builds and extensions.</p>
+  </div>
+</li>
+      </ul>
+    </section>
+
+    <section id="gallery" class="section gallery">
+      <div class="section-head reveal">
+        <p class="eyebrow">Recent work</p>
+        <h2>Work we stand behind</h2>
+        <p class="section-lede">A sample of the kind of jobs we take on every week across the local area.</p>
+      </div>
+      <div class="carousel reveal" data-carousel>
+        <div class="carousel-viewport">
+          <div class="carousel-track">
+            <figure class="carousel-slide shield">
+  <img src="assets/gallery-1.jpg" alt="Kitchen plumbing and appliance connections" draggable="false" loading="lazy" />
+  <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+  <figcaption>Kitchen plumbing and appliance connections</figcaption>
+</figure>
+            <figure class="carousel-slide shield">
+  <img src="assets/gallery-2.jpg" alt="Bathroom fit-outs and renos" draggable="false" loading="lazy" />
+  <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+  <figcaption>Bathroom fit-outs and renos</figcaption>
+</figure>
+            <figure class="carousel-slide shield">
+  <img src="assets/gallery-3.jpg" alt="Maintenance and repair work" draggable="false" loading="lazy" />
+  <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+  <figcaption>Maintenance and repair work</figcaption>
+</figure>
+            <figure class="carousel-slide shield">
+  <img src="assets/gallery-4.jpg" alt="Northern suburbs service area" draggable="false" loading="lazy" />
+  <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+  <figcaption>Northern suburbs service area</figcaption>
+</figure>
+          </div>
         </div>
-        <dl class="details">
-          <div><dt>Service area</dt><dd>Mirrabooka, northern suburbs and Perth metro</dd></div>
-          <div><dt>Hours</dt><dd>Mon-Fri 7am-6pm, Sat 8am-2pm, 24/7 emergencies</dd></div>
-          <div><dt>Phone</dt><dd><a href="tel:+61400000000">Contact via Facebook</a></dd></div>
-          <div><dt>Email</dt><dd><a href="mailto:enquiries@mhplumbingservices.com.au">enquiries@mhplumbingservices.com.au</a></dd></div>
-          <div><dt>Address</dt><dd>Mirrabooka, WA</dd></div>
-        </dl>
+        <div class="carousel-controls">
+          <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous slide">←</button>
+          <div class="carousel-dots" data-carousel-dots></div>
+          <button type="button" class="carousel-btn" data-carousel-next aria-label="Next slide">→</button>
+        </div>
       </div>
     </section>
 
-    <section class="reviews" id="reviews">
-      <div class="wrap">
-        <h2>What customers say</h2>
-        <p class="reviews-note">See our latest reviews on Google and Facebook. We are happy to share references on request.</p>
-        <div class="review-list">
-          <blockquote class="review-item">
-  <p>"New kitchen at Mirrabooka looks the goods. Well done Michael."</p>
-  <cite>Lauren F. <span>(Facebook comment)</span></cite>
-</blockquote>
-        </div>
+    <section class="section band">
+      <div class="band-inner reveal">
+        <p class="eyebrow">Need someone now?</p>
+        <h2>Planning a kitchen or bathroom?</h2>
+        <p>Get in early. We can quote the plumbing scope, coordinate with your builder or cabinet maker, and keep the job moving.</p>
+        <a class="btn btn-primary" href="tel:+61400000000">Call Contact via Facebook</a>
       </div>
     </section>
 
-    <section class="contact" id="contact">
-      <div class="wrap contact-grid">
-        <div>
-          <h2>Get a quote</h2>
-          <p>Call <a href="tel:+61400000000">Contact via Facebook</a> or fill in the form and we will get back to you.</p>
+    <section id="contact" class="section contact">
+      <div class="contact-grid">
+        <div class="reveal">
+          <p class="eyebrow">Contact</p>
+          <h2>Request a free quote</h2>
+          <p class="contact-lede">Call <a href="tel:+61400000000">Contact via Facebook</a> or send a message. We reply as soon as we can.</p>
+          <p class="contact-address">Mirrabooka, WA</p>
         </div>
-        <form class="form" action="mailto:enquiries@mhplumbingservices.com.au" method="post" enctype="text/plain">
-          <label>Name<input type="text" name="name" required /></label>
-          <label>Phone<input type="tel" name="phone" required /></label>
-          <label>Message<textarea name="message" rows="4" required></textarea></label>
-          <button type="submit" class="btn primary">Send enquiry</button>
+        <form class="contact-form reveal" action="mailto:enquiries@mhplumbingservices.com.au" method="post" enctype="text/plain">
+          <label><span>Name</span><input type="text" name="name" required /></label>
+          <label><span>Phone</span><input type="tel" name="phone" required /></label>
+          <label><span>Message</span><textarea name="message" rows="4" required></textarea></label>
+          <button type="submit" class="btn btn-primary btn-block">Send enquiry</button>
         </form>
       </div>
     </section>
   </main>
 
-  <footer class="footer">
-    <div class="wrap footer-inner">
-      <p>&copy; <span id="year"></span> MH Plumbing Services</p>
-      <p class="footer-links">
-        <a href="privacy.html">Privacy</a>
-        <a href="terms.html">Terms</a>
-      </p>
-    </div>
+  <footer class="site-footer">
+    <p><strong>MH Plumbing Services</strong> · Perth North</p>
+    <p class="footer-links"><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+    <p class="fine">Licensed and insured. Preview site prepared for MH Plumbing Services.</p>
   </footer>
 
-  <script src="script.js"></script>
+  <aside class="credit-banner" aria-label="Site credit">
+    <p>WEBSITE BY <a href="https://edisonrees.github.io/macrosa-web/site/">CHEVRON DESIGNS</a></p>
+  </aside>
+
+  <nav class="mobile-dock" aria-label="On this page">
+    <a href="#about"><span class="dock-mark"></span>About</a>
+    <a href="#services"><span class="dock-mark"></span>Services</a>
+    <a href="#gallery"><span class="dock-mark"></span>Work</a>
+    <a href="tel:+61400000000"><span class="dock-mark"></span>Call</a>
+  </nav>
+
+  <script src="js/main.js"></script>
+  <script src="js/carousel.js"></script>
 </body>
 </html>

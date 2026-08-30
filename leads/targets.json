@@ -2,8 +2,11 @@
   {
     "slug": "kg-plumbing-gas",
     "name": "KG Plumbing and Gas",
+    "logo_text": "KG",
     "industry": "Plumbing and Gas",
     "city": "Mandurah and Peel",
+    "image_set": "plumber",
+    "theme": "plumber",
     "tagline": "24/7 Plumbing and Gas, Mandurah to Pinjarra",
     "phone_raw": "+617397882416",
     "phone_display": "0397 882 416",
@@ -12,9 +15,20 @@
     "service_area": "Mandurah, Dawesville, Pinjarra, Lake Clifton and Peel region",
     "years": 8,
     "rating": "4.8",
-    "hero_headline": "Peel region plumbing you can trust, day or night",
-    "hero_subhead": "Blocked drains, hot water, gas fitting and emergency callouts. Free quotes, no job too big or small.",
-    "about": "KG Plumbing and Gas is a locally owned team based in Dawesville, servicing Mandurah through to Pinjarra and everywhere in between. We are available 24/7 for emergencies and take pride in honest pricing and clean workmanship.",
+    "hero_headline": "Peel region plumbing you can trust.",
+    "hero_subhead": "Blocked drains, hot water, gas fitting and emergency callouts across Mandurah and the Peel. Free quotes, no job too big or small.",
+    "about_headline": "Local team. Real callouts. Honest quotes.",
+    "about": "KG Plumbing and Gas is based in Dawesville and services Mandurah through to Pinjarra and everywhere in between. The team is available 24/7 for emergencies and is known locally for showing up, explaining the job properly, and leaving the place tidy.",
+    "band_headline": "Emergency? We still answer.",
+    "band_text": "Burst pipe, gas smell, or hot water gone cold? Call now. If we cannot get there immediately we will tell you straight and help you plan the next step.",
+    "gallery_headline": "The kind of work we do every week",
+    "gallery_subhead": "General plumbing, gas, hot water and emergency jobs across the Peel region.",
+    "gallery_captions": [
+      "General plumbing and maintenance",
+      "Hot water repairs and replacements",
+      "Gas fitting and appliance work",
+      "Emergency callouts across the Peel"
+    ],
     "source": "https://www.facebook.com/KGPlumbingandGas",
     "has_website": false,
     "services": [
@@ -22,14 +36,16 @@
       {"title": "Gas fitting", "desc": "Licensed gas work for heaters, cooktops, bayonets and compliance checks."},
       {"title": "Hot water", "desc": "Repairs and replacements for electric, gas and instant systems."},
       {"title": "24/7 emergencies", "desc": "Burst pipes, blocked drains and urgent callouts. We answer the phone."}
-    ],
-    "reviews": []
+    ]
   },
   {
     "slug": "mh-plumbing-services",
     "name": "MH Plumbing Services",
+    "logo_text": "MH",
     "industry": "Plumbing",
     "city": "Perth North",
+    "image_set": "plumber",
+    "theme": "plumber",
     "tagline": "Kitchen, bathroom and general plumbing",
     "phone_raw": "+61400000000",
     "phone_display": "Contact via Facebook",
@@ -38,9 +54,18 @@
     "service_area": "Mirrabooka, northern suburbs and Perth metro",
     "years": 12,
     "rating": "5.0",
-    "hero_headline": "Quality plumbing for Perth homes and renovations",
-    "hero_subhead": "From kitchen installs to full bathroom fit-outs. Professional work and a local reputation.",
-    "about": "MH Plumbing Services is a trusted name in Perth's northern suburbs, known for renovation work and reliable general plumbing. Michael and the team deliver clean, professional results on every job.",
+    "hero_headline": "Renovation plumbing done properly.",
+    "hero_subhead": "Kitchen installs, bathroom fit-outs and general plumbing across Perth's northern suburbs. Clean work, clear communication.",
+    "about_headline": "Trusted on renos across the northern suburbs.",
+    "about": "MH Plumbing Services is known in Mirrabooka and surrounding suburbs for renovation work and reliable general plumbing. Michael and the team focus on getting the detail right on kitchens, bathrooms and maintenance jobs.",
+    "band_headline": "Planning a kitchen or bathroom?",
+    "band_text": "Get in early. We can quote the plumbing scope, coordinate with your builder or cabinet maker, and keep the job moving.",
+    "gallery_captions": [
+      "Kitchen plumbing and appliance connections",
+      "Bathroom fit-outs and renos",
+      "Maintenance and repair work",
+      "Northern suburbs service area"
+    ],
     "source": "https://www.facebook.com/profile.php?id=100061948034792",
     "has_website": false,
     "services": [
@@ -48,16 +73,16 @@
       {"title": "Bathroom fit-outs", "desc": "Showers, vanities, toilets and full bathroom renovations."},
       {"title": "Repairs and maintenance", "desc": "Leaks, blockages and general plumbing maintenance."},
       {"title": "Renovation support", "desc": "Work with builders and homeowners on new builds and extensions."}
-    ],
-    "reviews": [
-      {"text": "New kitchen at Mirrabooka looks the goods. Well done Michael.", "author": "Lauren F.", "source": "Facebook comment"}
     ]
   },
   {
     "slug": "jaymichel-hair",
     "name": "Jaymichel Hair and Beauty",
+    "logo_text": "JAYMICHEL",
     "industry": "Hair and Beauty",
     "city": "Perth",
+    "image_set": "salon",
+    "theme": "salon",
     "tagline": "Hair and beauty, Perth",
     "phone_raw": "+61418957020",
     "phone_display": "0418 957 020",
@@ -66,9 +91,20 @@
     "service_area": "Perth metro",
     "years": 15,
     "rating": "5.0",
-    "hero_headline": "Hair and beauty with a personal touch",
-    "hero_subhead": "Cuts, colour, styling and beauty services from Helen and the Jaymichel team.",
+    "hero_headline": "Hair and beauty with a personal touch.",
+    "hero_subhead": "Cuts, colour, styling and beauty services from Helen and the Jaymichel team. Book by phone or message.",
+    "about_headline": "Run by Helen, built on repeat clients.",
     "about": "Jaymichel Hair and Beauty is run by Helen, offering hair and beauty services for clients across Perth. Friendly service, honest advice, and results you can walk out happy with.",
+    "band_headline": "New client or special occasion?",
+    "band_text": "Call or email to book. Tell us what you are after and we will find a time that works.",
+    "gallery_headline": "Inside the salon",
+    "gallery_subhead": "Cuts, colour and styling for everyday appointments and events.",
+    "gallery_captions": [
+      "Salon styling and colour work",
+      "Cuts and blow dries",
+      "Special occasion hair",
+      "Beauty services by appointment"
+    ],
     "source": "https://www.facebook.com/jaymichelhairandbeauty/",
     "has_website": false,
     "services": [
@@ -76,7 +112,6 @@
       {"title": "Colour and treatments", "desc": "Colour, highlights, toners and conditioning treatments."},
       {"title": "Beauty services", "desc": "Brows, lashes and selected beauty treatments."},
       {"title": "Special occasions", "desc": "Formal, wedding and event hair by appointment."}
-    ],
-    "reviews": []
+    ]
   }
 ]

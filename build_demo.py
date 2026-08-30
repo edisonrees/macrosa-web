@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a demo website for a local business lead."""
+"""Generate demo websites from template + lead data."""
 
 from __future__ import annotations
 
@@ -12,53 +12,50 @@ ROOT = Path(__file__).resolve().parent
 TEMPLATE = ROOT / "template"
 DEMOS = ROOT / "demos"
 
+THEMES = {
+    "plumber": {
+        "theme_color": "#0a1014",
+        "theme_vars": """
+  --ink: #0a1014;
+  --accent: #c87533;
+  --accent-deep: #8b4513;
+  --cream: #eef2f0;
+  --muted: #9aa8a0;
+""".strip(),
+    },
+    "salon": {
+        "theme_color": "#120c0e",
+        "theme_vars": """
+  --ink: #120c0e;
+  --accent: #d4a5a5;
+  --accent-deep: #9e6b6b;
+  --cream: #f7efe6;
+  --muted: #b9a59a;
+""".strip(),
+    },
+}
 
-def service_item(title: str, desc: str) -> str:
-    return f"""<article class="service-item">
-  <h3>{title}</h3>
-  <p>{desc}</p>
-</article>"""
+
+def service_item(num: int, title: str, desc: str) -> str:
+    return f"""<li class="reveal">
+  <span class="service-mark">{num:02d}</span>
+  <div>
+    <h3>{title}</h3>
+    <p>{desc}</p>
+  </div>
+</li>"""
 
 
-def review_item(text: str, author: str, source: str = "") -> str:
-    source_line = f' <span>({source})</span>' if source else ""
-    return f"""<blockquote class="review-item">
-  <p>"{text}"</p>
-  <cite>{author}{source_line}</cite>
-</blockquote>"""
+def gallery_slide(src: str, caption: str) -> str:
+    return f"""<figure class="carousel-slide shield">
+  <img src="{src}" alt="{caption}" draggable="false" loading="lazy" />
+  <iframe class="img-shield" src="data:text/html," title="" tabindex="-1" aria-hidden="true" sandbox loading="lazy"></iframe>
+  <figcaption>{caption}</figcaption>
+</figure>"""
 
 
-def apply_replacements(content: str, lead: dict) -> str:
-    replacements = {
-        "{{BUSINESS_NAME}}": lead["name"],
-        "{{TAGLINE}}": lead.get("tagline", f"Trusted {lead.get('industry', 'local')} in Perth"),
-        "{{META_DESCRIPTION}}": lead.get(
-            "meta",
-            f"{lead['name']}. Professional {lead.get('industry', 'services')} in {lead.get('city', 'Perth')}.",
-        ),
-        "{{CITY}}": lead.get("city", "Perth"),
-        "{{INDUSTRY}}": lead.get("industry", "Local services"),
-        "{{HERO_HEADLINE}}": lead.get("hero_headline", f"Trusted local {lead.get('industry', 'service')}"),
-        "{{HERO_SUBHEAD}}": lead.get(
-            "hero_subhead",
-            "Fast response, fair pricing, and work you can trust. Call now for a free quote.",
-        ),
-        "{{CTA_PRIMARY}}": lead.get("cta", f"Call {lead.get('phone_display', 'now')}"),
-        "{{PHONE_RAW}}": lead.get("phone_raw", ""),
-        "{{PHONE_DISPLAY}}": lead.get("phone_display", ""),
-        "{{EMAIL}}": lead.get("email", f"hello@{lead['slug'].replace('-', '')}.com.au"),
-        "{{YEARS}}": str(lead.get("years", 10)),
-        "{{RATING}}": str(lead.get("rating", "4.9")),
-        "{{ABOUT_TEXT}}": lead.get(
-            "about",
-            f"{lead['name']} has been serving {lead.get('city', 'Perth')} with reliable, professional service. "
-            "We are fully licensed, locally owned, and proud of our reputation for honest work.",
-        ),
-        "{{SERVICE_AREA}}": lead.get("service_area", "Perth metro and surrounds"),
-        "{{HOURS}}": lead.get("hours", "Mon-Fri 7am-6pm, Sat 8am-2pm, 24/7 emergencies"),
-        "{{ADDRESS}}": lead.get("address", "Perth, WA"),
-    }
-    for key, value in replacements.items():
+def apply(content: str, mapping: dict[str, str]) -> str:
+    for key, value in mapping.items():
         content = content.replace(key, value)
     return content
 
@@ -70,28 +67,73 @@ def build_site(lead: dict) -> Path:
         shutil.rmtree(out)
     shutil.copytree(TEMPLATE, out)
 
-    services_html = "\n          ".join(
-        service_item(s["title"], s["desc"]) for s in lead.get("services", [])
+    theme_key = lead.get("theme", lead.get("image_set", "plumber"))
+    theme = THEMES.get(theme_key, THEMES["plumber"])
+
+    services_html = "\n        ".join(
+        service_item(i + 1, s["title"], s["desc"]) for i, s in enumerate(lead.get("services", []))
     )
 
-    reviews = lead.get("reviews", [])
-    if reviews:
-        reviews_html = '<div class="review-list">\n          ' + "\n          ".join(
-            review_item(r["text"], r["author"], r.get("source", "")) for r in reviews
-        ) + "\n        </div>"
-    else:
-        reviews_html = ""
+    gallery = lead.get("gallery_captions", [])
+    gallery_paths = [f"assets/gallery-{i}.jpg" for i in range(1, 5)]
+    gallery_html = "\n            ".join(
+        gallery_slide(path, gallery[i] if i < len(gallery) else f"Recent work by {lead['name']}")
+        for i, path in enumerate(gallery_paths)
+    )
 
-    html_path = out / "index.html"
-    html = html_path.read_text(encoding="utf-8")
-    html = apply_replacements(html, lead)
-    html = html.replace("{{SERVICES_HTML}}", services_html)
-    html = html.replace("{{REVIEWS_HTML}}", reviews_html)
-    html_path.write_text(html, encoding="utf-8")
+    logo = lead.get("logo_text") or lead["name"].split()[0].upper()
 
-    for legal in ("privacy.html", "terms.html"):
-        legal_path = out / legal
-        legal_path.write_text(apply_replacements(legal_path.read_text(encoding="utf-8"), lead), encoding="utf-8")
+    mapping = {
+        "{{BUSINESS_NAME}}": lead["name"],
+        "{{LOGO_TEXT}}": logo,
+        "{{TAGLINE}}": lead.get("tagline", f"{lead.get('industry', 'Services')} in {lead.get('city', 'Perth')}"),
+        "{{META_DESCRIPTION}}": lead.get(
+            "meta",
+            f"{lead['name']}. {lead.get('industry', 'Local services')} in {lead.get('city', 'Perth')}.",
+        ),
+        "{{THEME_COLOR}}": theme["theme_color"],
+        "{{THEME_VARS}}": theme["theme_vars"],
+        "{{CITY}}": lead.get("city", "Perth"),
+        "{{INDUSTRY}}": lead.get("industry", "Local services"),
+        "{{HERO_HEADLINE}}": lead.get("hero_headline", lead["name"]),
+        "{{HERO_SUBHEAD}}": lead.get(
+            "hero_subhead",
+            "Fast response, fair pricing, and work you can trust. Call now for a free quote.",
+        ),
+        "{{CTA_PRIMARY}}": lead.get("cta", f"Call {lead.get('phone_display', 'now')}"),
+        "{{PHONE_RAW}}": lead.get("phone_raw", ""),
+        "{{PHONE_DISPLAY}}": lead.get("phone_display", ""),
+        "{{EMAIL}}": lead.get("email", f"hello@{slug.replace('-', '')}.com.au"),
+        "{{YEARS}}": str(lead.get("years", 10)),
+        "{{RATING}}": str(lead.get("rating", "4.9")),
+        "{{ABOUT_HEADLINE}}": lead.get("about_headline", f"Local {lead.get('industry', 'experts')} you can trust"),
+        "{{ABOUT_TEXT}}": lead.get(
+            "about",
+            f"{lead['name']} serves {lead.get('city', 'Perth')} with reliable, professional work.",
+        ),
+        "{{SERVICE_AREA}}": lead.get("service_area", "Perth metro and surrounds"),
+        "{{HOURS}}": lead.get("hours", "Mon-Fri 7am-6pm, Sat 8am-2pm, 24/7 emergencies"),
+        "{{ADDRESS}}": lead.get("address", "Perth, WA"),
+        "{{HERO_IMAGE}}": "assets/hero.jpg",
+        "{{ABOUT_IMAGE}}": "assets/about.jpg",
+        "{{GALLERY_HEADLINE}}": lead.get("gallery_headline", "Work we stand behind"),
+        "{{GALLERY_SUBHEAD}}": lead.get(
+            "gallery_subhead",
+            "A sample of the kind of jobs we take on every week across the local area.",
+        ),
+        "{{BAND_HEADLINE}}": lead.get("band_headline", "We answer the phone"),
+        "{{BAND_TEXT}}": lead.get(
+            "band_text",
+            "Blocked drain, burst pipe, or planning a renovation? Call now and we will talk you through the next step.",
+        ),
+        "{{SERVICES_HTML}}": services_html,
+        "{{GALLERY_HTML}}": gallery_html,
+    }
+
+    for fname in ("index.html", "privacy.html", "terms.html"):
+        path = out / fname
+        if path.exists():
+            path.write_text(apply(path.read_text(encoding="utf-8"), mapping), encoding="utf-8")
 
     return out
 
