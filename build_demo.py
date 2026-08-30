@@ -33,6 +33,56 @@ THEMES = {
   --muted: #b9a59a;
 """.strip(),
     },
+    "electrician": {
+        "theme_color": "#0c1218",
+        "theme_vars": """
+  --ink: #0c1218;
+  --accent: #e8b84a;
+  --accent-deep: #b8860b;
+  --cream: #eef1f4;
+  --muted: #8a9aab;
+""".strip(),
+    },
+    "gardener": {
+        "theme_color": "#0e140f",
+        "theme_vars": """
+  --ink: #0e140f;
+  --accent: #6b9e5a;
+  --accent-deep: #3d6b32;
+  --cream: #eef2eb;
+  --muted: #8fa088;
+""".strip(),
+    },
+    "mechanic": {
+        "theme_color": "#101014",
+        "theme_vars": """
+  --ink: #101014;
+  --accent: #c44b3f;
+  --accent-deep: #8b2e26;
+  --cream: #eeedec;
+  --muted: #9a9590;
+""".strip(),
+    },
+    "pet": {
+        "theme_color": "#14100c",
+        "theme_vars": """
+  --ink: #14100c;
+  --accent: #c9a06c;
+  --accent-deep: #8b6b3f;
+  --cream: #f5f0e8;
+  --muted: #a89a88;
+""".strip(),
+    },
+    "cafe": {
+        "theme_color": "#120e0c",
+        "theme_vars": """
+  --ink: #120e0c;
+  --accent: #b8734a;
+  --accent-deep: #7a4a2e;
+  --cream: #f4ede6;
+  --muted: #a89888;
+""".strip(),
+    },
 }
 
 

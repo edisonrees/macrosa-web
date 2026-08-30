@@ -1,9 +1,8 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: Fresha message
+CHANNEL: Instagram
+CHANNEL NOTE: Instagram (Fresha booking only)
 TO: Lumi Brow Studio Fresha (Coodanup)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
-DEMO QUALITY FLAG: No public email or phone. Demo uses placeholder contact details. Outreach via Fresha message.
-
 Subject: website preview for Lumi Brow Studio
 
 Hi,
@@ -18,11 +17,11 @@ https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
 
 Services, studio info and contact form on mobile.
 
-$350 one-off to deploy. Good for Google visibility in the Peel.
+$650 one-off to deploy. Good for Google visibility in the Peel. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
 
 Ignore if not useful.
 
 Cheers,
 Edison Rees
+Caisson · Perth
 freddison200@gmail.com
-Perth

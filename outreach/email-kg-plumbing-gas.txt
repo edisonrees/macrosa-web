@@ -1,5 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: Email
+CHANNEL: Facebook
+CHANNEL NOTE: Facebook preferred (corporate email may DMARC-block @gmail.com). Email fallback: info@kgplumbingandgas.com.au
 TO: info@kgplumbingandgas.com.au
 DEMO: https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
 Subject: put together a website preview for KG Plumbing and Gas
@@ -16,11 +17,11 @@ https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
 
 It has your services, phone number, contact form and works on mobile.
 
-If you want it live properly I can do that for $350 one-off. That includes hosting setup and any small changes you want.
+If you want it live properly I can do that for $650 one-off. That includes hosting setup and any small changes you want. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
 
 If it is not for you, no stress at all.
 
 Cheers,
 Edison Rees
+Caisson · Perth
 freddison200@gmail.com
-Perth

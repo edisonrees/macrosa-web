@@ -1,11 +1,11 @@
-DRAFT - SEND VIA FACEBOOK MESSENGER (no public email found)
-Profile: https://www.facebook.com/profile.php?id=100061948034792
-
----
+DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
+CHANNEL: Facebook
+CHANNEL NOTE: Facebook only (no public phone or email). Profile: https://www.facebook.com/profile.php?id=100061948034792
+DEMO: https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/
 
 Hi,
 
-My name is Edison. I am a web developer in Perth.
+My name is Edison. I run Caisson, a web studio in Perth.
 
 I came across MH Plumbing Services on Facebook. You do solid renovation work in Mirrabooka and the northern suburbs but do not have a standalone website, which makes it harder for new customers to find you outside Facebook.
 
@@ -15,11 +15,11 @@ https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/
 
 It covers your services, contact details and works on mobile.
 
-If you want it live properly I can do that for $350 one-off. Hosting setup and small tweaks included.
+If you want it live properly I can do that for $650 one-off. Hosting setup and small tweaks included. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
 
 No stress if it is not for you.
 
 Cheers,
 Edison Rees
+Caisson · Perth
 freddison200@gmail.com
-Perth

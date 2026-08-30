@@ -1,5 +1,6 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: Email
+CHANNEL: Facebook
+CHANNEL NOTE: Facebook preferred (corporate email may DMARC-block @gmail.com)
 TO: hello.jaymichel@gmail.com
 DEMO: https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 Subject: website preview for Jaymichel Hair and Beauty
@@ -16,11 +17,11 @@ https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 
 It includes your phone number, email, services and a contact form. Happy for you to click through and tell me what you think.
 
-If you want it live I charge $350 one-off. I can usually turn it around in a few days.
+If you want it live I charge $650 one-off. I can usually turn it around in a few days. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
 
 No worries if you are not interested.
 
 Cheers,
 Edison Rees
+Caisson · Perth
 freddison200@gmail.com
-Perth

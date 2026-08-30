@@ -1,9 +1,8 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
-CHANNEL: Facebook Messenger
+CHANNEL: Facebook
+CHANNEL NOTE: Facebook preferred
 TO: Bsparkz Electrics Facebook page (or call 0423 239 596)
 DEMO: https://edisonrees.github.io/macrosa-web/demos/bsparkz-electrics/
-DEMO QUALITY FLAG: Facebook only. No website or public email.
-
 Subject: website preview for Bsparkz Electrics
 
 Hi Brett,
@@ -18,11 +17,11 @@ https://edisonrees.github.io/macrosa-web/demos/bsparkz-electrics/
 
 It shows your services, phone number and contact form. Works on phones.
 
-$350 one-off if you want it live on your own domain. No monthly fees from me.
+$650 one-off if you want it live on your own domain. No monthly fees from me. Happy to do a good bloke discount if the price is the only thing holding you back — just ask.
 
 Happy to hear feedback or leave it if you are not keen.
 
 Cheers,
 Edison Rees
+Caisson · Perth
 freddison200@gmail.com
-Perth

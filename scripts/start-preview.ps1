@@ -1,4 +1,4 @@
-# Start Macrosa local preview + cloudflared tunnel for firewall bypass review.
+# Start Caisson local preview + cloudflared tunnel for firewall bypass review.
 $root = Split-Path -Parent $PSScriptRoot
 Set-Location $root
 
