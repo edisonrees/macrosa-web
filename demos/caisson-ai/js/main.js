@@ -31,29 +31,32 @@
             io.unobserve(entry.target);
           }
         },
-        { threshold: 0.12, rootMargin: "0px 0px -5% 0px" }
+        { threshold: 0.1, rootMargin: "0px 0px -4% 0px" }
       );
       reveals.forEach((el, i) => {
-        el.style.transitionDelay = `${Math.min(i * 0.04, 0.2)}s`;
+        el.style.transitionDelay = `${Math.min(i * 0.05, 0.25)}s`;
         io.observe(el);
       });
     }
   }
 
-  const dockLinks = document.querySelectorAll(".mobile-dock a[href^='#']");
-  if (dockLinks.length) {
-    const sections = [...dockLinks]
-      .map((a) => document.querySelector(a.getAttribute("href")))
+  const sectionLinks = [
+    ...document.querySelectorAll(".nav a[href^='#']"),
+    ...document.querySelectorAll(".mobile-dock a[href^='#']"),
+  ];
+  if (sectionLinks.length) {
+    const sections = [...new Set(sectionLinks.map((a) => a.getAttribute("href")))]
+      .map((id) => document.querySelector(id))
       .filter(Boolean);
     const spy = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
           if (!entry.isIntersecting) continue;
           const id = `#${entry.target.id}`;
-          dockLinks.forEach((a) => a.classList.toggle("is-active", a.getAttribute("href") === id));
+          sectionLinks.forEach((a) => a.classList.toggle("is-active", a.getAttribute("href") === id));
         }
       },
-      { rootMargin: "-40% 0px -50% 0px", threshold: 0 }
+      { rootMargin: "-35% 0px -55% 0px", threshold: 0 }
     );
     sections.forEach((s) => spy.observe(s));
   }
