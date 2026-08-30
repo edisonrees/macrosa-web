@@ -54,7 +54,7 @@
 | Gelato Nails | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-gelato-nails-subiaco.txt (@gelatonails) |
 | A.C.E Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
 | Cambo's Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
-| Perth Mech Mobile Mechanics | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
+| Perth Mech Mobile Mechanics | Message via Facebook | Yes | ✅ | ✅ | Facebook | Skipped — working site (perthmech.com.au) |
 | Salty Dog Pet Salon | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-salty-dog-pet-salon.txt (@saltydogpetsalon) |
 | One and All Mobile Cleaning | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
 

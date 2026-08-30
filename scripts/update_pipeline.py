@@ -38,6 +38,7 @@ STATUS = {
     "jds-pressure-cleaning": "Skipped — working site (jdspressurewashingandcleaning.com)",
     "ace-mobile-mechanic": "Skipped — FB page unavailable",
     "cambos-mobile-mechanic": "Skipped — FB page unavailable",
+    "perth-mech-mobile": "Skipped — working site (perthmech.com.au)",
 }
 
 IG_SLUGS = {
@@ -49,7 +50,7 @@ IG_SLUGS = {
 }
 
 FB_NEW = {
-    "perth-mech-mobile", "one-and-all-cleaning",
+    "one-and-all-cleaning",
 }
 
 rows = []

@@ -2457,6 +2457,9 @@
   {
     "slug": "perth-mech-mobile",
     "name": "Perth Mech Mobile Mechanics",
+    "has_website": true,
+    "website_url": "https://www.perthmech.com.au",
+    "website_note": "perthmech.com.au linked on FB. Skip per website gate.",
     "logo_text": "PMM",
     "industry": "Mobile Mechanic",
     "city": "Rockingham",
@@ -2481,10 +2484,9 @@
       "Battery replacements",
       "Southern suburbs"
     ],
-    "source": "https://www.facebook.com/PerthMechMobileMechanics",
-    "has_website": false,
-    "demo_flag": "outreach",
-    "contact_note": "Facebook only.",
+    "source": "https://www.facebook.com/perthmechmobilemechanics",
+    "demo_flag": "skip",
+    "contact_note": "Has perthmech.com.au on FB. Skipped per website gate.",
     "services": [
       {
         "title": "Servicing",
