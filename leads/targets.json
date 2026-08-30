@@ -1999,6 +1999,9 @@
   {
     "slug": "jds-pressure-cleaning",
     "name": "JDS Pressure Cleaning",
+    "has_website": true,
+    "website_url": "http://jdspressurewashingandcleaning.com",
+    "website_note": "Listed on FB; skip per website gate.",
     "logo_text": "JDS",
     "industry": "Pressure Cleaning",
     "city": "Perth",
@@ -2024,9 +2027,8 @@
       "Perth metro jobs"
     ],
     "source": "https://www.facebook.com/jdspressurecleaning",
-    "has_website": false,
-    "demo_flag": "outreach",
-    "contact_note": "Facebook only. No website.",
+    "demo_flag": "skip",
+    "contact_note": "Has jdspressurewashingandcleaning.com on FB. Skipped per website gate.",
     "services": [
       {
         "title": "Driveway cleaning",

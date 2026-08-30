@@ -44,16 +44,16 @@
 | Lisa's Mane Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-lisas-mane-studio.txt (@lisasmanestudio) |
 | Prep Perth | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-prep-perth.txt (@prepperth) |
 | Juicy Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-juicy-beauty.txt (@juicybeauty.perth) |
-| THP Auto Mobile Mechanic | 0457 431 340 | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
-| JDS Pressure Cleaning | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
+| THP Auto Mobile Mechanic | 0457 431 340 | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
+| JDS Pressure Cleaning | Message via Facebook | Yes | ✅ | ✅ | Facebook | Skipped — working site (jdspressurewashingandcleaning.com) |
 | Pooches Beauty Bar | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pooches-beauty-bar.txt (@poochesbeautybar) |
 | Belashed.bykm | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-belashed-by-km.txt (@belashed.bykm) |
 | MD Beauty Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-md-beauty-studio.txt (@md.beautystudio) |
 | White Feather Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-white-feather-beauty.txt (@whitefeatherbeauty) |
 | Tay Luxe Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-tay-luxe-studio.txt (@tayluxestudio) |
 | Gelato Nails | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-gelato-nails-subiaco.txt (@gelatonails) |
-| A.C.E Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
-| Cambo's Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
+| A.C.E Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
+| Cambo's Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
 | Perth Mech Mobile Mechanics | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
 | Salty Dog Pet Salon | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-salty-dog-pet-salon.txt (@saltydogpetsalon) |
 | One and All Mobile Cleaning | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |

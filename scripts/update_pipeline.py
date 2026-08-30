@@ -34,6 +34,10 @@ STATUS = {
     "larissas-barbershop": "Sent (IG DM, 2026-08-30)",
     "miiso-nail-studio": "Sent (IG DM, 2026-08-30)",
     "studio-b-nails": "Sent (IG DM, 2026-08-30)",
+    "thp-auto-mobile": "Skipped — FB page unavailable",
+    "jds-pressure-cleaning": "Skipped — working site (jdspressurewashingandcleaning.com)",
+    "ace-mobile-mechanic": "Skipped — FB page unavailable",
+    "cambos-mobile-mechanic": "Skipped — FB page unavailable",
 }
 
 IG_SLUGS = {
@@ -45,8 +49,7 @@ IG_SLUGS = {
 }
 
 FB_NEW = {
-    "thp-auto-mobile", "jds-pressure-cleaning", "ace-mobile-mechanic",
-    "cambos-mobile-mechanic", "perth-mech-mobile", "one-and-all-cleaning",
+    "perth-mech-mobile", "one-and-all-cleaning",
 }
 
 rows = []
