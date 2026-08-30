@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY (corporate email may DMARC-block @gmail.com)
-DEMO: https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 TO: hello.jaymichel@gmail.com
 Subject: website preview for Jaymichel Hair and Beauty
 
@@ -14,7 +14,7 @@ I came across Jaymichel Hair and Beauty on Facebook. You have great reviews but 
 
 I made a preview site for you:
 
-https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 
 It includes your phone number, email, services and a contact form. Happy for you to click through and tell me what you think.
 

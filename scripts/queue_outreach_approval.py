@@ -42,7 +42,7 @@ MESSAGES = [
 • Email: hello.jaymichel@gmail.com (simultaneous)
 • Phone: 0418 957 020 (not sending SMS unless you say)
 
-**Demo:** https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+**Demo:** https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 **Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---
@@ -73,7 +73,7 @@ Reply **approve jaymichel** / **edit jaymichel** / **skip jaymichel**""",
 • Email: admin@kgplumbingandgas.com.au (FB listing; draft has info@kgplumbingandgas.com.au)
 • Phone: 0432 172 527 (FB; targets had old landline)
 
-**Demo:** https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
+**Demo:** https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
 **Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---
@@ -98,7 +98,7 @@ Reply **approve kg** / **edit kg** / **skip kg**""",
 • Email: dagostinoelectrical@bigpond.com (from FB — not in original draft)
 • Phone: 0400 236 886 (no SMS draft)
 
-**Demo:** https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
+**Demo:** https://edisonrees.github.io/macrosa-web/demos/dagostino-electrical/
 **Price:** Basic $180 / Medium $250 (lead tier matched in draft)
 
 ---

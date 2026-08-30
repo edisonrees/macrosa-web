@@ -141,7 +141,7 @@ Hi, quick one.
 I am Edison from Caisson, web developer in Perth. I noticed you are on Facebook but do not have a proper website yet.
 
 I built a free preview for you here:
-https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
+https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
 
 If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 

@@ -9,7 +9,7 @@ from pathlib import Path
 SEND = Path(r"C:\cursor-agent-tools\scripts\discord-bridge\send.py")
 OUTBOX = Path(r"C:\cursor-agent-tools\scripts\discord-bridge\data\outbox.jsonl")
 
-DEMO = "https://edisonrees.github.io/macroa-web/demos/{slug}/"
+DEMO = "https://edisonrees.github.io/macrosa-web/demos/{slug}/"
 
 FB_JAY = """Hi, quick one.
 

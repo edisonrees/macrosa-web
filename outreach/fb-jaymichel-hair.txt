@@ -2,14 +2,14 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook Messenger
 PRIMARY: Facebook (simultaneous with email)
 PAGE: https://www.facebook.com/jaymichelhairandbeauty/
-DEMO: https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 
 Hi Helen, quick one.
 
 I am Edison from Caisson, web developer in Perth. I came across Jaymichel Hair and Beauty on Facebook. Great reviews, but no standalone website, which makes it harder for new clients to find you outside social.
 
 I built a free preview for you:
-https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/
 
 If you like it I can get it live from $250 one-off (Medium: basic support, Google indexing, your own domain). Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this one locked in. If not, no worries.
 

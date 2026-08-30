@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY
-DEMO: https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/dagostino-electrical/
 TO: dagostinoelectrical@bigpond.com
 Subject: website preview for D'Agostino Electrical
 
@@ -14,7 +14,7 @@ I found D'Agostino Electrical on Facebook. You have good hipages reviews around 
 
 I built a preview site for your business:
 
-https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
+https://edisonrees.github.io/macrosa-web/demos/dagostino-electrical/
 
 Services, phone number, mobile layout and a contact form. Free to look at.
 

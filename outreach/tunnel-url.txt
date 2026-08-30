@@ -9,7 +9,7 @@ MH:      https://pct-bunch-librarian-slots.trycloudflare.com/demos/mh-plumbing-s
 Jaymichel: https://pct-bunch-librarian-slots.trycloudflare.com/demos/jaymichel-hair/
 
 Permanent (GitHub Pages):
-https://edisonrees.github.io/macroa-web/site/
-https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
-https://edisonrees.github.io/macroa-web/demos/mh-plumbing-services/
-https://edisonrees.github.io/macroa-web/demos/jaymichel-hair/
+https://edisonrees.github.io/macrosa-web/site/
+https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
+https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/
+https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/

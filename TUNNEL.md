@@ -21,4 +21,4 @@ cloudflared tunnel --url http://localhost:8765
 
 Update this file with the new URL after restart.
 
-**GitHub Pages (permanent):** https://edisonrees.github.io/macroa-web/
+**GitHub Pages (permanent):** https://edisonrees.github.io/macrosa-web/

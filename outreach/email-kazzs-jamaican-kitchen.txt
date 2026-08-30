@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY
-DEMO: https://edisonrees.github.io/macroa-web/demos/kazzs-jamaican-kitchen/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/kazzs-jamaican-kitchen/
 TO: kazzsjamaicankitchen@gmail.com
 Subject: website preview for Kazz's Jamaican Kitchen
 
@@ -14,7 +14,7 @@ I found Kazz's Jamaican Kitchen on Facebook. Incredible food and catering reputa
 
 I built a cleaner preview:
 
-https://edisonrees.github.io/macroa-web/demos/kazzs-jamaican-kitchen/
+https://edisonrees.github.io/macrosa-web/demos/kazzs-jamaican-kitchen/
 
 Catering services, menu highlights, contact form and mobile layout for event enquiries.
 

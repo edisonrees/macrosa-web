@@ -2,7 +2,7 @@ DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
 PRIMARY: Facebook (prefer/simultaneous, not email backup)
 CHANNEL NOTE: Facebook PRIMARY, Facebook only
-DEMO: https://edisonrees.github.io/macroa-web/demos/canham-eatery/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/canham-eatery/
 TO: 08 9343 3931 (also trading as The Dirty Swine)
 Subject: website preview for Canham Eatery
 
@@ -14,7 +14,7 @@ I found Canham Eatery on Facebook in Greenwood. Great lunch spot but your web pr
 
 I built a cleaner preview site:
 
-https://edisonrees.github.io/macroa-web/demos/canham-eatery/
+https://edisonrees.github.io/macrosa-web/demos/canham-eatery/
 
 Menu highlights, hours, location and contact form. Mobile friendly for people walking past.
 
