@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import shutil
 import sys
+import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -113,9 +114,21 @@ def apply(content: str, mapping: dict[str, str]) -> str:
 def build_site(lead: dict) -> Path:
     slug = lead["slug"]
     out = DEMOS / slug
+    assets_backup: Path | None = None
     if out.exists():
+        assets_src = out / "assets"
+        if assets_src.is_dir():
+            backup_root = Path(tempfile.mkdtemp())
+            assets_backup = backup_root / "assets"
+            shutil.copytree(assets_src, assets_backup)
         shutil.rmtree(out)
     shutil.copytree(TEMPLATE, out)
+    if assets_backup is not None:
+        dst_assets = out / "assets"
+        if dst_assets.exists():
+            shutil.rmtree(dst_assets)
+        shutil.copytree(assets_backup, dst_assets)
+        shutil.rmtree(assets_backup.parent)
 
     theme_key = lead.get("theme", lead.get("image_set", "plumber"))
     theme = THEMES.get(theme_key, THEMES["plumber"])

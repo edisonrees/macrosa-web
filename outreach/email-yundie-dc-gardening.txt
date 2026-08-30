@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-CHANNEL NOTE: SMS (0436 438 748)
+PRIMARY: SMS (prefer/simultaneous — not email backup)
+CHANNEL NOTE: SMS PRIMARY (0436 438 748)
+DEMO: https://edisonrees.github.io/caisson-web/demos/yundie-dc-gardening/
 TO: 0436 438 748
-DEMO: https://edisonrees.github.io/macrosa-web/demos/yundie-dc-gardening/
 Subject: website preview for Yundie DC Gardening
 
 Hi James,
@@ -13,7 +14,7 @@ I came across Yundie DC Gardening and Mowing. Sole trader lawn care with no webs
 
 I put together a simple preview:
 
-https://edisonrees.github.io/macrosa-web/demos/yundie-dc-gardening/
+https://edisonrees.github.io/caisson-web/demos/yundie-dc-gardening/
 
 Mowing, garden maintenance, quote form and your number on every page.
 

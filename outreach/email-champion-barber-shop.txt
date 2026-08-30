@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-CHANNEL NOTE: SMS preferred (0470 135 042). Facebook if listed
+PRIMARY: SMS (prefer/simultaneous — not email backup)
+CHANNEL NOTE: SMS PRIMARY (0470 135 042) — Facebook simultaneous if listed
+DEMO: https://edisonrees.github.io/caisson-web/demos/champion-barber-shop/
 TO: 0470 135 042 or Champion Barber Shop Facebook
-DEMO: https://edisonrees.github.io/macrosa-web/demos/champion-barber-shop/
 Subject: website preview for Champion Barber Shop
 
 Hi,
@@ -13,7 +14,7 @@ I noticed Champion Barber Shop on Champion Drive. Busy local shop but no proper 
 
 I built a preview:
 
-https://edisonrees.github.io/macrosa-web/demos/champion-barber-shop/
+https://edisonrees.github.io/caisson-web/demos/champion-barber-shop/
 
 Cuts, booking info, map area and phone number on mobile.
 

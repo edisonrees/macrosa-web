@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-CHANNEL NOTE: Instagram (Fresha booking only — no email found)
+PRIMARY: Instagram (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Instagram PRIMARY — Fresha booking only, no email found
+DEMO: https://edisonrees.github.io/caisson-web/demos/b-the-barber/
 TO: B The Barber, 15 Jaffa Close Seville Grove (Fresha only)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/b-the-barber/
 Subject: website preview for B The Barber
 
 Hi,
@@ -13,7 +14,7 @@ I found B The Barber on Fresha in Seville Grove. Indigenous-owned shop with good
 
 I built a preview:
 
-https://edisonrees.github.io/macrosa-web/demos/b-the-barber/
+https://edisonrees.github.io/caisson-web/demos/b-the-barber/
 
 Services, location, booking prompt and mobile layout.
 

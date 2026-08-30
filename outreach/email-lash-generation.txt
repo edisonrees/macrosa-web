@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-CHANNEL NOTE: Instagram (Fresha booking only)
+PRIMARY: Instagram (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Instagram PRIMARY — Fresha booking only
+DEMO: https://edisonrees.github.io/caisson-web/demos/lash-generation/
 TO: Lash Generation Fresha (Gwelup)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/lash-generation/
 Subject: website preview for Lash Generation
 
 Hi,
@@ -13,7 +14,7 @@ I found Lash Generation on Fresha in Gwelup. Home salon with great service but n
 
 I built a preview:
 
-https://edisonrees.github.io/macrosa-web/demos/lash-generation/
+https://edisonrees.github.io/caisson-web/demos/lash-generation/
 
 Lash services, booking prompt and mobile layout.
 

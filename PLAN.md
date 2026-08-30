@@ -1,17 +1,19 @@
-# Macrosa — 3-Day Money Sprint
+# Caisson — 3-Day Money Sprint
 
 **Goal:** AUD $1,000  
-**Strategy:** Find Perth/Mandurah tradies with weak or no web presence → build personalised demo sites → cold email with live preview → close at $350–500/site.
+**Strategy:** Find Perth/Mandurah tradies with weak or no web presence → build personalised demo sites → outreach with live preview → close at $650–800/site.
 
 ## Pricing
 
 | Package | Price (AUD) | Includes |
 |---------|-------------|----------|
-| Launch | $350 | 1-page site, mobile-ready, contact form, deployed |
-| Standard | $500 | Multi-section site, Google Maps embed, 2 revision rounds |
-| Premium | $750 | Standard + logo polish, basic SEO, 30-day support |
+| Launch | $650 | 1-page site, mobile-ready, contact form, deployed |
+| Standard | $750 | Multi-section site, Google Maps embed, 2 revision rounds |
+| Premium | $800 | Standard + logo polish, basic SEO, 30-day support |
 
-**Target:** 2× Standard + 1× Launch = $1,350 (buffer for negotiation)
+**Target:** 2× Standard = $1,500 (buffer for "good bloke discount" negotiation)
+
+**Outreach channels:** Email when available, but Facebook/Instagram often convert better than @gmail.com (corporate DMARC). SMS for mobile-only leads.
 
 ## Daily plan
 
@@ -35,7 +37,7 @@
 
 ## Outreach angle
 
-> "Hi [Name] — I came across [Business] on Google/Facebook and noticed you don't have a proper website yet (or yours looks outdated). I put together a free demo specifically for your business: [link]. If you like it, I can have it live this week for $350. No obligation — just thought it might help you win more calls."
+> "Hi [Name] — I came across [Business] on Google/Facebook and noticed you don't have a proper website yet (or yours looks outdated). I put together a free demo specifically for your business: [link]. If you like it, I can have it live this week for $650. Happy to do a good bloke discount if the price is the only thing holding you back. No obligation — just thought it might help you win more calls."
 
 ## Lead criteria (score 1–5)
 

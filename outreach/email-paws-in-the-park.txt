@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-CHANNEL NOTE: SMS (0406 540 024)
+PRIMARY: SMS (prefer/simultaneous — not email backup)
+CHANNEL NOTE: SMS PRIMARY (0406 540 024)
+DEMO: https://edisonrees.github.io/caisson-web/demos/paws-in-the-park/
 TO: 0406 540 024
-DEMO: https://edisonrees.github.io/macrosa-web/demos/paws-in-the-park/
 Subject: website preview for Paws in the Park
 
 Hi,
@@ -13,7 +14,7 @@ I found Paws in the Park on Perfect Pets. You have a solid pet care reputation b
 
 I built a preview:
 
-https://edisonrees.github.io/macrosa-web/demos/paws-in-the-park/
+https://edisonrees.github.io/caisson-web/demos/paws-in-the-park/
 
 Walking, sitting, contact form and mobile layout.
 

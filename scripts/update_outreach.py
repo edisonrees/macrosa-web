@@ -69,6 +69,7 @@ def update_draft(path: Path, slug: str) -> bool:
     # Header block
     out.append("DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD")
     out.append(f"CHANNEL: {channel_type(channel_note)}")
+    out.append(f"PRIMARY: {channel_type(channel_note)} (prefer/simultaneous — not email backup)")
     out.append(f"CHANNEL NOTE: {channel_note}")
 
     # Preserve TO / DEMO / Subject from original header
@@ -119,14 +120,15 @@ def update_facebook_template() -> None:
     path = OUTREACH / "facebook-message-template.txt"
     text = """DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-CHANNEL NOTE: Facebook Messenger — often better than email for FB-only businesses (corporate DMARC blocks @gmail.com)
+PRIMARY: Facebook (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Facebook Messenger PRIMARY — often beats email (corporate DMARC blocks @gmail.com)
 
 Hi, quick one.
 
 I am Edison from Caisson, web developer in Perth. I noticed you are on Facebook but do not have a proper website yet.
 
 I built a free preview for you here:
-https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
+https://edisonrees.github.io/caisson-web/demos/kg-plumbing-gas/
 
 If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back — just ask. If not, ignore this and sorry for the bother.
 

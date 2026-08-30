@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-CHANNEL NOTE: Facebook preferred
+PRIMARY: Facebook (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Facebook PRIMARY
+DEMO: https://edisonrees.github.io/caisson-web/demos/dagostino-electrical/
 TO: D'Agostino Electrical Facebook page (or call 0400 236 886)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/dagostino-electrical/
 Subject: website preview for D'Agostino Electrical
 
 Hi Peter,
@@ -13,7 +14,7 @@ I found D'Agostino Electrical on Facebook. You have good hipages reviews around 
 
 I built a preview site for your business:
 
-https://edisonrees.github.io/macrosa-web/demos/dagostino-electrical/
+https://edisonrees.github.io/caisson-web/demos/dagostino-electrical/
 
 Services, phone number, mobile layout and a contact form. Free to look at.
 

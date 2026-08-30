@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: SMS
-CHANNEL NOTE: SMS (0407 878 188)
+PRIMARY: SMS (prefer/simultaneous — not email backup)
+CHANNEL NOTE: SMS PRIMARY (0407 878 188)
+DEMO: https://edisonrees.github.io/caisson-web/demos/mech-mobile/
 TO: 0407 878 188
-DEMO: https://edisonrees.github.io/macrosa-web/demos/mech-mobile/
 Subject: website preview for Mech Mobile
 
 Hi,
@@ -13,7 +14,7 @@ I found Mech Mobile while researching Perth mobile mechanics. You cover light an
 
 I built a preview site:
 
-https://edisonrees.github.io/macrosa-web/demos/mech-mobile/
+https://edisonrees.github.io/caisson-web/demos/mech-mobile/
 
 Services, call button, contact form, mobile layout.
 

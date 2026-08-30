@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-CHANNEL NOTE: Instagram (Fresha booking only)
+PRIMARY: Instagram (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Instagram PRIMARY — Fresha booking only
+DEMO: https://edisonrees.github.io/caisson-web/demos/that-girl-lashess/
 TO: that girl lashess Instagram / Fresha (Treeby)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/that-girl-lashess/
 Subject: website preview for that girl lashess
 
 Hi,
@@ -13,7 +14,7 @@ I found your lash studio on Fresha in Treeby. Beautiful home studio vibe but no 
 
 I built a preview:
 
-https://edisonrees.github.io/macrosa-web/demos/that-girl-lashess/
+https://edisonrees.github.io/caisson-web/demos/that-girl-lashess/
 
 Services, booking info and mobile layout. You can link it from Instagram while we talk.
 

@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Instagram
-CHANNEL NOTE: Instagram (Fresha booking only)
+PRIMARY: Instagram (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Instagram PRIMARY — Fresha booking only
+DEMO: https://edisonrees.github.io/caisson-web/demos/lumi-brow-studio/
 TO: Lumi Brow Studio Fresha (Coodanup)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
 Subject: website preview for Lumi Brow Studio
 
 Hi,
@@ -13,7 +14,7 @@ I found Lumi Brow Studio on Fresha in Coodanup. Lovely home studio but no standa
 
 Preview here:
 
-https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
+https://edisonrees.github.io/caisson-web/demos/lumi-brow-studio/
 
 Services, studio info and contact form on mobile.
 

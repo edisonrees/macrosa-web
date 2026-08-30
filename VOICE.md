@@ -1,4 +1,4 @@
-# Voice and style rules (Macrosa sprint)
+# Voice and style rules (Caisson sprint)
 
 Read `C:\Users\ediso\Downloads\banlist.txt` before building or writing anything customer-facing.
 
@@ -10,22 +10,20 @@ All outreach, websites, and client copy is written as **Edison**, a Perth web de
 - Short sentences. Normal punctuation. No corporate fluff.
 - **No em dashes.** Use commas, full stops, or rewrite the sentence.
 - No "I hope this finds you well", "leverage", "elevate", "seamless", "delighted"
-- Sign off simply: Cheers, Edison / Thanks, Edison
+- Sign off: Cheers, Edison Rees / Caisson · Perth / freddison200@gmail.com
 
-## Banlist highlights (full list in banlist.txt)
+## Outreach channels (priority order)
 
-- No purple/black schemes, gradient orbs, glassmorphism, emoji icons
-- No three pricing tiers, three feature cards, fake testimonials, checkmark lists
-- No Inter, Geist, Space Grotesk
-- Include Privacy Policy and Terms of Service on every site
-- Use real review sources when quoting customers, or omit quotes entirely
+1. **Instagram / Facebook** — PRIMARY. DM first or simultaneously; not as email backup.
+2. **SMS** — listed mobiles (Edison approval required)
+3. **Email** — when address found; fallback only after IG/FB
+4. **Phone** — Edison only
 
-## Outreach channels
+## Pricing anchor
 
-1. Email (when address found)
-2. Facebook Messenger (short, human, link to preview)
-3. Phone (Edison only, or scripted call)
+- Standard site: $650 one-off (aim $650–800)
+- Offer "good bloke discount" in outreach if price is the blocker
 
 ## Demo link base
 
-https://edisonrees.github.io/macrosa-web/demos/[slug]/
+https://edisonrees.github.io/caisson-web/demos/[slug]/

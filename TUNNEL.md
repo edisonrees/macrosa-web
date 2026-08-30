@@ -1,4 +1,4 @@
-# Macrosa preview tunnel
+# Caisson preview tunnel
 
 **Started:** 30 Aug 2026
 
@@ -21,4 +21,4 @@ cloudflared tunnel --url http://localhost:8765
 
 Update this file with the new URL after restart.
 
-**GitHub Pages (permanent):** https://edisonrees.github.io/macrosa-web/
+**GitHub Pages (permanent):** https://edisonrees.github.io/caisson-web/

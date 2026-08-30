@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-CHANNEL NOTE: Facebook preferred
+PRIMARY: Facebook (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Facebook PRIMARY
+DEMO: https://edisonrees.github.io/caisson-web/demos/bsparkz-electrics/
 TO: Bsparkz Electrics Facebook page (or call 0423 239 596)
-DEMO: https://edisonrees.github.io/macrosa-web/demos/bsparkz-electrics/
 Subject: website preview for Bsparkz Electrics
 
 Hi Brett,
@@ -13,7 +14,7 @@ I came across Bsparkz Electrics on Facebook. Strong local reputation in Kwinana 
 
 I mocked up a simple site for you:
 
-https://edisonrees.github.io/macrosa-web/demos/bsparkz-electrics/
+https://edisonrees.github.io/caisson-web/demos/bsparkz-electrics/
 
 It shows your services, phone number and contact form. Works on phones.
 

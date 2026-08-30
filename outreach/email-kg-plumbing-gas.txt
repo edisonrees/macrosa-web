@@ -1,8 +1,9 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-CHANNEL NOTE: Facebook preferred (corporate email may DMARC-block @gmail.com). Email fallback: info@kgplumbingandgas.com.au
+PRIMARY: Facebook (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Facebook PRIMARY (email fallback: info@kgplumbingandgas.com.au)
+DEMO: https://edisonrees.github.io/caisson-web/demos/kg-plumbing-gas/
 TO: info@kgplumbingandgas.com.au
-DEMO: https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
 Subject: put together a website preview for KG Plumbing and Gas
 
 Hi,
@@ -13,7 +14,7 @@ I found KG Plumbing and Gas on Facebook and noticed you are getting good work in
 
 I built a preview site for you anyway, no charge to look at it:
 
-https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/
+https://edisonrees.github.io/caisson-web/demos/kg-plumbing-gas/
 
 It has your services, phone number, contact form and works on mobile.
 

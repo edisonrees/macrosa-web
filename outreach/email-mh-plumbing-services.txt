@@ -1,7 +1,8 @@
 DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-CHANNEL NOTE: Facebook only (no public phone or email). Profile: https://www.facebook.com/profile.php?id=100061948034792
-DEMO: https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/
+PRIMARY: Facebook (prefer/simultaneous — not email backup)
+CHANNEL NOTE: Facebook PRIMARY — profile only, no public phone or email
+DEMO: https://edisonrees.github.io/caisson-web/demos/mh-plumbing-services/
 
 Hi,
 
@@ -11,7 +12,7 @@ I came across MH Plumbing Services on Facebook. You do solid renovation work in 
 
 I put together a preview site for you anyway:
 
-https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/
+https://edisonrees.github.io/caisson-web/demos/mh-plumbing-services/
 
 It covers your services, contact details and works on mobile.
 
