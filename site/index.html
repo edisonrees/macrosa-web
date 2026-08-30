@@ -2,104 +2,163 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Macrosa Web | Websites for Perth businesses</title>
-  <meta name="description" content="I build simple, professional websites for Perth tradies and small businesses. Free preview first." />
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
-  <style>
-    :root {
-      --bg: #f4f2ed;
-      --paper: #faf9f6;
-      --ink: #1a1a18;
-      --muted: #5c5a54;
-      --line: #d8d4cb;
-      --brand: #b45309;
-      --font: "IBM Plex Sans", system-ui, sans-serif;
-      --serif: "IBM Plex Serif", Georgia, serif;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: var(--font); background: var(--bg); color: var(--ink); line-height: 1.65; }
-    .wrap { width: min(960px, calc(100% - 2rem)); margin-inline: auto; }
-    header { background: var(--paper); border-bottom: 1px solid var(--line); padding: 1rem 0; }
-    .header-inner { display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
-    .logo { font-weight: 700; text-decoration: none; color: var(--ink); }
-    .btn { display: inline-block; background: var(--brand); color: #fff; padding: 0.7rem 1.1rem; text-decoration: none; font-weight: 600; border: 1px solid var(--brand); }
-    .hero { background: var(--paper); padding: 3.5rem 0; border-bottom: 1px solid var(--line); }
-    h1 { font-family: var(--serif); font-size: clamp(2rem, 5vw, 3rem); line-height: 1.15; margin-bottom: 1rem; max-width: 20ch; }
-    .lead { color: var(--muted); max-width: 52ch; margin-bottom: 1.5rem; }
-    section { padding: 3rem 0; }
-    h2 { font-family: var(--serif); font-size: 1.75rem; margin-bottom: 1rem; }
-    .panel { background: var(--paper); border: 1px solid var(--line); padding: 1.5rem; margin-bottom: 1rem; }
-    .panel h3 { margin-bottom: 0.35rem; }
-    .panel p, .steps p, .price-note { color: var(--muted); }
-    .price { font-family: var(--serif); font-size: 2rem; margin: 0.5rem 0; }
-    .demo-links { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
-    .demo-links a { padding: 0.55rem 0.9rem; border: 1px solid var(--line); background: var(--paper); color: var(--ink); text-decoration: none; font-size: 0.92rem; }
-    .steps { display: grid; gap: 1rem; }
-    footer { border-top: 1px solid var(--line); padding: 1.5rem 0 2rem; color: var(--muted); font-size: 0.9rem; background: var(--paper); }
-    footer a { color: var(--ink); }
-    .footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem; }
-  </style>
+  <meta name="description" content="Macrosa Web builds professional websites for Perth tradies and small businesses. Free preview first, from $350." />
+  <meta name="theme-color" content="#0a1014" />
+  <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
-  <header>
-    <div class="wrap header-inner">
-      <a class="logo" href="index.html">Macrosa Web</a>
-      <a href="mailto:freddison200@gmail.com" class="btn">Email me</a>
-    </div>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="logo" href="#top">MACROSA<span>.</span></a>
+    <nav class="nav">
+      <a href="#work">Work</a>
+      <a href="#process">Process</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="btn btn-header" href="mailto:freddison200@gmail.com?subject=Website%20preview">Email me</a>
   </header>
 
-  <section class="hero">
-    <div class="wrap">
-      <h1>Websites for Perth tradies and small businesses</h1>
-      <p class="lead">I build clean, mobile-friendly sites for local businesses. I usually put together a free preview first so you can see if you like it before paying anything.</p>
-      <a href="mailto:freddison200@gmail.com?subject=Website%20quote" class="btn">Ask for a preview</a>
-    </div>
-  </section>
-
-  <section class="wrap">
-    <h2>Pricing</h2>
-    <div class="panel">
-      <h3>Standard website</h3>
-      <div class="price">From $350</div>
-      <p class="price-note">One-off payment. Includes a mobile-ready site, contact form, deployment, and reasonable edits before launch. Most small business sites fit this.</p>
-      <p class="price-note">Bigger jobs (online booking, lots of pages, custom features) we can quote separately.</p>
-    </div>
-  </section>
-
-  <section class="wrap">
-    <h2>Demo previews</h2>
-    <p class="price-note">These are examples I built for real Perth businesses. Yours would be customised to your business.</p>
-    <div class="demo-links">
-      <a href="https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/">KG Plumbing and Gas</a>
-      <a href="https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/">MH Plumbing Services</a>
-      <a href="https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/">Jaymichel Hair and Beauty</a>
-    </div>
-  </section>
-
-  <section class="wrap">
-    <h2>How it works</h2>
-    <div class="steps">
-      <div class="panel">
-        <h3>1. I build a preview</h3>
-        <p>I look at your business online and put together a draft site with your name, services and contact details.</p>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-banner shield">
+        <img src="assets/hero.jpg" alt="" draggable="false" />
+        <div class="hero-fade" aria-hidden="true"></div>
       </div>
-      <div class="panel">
-        <h3>2. You say yes or no</h3>
-        <p>You check the preview. If you do not like it, you owe nothing.</p>
+      <div class="hero-panel reveal">
+        <p class="eyebrow">Perth WA · Small business websites</p>
+        <h1>Websites that win more calls.</h1>
+        <p class="lede">I build clean, mobile-ready sites for local tradies and small businesses across Perth. You get a free preview first. If you do not like it, you owe nothing.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="mailto:freddison200@gmail.com?subject=Website%20preview">Ask for a preview</a>
+          <a class="btn btn-ghost" href="#work">See live demos</a>
+        </div>
+        <ul class="hero-stats" aria-label="Service highlights">
+          <li><strong>From $350</strong><span>one-off</span></li>
+          <li><strong>Free</strong><span>preview first</span></li>
+          <li><strong>Perth</strong><span>local</span></li>
+          <li><strong>Live</strong><span>in days</span></li>
+        </ul>
       </div>
-      <div class="panel">
-        <h3>3. It goes live</h3>
-        <p>If you are happy, I publish it, hook up your domain if you have one, and send an invoice.</p>
-      </div>
-    </div>
-  </section>
+    </section>
 
-  <footer>
-    <div class="wrap footer-inner">
-      <p>Macrosa Web, Perth WA. Edison Rees, <a href="mailto:freddison200@gmail.com">freddison200@gmail.com</a></p>
-      <p><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
-    </div>
+    <section id="work" class="section">
+      <div class="section-head reveal">
+        <p class="eyebrow">Live previews</p>
+        <h2>Real sites built for Perth businesses.</h2>
+        <p class="section-lede">These are working demos prepared for actual local businesses. Yours would use your name, photos, services and contact details.</p>
+      </div>
+      <div class="carousel reveal" data-carousel>
+        <div class="carousel-viewport">
+          <div class="carousel-track">
+            <figure class="carousel-slide shield">
+              <img src="../demos/kg-plumbing-gas/assets/hero.jpg" alt="KG Plumbing and Gas website preview" loading="lazy" />
+              <figcaption class="demo-slide-meta">
+                <h3>KG Plumbing and Gas</h3>
+                <p>Mandurah and Peel · Plumbing and gas</p>
+                <a class="btn btn-primary" href="https://edisonrees.github.io/macrosa-web/demos/kg-plumbing-gas/" target="_blank" rel="noopener noreferrer">Open live demo</a>
+              </figcaption>
+            </figure>
+            <figure class="carousel-slide shield">
+              <img src="../demos/mh-plumbing-services/assets/hero.jpg" alt="MH Plumbing Services website preview" loading="lazy" />
+              <figcaption class="demo-slide-meta">
+                <h3>MH Plumbing Services</h3>
+                <p>Perth North · Kitchen and bathroom plumbing</p>
+                <a class="btn btn-primary" href="https://edisonrees.github.io/macrosa-web/demos/mh-plumbing-services/" target="_blank" rel="noopener noreferrer">Open live demo</a>
+              </figcaption>
+            </figure>
+            <figure class="carousel-slide shield">
+              <img src="../demos/jaymichel-hair/assets/hero.jpg" alt="Jaymichel Hair and Beauty website preview" loading="lazy" />
+              <figcaption class="demo-slide-meta">
+                <h3>Jaymichel Hair and Beauty</h3>
+                <p>Perth · Hair and beauty</p>
+                <a class="btn btn-primary" href="https://edisonrees.github.io/macrosa-web/demos/jaymichel-hair/" target="_blank" rel="noopener noreferrer">Open live demo</a>
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+        <div class="carousel-controls">
+          <button type="button" class="carousel-btn" data-carousel-prev aria-label="Previous demo">←</button>
+          <div class="carousel-dots" data-carousel-dots></div>
+          <button type="button" class="carousel-btn" data-carousel-next aria-label="Next demo">→</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="process" class="section">
+      <div class="section-head reveal">
+        <p class="eyebrow">How it works</p>
+        <h2>Preview first. Pay only if you want it.</h2>
+      </div>
+      <ol class="process-rail">
+        <li class="reveal">
+          <span class="process-mark">01</span>
+          <div>
+            <h3>I build your preview</h3>
+            <p>I look at your business online and put together a draft site with your name, services and contact details.</p>
+          </div>
+        </li>
+        <li class="reveal">
+          <span class="process-mark">02</span>
+          <div>
+            <h3>You review it</h3>
+            <p>You open the live link on your phone. If it is not what you want, you walk away. No invoice, no awkward follow-ups.</p>
+          </div>
+        </li>
+        <li class="reveal">
+          <span class="process-mark">03</span>
+          <div>
+            <h3>It goes live</h3>
+            <p>If you are happy, I publish the site, connect your domain if you have one, and send a one-off invoice.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section id="pricing" class="section">
+      <div class="section-head reveal">
+        <p class="eyebrow">Pricing</p>
+        <h2>One clear price for most small businesses.</h2>
+      </div>
+      <div class="pricing-panel reveal">
+        <p class="eyebrow">Standard website</p>
+        <div class="price">From $350</div>
+        <p>One-off payment. Includes a mobile-ready site, contact form, deployment, and reasonable edits before launch. Most tradie and salon sites fit this.</p>
+        <p>Bigger jobs with online booking, many pages, or custom features are quoted separately after we talk through scope.</p>
+        <a class="btn btn-primary btn-block" href="mailto:freddison200@gmail.com?subject=Website%20quote" style="margin-top:1.25rem">Get a quote</a>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="contact-grid">
+        <div class="reveal">
+          <p class="eyebrow">Contact</p>
+          <h2>Start with an email.</h2>
+          <p class="contact-lede">Tell me your business name and what you need. I will reply with next steps and usually have a preview link within a few days.</p>
+          <p class="contact-lede"><a href="mailto:freddison200@gmail.com">freddison200@gmail.com</a></p>
+          <p class="contact-lede">Perth, Western Australia</p>
+        </div>
+        <form class="contact-form reveal" action="mailto:freddison200@gmail.com" method="post" enctype="text/plain">
+          <label><span>Name</span><input type="text" name="name" required /></label>
+          <label><span>Business</span><input type="text" name="business" required /></label>
+          <label><span>Email or phone</span><input type="text" name="contact" required /></label>
+          <label><span>Message</span><textarea name="message" rows="4" required placeholder="What does your business do? Do you have a domain already?"></textarea></label>
+          <button type="submit" class="btn btn-primary btn-block">Send enquiry</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>Macrosa Web</strong> · Perth WA · Edison Rees</p>
+    <p class="footer-links"><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+    <p><a href="mailto:freddison200@gmail.com">freddison200@gmail.com</a></p>
   </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/carousel.js"></script>
 </body>
 </html>
