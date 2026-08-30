@@ -31,12 +31,12 @@
 }
 
 :root {
-  --ink: #0a1014;
-  --ink-2: #0e1518;
-  --panel: rgba(255, 255, 255, 0.035);
-  --line: rgba(230, 236, 232, 0.14);
-  --cream: #eef2f0;
-  --muted: #9aa8a0;
+  --bg: #f6f5f2;
+  --bg-alt: #eeedea;
+  --panel: #faf9f6;
+  --line: rgba(28, 34, 38, 0.11);
+  --text: #1c2428;
+  --muted: #6a7370;
   --accent: #c87533;
   --accent-deep: #8b4513;
   --header-h: 64px;
@@ -55,12 +55,12 @@ html { scroll-behavior: smooth; }
 body {
   margin: 0;
   min-height: 100vh;
-  color: var(--cream);
+  color: var(--text);
   font-family: var(--font-body);
   font-weight: 360;
   font-variation-settings: "wght" 360, "opsz" 18;
   line-height: 1.55;
-  background: var(--ink);
+  background: var(--bg);
   overflow-x: hidden;
 }
 
@@ -75,14 +75,14 @@ button, input, textarea { font: inherit; }
   position: fixed;
   inset: 0;
   z-index: 40;
-  opacity: 0.04;
+  opacity: 0.035;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  mix-blend-mode: soft-light;
+  mix-blend-mode: multiply;
 }
 
 .eyebrow {
   margin: 0 0 0.75rem;
-  color: var(--accent);
+  color: var(--accent-deep);
   font-family: var(--font-display);
   font-size: 0.74rem;
   font-weight: 550;
@@ -126,7 +126,7 @@ h2 {
   gap: 1rem;
   min-height: var(--header-h);
   padding: 0.65rem clamp(1rem, 3vw, 2.25rem);
-  background: rgba(10, 16, 20, 0.92);
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
   border-bottom: 1px solid transparent;
   transition: border-color 0.35s var(--ease), background 0.35s var(--ease);
 }
@@ -139,6 +139,7 @@ h2 {
   font-size: 1.05rem;
   letter-spacing: 0.08em;
   font-weight: 700;
+  color: var(--text);
 }
 
 .logo span { color: var(--accent); }
@@ -154,7 +155,7 @@ h2 {
   color: var(--muted);
 }
 
-.nav a:hover { color: var(--cream); }
+.nav a:hover { color: var(--text); }
 
 .btn {
   display: inline-flex;
@@ -182,9 +183,9 @@ h2 {
 }
 
 .btn-ghost {
-  background: rgba(255, 255, 255, 0.04);
+  background: var(--panel);
   border-color: var(--line);
-  color: var(--cream);
+  color: var(--text);
 }
 
 .btn-ghost:hover {
@@ -193,14 +194,14 @@ h2 {
 
 .btn-call {
   background: var(--accent-deep);
-  color: var(--cream);
+  color: #fff8f2;
   min-height: 36px;
   padding: 0 0.95rem;
   font-size: 0.76rem;
 }
 
 .btn-call:hover {
-  background: color-mix(in srgb, var(--accent-deep) 80%, #000);
+  background: color-mix(in srgb, var(--accent-deep) 88%, var(--text));
 }
 
 .btn-block { width: 100%; }
@@ -220,7 +221,7 @@ h2 {
 
 .img-load {
   position: relative;
-  background: #141c20;
+  background: var(--bg-alt);
 }
 
 .img-load::before {
@@ -228,7 +229,7 @@ h2 {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: linear-gradient(90deg, #141c20 0%, #1c262c 45%, #141c20 90%);
+  background: linear-gradient(90deg, var(--bg-alt) 0%, #e4e3e0 45%, var(--bg-alt) 90%);
   background-size: 200% 100%;
   animation: shimmer 1.4s ease-in-out infinite;
 }
@@ -254,7 +255,7 @@ h2 {
   flex: 0 0 auto;
   width: 100%;
   height: clamp(220px, 38vh, 400px);
-  background: #141c20;
+  background: var(--bg-alt);
 }
 
 .hero-banner img {
@@ -272,10 +273,10 @@ h2 {
   height: 88%;
   background: linear-gradient(
     180deg,
-    rgba(10, 16, 20, 0) 0%,
-    rgba(10, 16, 20, 0.45) 32%,
-    rgba(10, 16, 20, 0.92) 72%,
-    var(--ink) 100%
+    rgba(246, 245, 242, 0) 0%,
+    rgba(246, 245, 242, 0.4) 32%,
+    rgba(246, 245, 242, 0.9) 72%,
+    var(--bg) 100%
   );
   z-index: 3;
   pointer-events: none;
@@ -318,7 +319,7 @@ h2 {
 .hero-stats strong {
   font-size: 1.4rem;
   letter-spacing: -0.02em;
-  color: var(--cream);
+  color: var(--text);
 }
 
 .hero-stats span {
@@ -333,7 +334,7 @@ h2 {
   padding: 1.5rem clamp(1.15rem, 4vw, 3.5rem);
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
-  background: var(--ink-2);
+  background: var(--bg-alt);
 }
 
 .trust-rail {
@@ -392,7 +393,7 @@ h2 {
 .about-photo {
   aspect-ratio: 4 / 5;
   border-radius: var(--radius);
-  background: #141c20;
+  background: var(--bg-alt);
   border: 1px solid var(--line);
 }
 
@@ -409,7 +410,7 @@ h2 {
   margin-top: 1.1rem;
   padding-top: 1.1rem;
   border-top: 1px solid var(--line);
-  color: #d5ddd8;
+  color: var(--muted);
   font-size: clamp(1.02rem, 1.7vw, 1.18rem);
 }
 
@@ -436,7 +437,7 @@ h2 {
   color: var(--muted);
 }
 
-.quick-facts dd { margin: 0; color: var(--cream); }
+.quick-facts dd { margin: 0; color: var(--text); }
 
 .service-rail {
   list-style: none;
@@ -495,7 +496,7 @@ h2 {
   aspect-ratio: 4 / 3;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: #141c20;
+  background: var(--bg-alt);
   overflow: hidden;
 }
 
@@ -511,7 +512,7 @@ h2 {
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: #121a1e;
+  background: var(--bg-alt);
 }
 
 .carousel-track {
@@ -524,7 +525,7 @@ h2 {
   margin: 0;
   position: relative;
   aspect-ratio: 16 / 9;
-  background: #141c20;
+  background: var(--bg-alt);
 }
 
 .carousel-slide img {
@@ -541,10 +542,10 @@ h2 {
   right: 0;
   bottom: 0;
   padding: 1.1rem 1.2rem;
-  background: linear-gradient(180deg, transparent, rgba(8, 12, 14, 0.94));
+  background: linear-gradient(180deg, transparent, rgba(20, 24, 28, 0.82));
   font-family: var(--font-display);
   font-size: 0.88rem;
-  color: var(--cream);
+  color: #f6f5f2;
 }
 
 .carousel-controls {
@@ -561,7 +562,7 @@ h2 {
   border-radius: 50%;
   border: 1px solid var(--line);
   background: var(--panel);
-  color: var(--cream);
+  color: var(--text);
   cursor: pointer;
   font-size: 1.1rem;
   line-height: 1;
@@ -574,7 +575,7 @@ h2 {
   height: 8px;
   border-radius: 50%;
   border: 0;
-  background: rgba(255, 255, 255, 0.22);
+  background: color-mix(in srgb, var(--text) 18%, transparent);
   cursor: pointer;
   padding: 0;
 }
@@ -585,8 +586,8 @@ h2 {
   max-width: 900px;
   margin: 0 auto;
   padding: clamp(1.5rem, 3vw, 2.25rem);
-  background: color-mix(in srgb, var(--accent) 7%, transparent);
-  border: 1px solid color-mix(in srgb, var(--accent) 26%, transparent);
+  background: color-mix(in srgb, var(--accent) 6%, var(--panel));
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--line));
   border-radius: calc(var(--radius) + 2px);
 }
 
@@ -628,11 +629,11 @@ h2 {
 
 .contact-form input,
 .contact-form textarea {
-  background: rgba(0, 0, 0, 0.22);
+  background: var(--bg);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 0.75rem 0.9rem;
-  color: var(--cream);
+  color: var(--text);
 }
 
 .contact-form input:focus,
@@ -653,13 +654,13 @@ h2 {
 }
 
 .site-footer strong {
-  color: var(--cream);
+  color: var(--text);
   font-variation-settings: "wght" 600, "opsz" 18;
 }
 
 .footer-links { margin: 0.5rem 0; }
 
-.footer-links a { color: var(--accent); }
+.footer-links a { color: var(--accent-deep); }
 
 .fine {
   margin: 0.4rem 0 0;
@@ -679,16 +680,17 @@ h2 {
   align-items: center;
   justify-content: center;
   padding: 0 1rem;
-  background: rgba(6, 9, 11, 0.96);
-  color: #d8e0dc;
+  background: color-mix(in srgb, var(--bg) 96%, transparent);
+  color: var(--muted);
   font-family: var(--font-display);
   font-size: 0.66rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
+  border-top: 1px solid var(--line);
 }
 
 .credit-banner a {
-  color: var(--accent);
+  color: var(--accent-deep);
   border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
 }
 
@@ -759,7 +761,7 @@ h2 {
     height: var(--dock-h);
     padding: 0.4rem 0.5rem;
     gap: 0.35rem;
-    background: rgba(10, 16, 20, 0.96);
+    background: color-mix(in srgb, var(--bg) 96%, transparent);
     border-top: 1px solid var(--line);
   }
 
@@ -780,8 +782,8 @@ h2 {
 
   .mobile-dock a.is-active,
   .mobile-dock a:active {
-    color: var(--cream);
-    background: color-mix(in srgb, var(--accent) 12%, transparent);
+    color: var(--text);
+    background: color-mix(in srgb, var(--accent) 10%, var(--panel));
   }
 
   .dock-mark {

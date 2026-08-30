@@ -2,7 +2,7 @@
 
 **51 leads in targets.json | All demos built | Drafts in outreach/**
 
-**Overnight batch (2026-08-30 ~9pm):** 26 new WA leads added, demos built and pushed to GitHub Pages. IG outreach deferred (chromemcp worker 640d0852 finishing original 12). New FB leads ready for browsermcp.
+**Overnight (2026-08-30, stopped ~10:30pm):** 51 leads total (26 new). All demos live. Original IG 12/12 sent. **Morning batch (2026-08-31):** 10/20 new IG DMs sent via @caissonai chromemcp; 10 skipped (bad/unavailable handles from overnight scrape).
 
 | Business | Phone | Website? | Demo | Draft | Channel | Status |
 |----------|-------|----------|------|-------|---------|--------|
@@ -31,31 +31,31 @@
 | Larissa's Barbershop | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | Miiso Nail Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | Studio B Nails.Co | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
-| Halo Lashes | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-halo-lashes.txt (@halo.lashes.perth) |
-| Flick and Flutter Lash | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-flick-and-flutter-lash.txt (@flickandflutterlash) |
-| Kikididit | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-kikididit.txt (@kikididit) |
-| Studio Eire | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-studio-eire.txt (@studio.eire) |
-| Lilly c nails | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-lilly-c-nails.txt (@lillycnails) |
-| Fluffy Dog Grooming | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-fluffy-dog-grooming.txt (@fluffydoggrooming) |
-| Pampered with Love Pet Grooming and Spa | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pampered-with-love-pet.txt (@pamperedwithlovepetgrooming) |
-| Pimp My Paws | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pimp-my-paws.txt (@pimpmypaws) |
-| SASH hair studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-sash-hair-studio.txt (@sash.hairstudio) |
-| A Blended Place | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-a-blended-place.txt (@ablendedplace) |
-| Lisa's Mane Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-lisas-mane-studio.txt (@lisasmanestudio) |
-| Prep Perth | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-prep-perth.txt (@prepperth) |
-| Juicy Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-juicy-beauty.txt (@juicybeauty.perth) |
+| Halo Lashes | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@halo.lashes.perth) |
+| Flick and Flutter Lash | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@flickandflutterlash) |
+| Kikididit | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — wrong IG handle (Dallas account, not Banksia Grove) |
+| Studio Eire | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Lilly c nails | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — no Message button / inactive account (@lillycnails) |
+| Fluffy Dog Grooming | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Pampered with Love Pet Grooming and Spa | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@pamperedwithlovepetgrooming) |
+| Pimp My Paws | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — no Message button (@pimpmypaws) |
+| SASH hair studio | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| A Blended Place | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Lisa's Mane Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Prep Perth | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@prepperth) |
+| Juicy Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@juicybeauty.perth) |
 | THP Auto Mobile Mechanic | 0457 431 340 | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
 | JDS Pressure Cleaning | Message via Facebook | Yes | ✅ | ✅ | Facebook | Skipped — working site (jdspressurewashingandcleaning.com) |
-| Pooches Beauty Bar | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pooches-beauty-bar.txt (@poochesbeautybar) |
-| Belashed.bykm | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-belashed-by-km.txt (@belashed.bykm) |
-| MD Beauty Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-md-beauty-studio.txt (@md.beautystudio) |
-| White Feather Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-white-feather-beauty.txt (@whitefeatherbeauty) |
-| Tay Luxe Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-tay-luxe-studio.txt (@tayluxestudio) |
-| Gelato Nails | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-gelato-nails-subiaco.txt (@gelatonails) |
+| Pooches Beauty Bar | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — IG profile unavailable (@poochesbeautybar) |
+| Belashed.bykm | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| MD Beauty Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Skipped — wrong IG handle (Russia account, not Madora Bay) |
+| White Feather Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Tay Luxe Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Gelato Nails | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
 | A.C.E Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
 | Cambo's Mobile Mechanic | Message via Facebook | No | ✅ | ✅ | Facebook | Skipped — FB page unavailable |
 | Perth Mech Mobile Mechanics | Message via Facebook | Yes | ✅ | ✅ | Facebook | Skipped — working site (perthmech.com.au) |
-| Salty Dog Pet Salon | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-salty-dog-pet-salon.txt (@saltydogpetsalon) |
+| Salty Dog Pet Salon | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
 | One and All Mobile Cleaning | Message via Facebook | No | ✅ | ✅ | Facebook | Ready — draft in outreach/fb-*.txt |
 
 ## Contact channel priority

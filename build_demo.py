@@ -15,73 +15,77 @@ DEMOS = ROOT / "demos"
 
 THEMES = {
     "plumber": {
-        "theme_color": "#0a1014",
+        "theme_color": "#f6f5f2",
         "theme_vars": """
-  --ink: #0a1014;
   --accent: #c87533;
   --accent-deep: #8b4513;
-  --cream: #eef2f0;
-  --muted: #9aa8a0;
+  --muted: #6a7370;
 """.strip(),
     },
     "salon": {
-        "theme_color": "#120c0e",
+        "theme_color": "#f7f4f2",
         "theme_vars": """
-  --ink: #120c0e;
-  --accent: #d4a5a5;
-  --accent-deep: #9e6b6b;
-  --cream: #f7efe6;
-  --muted: #b9a59a;
+  --bg: #f7f4f2;
+  --bg-alt: #efecea;
+  --panel: #faf8f6;
+  --accent: #b87878;
+  --accent-deep: #8e5555;
+  --muted: #7a7068;
 """.strip(),
     },
     "electrician": {
-        "theme_color": "#0c1218",
+        "theme_color": "#f5f6f8",
         "theme_vars": """
-  --ink: #0c1218;
-  --accent: #e8b84a;
-  --accent-deep: #b8860b;
-  --cream: #eef1f4;
-  --muted: #8a9aab;
+  --bg: #f5f6f8;
+  --bg-alt: #eceef1;
+  --panel: #f8f9fa;
+  --accent: #c49a2e;
+  --accent-deep: #8a6a12;
+  --muted: #6a7078;
 """.strip(),
     },
     "gardener": {
-        "theme_color": "#0e140f",
+        "theme_color": "#f4f6f3",
         "theme_vars": """
-  --ink: #0e140f;
-  --accent: #6b9e5a;
+  --bg: #f4f6f3;
+  --bg-alt: #eaeeea;
+  --panel: #f8faf7;
+  --accent: #5a8c4a;
   --accent-deep: #3d6b32;
-  --cream: #eef2eb;
-  --muted: #8fa088;
+  --muted: #667068;
 """.strip(),
     },
     "mechanic": {
-        "theme_color": "#101014",
+        "theme_color": "#f6f5f4",
         "theme_vars": """
-  --ink: #101014;
-  --accent: #c44b3f;
+  --bg: #f6f5f4;
+  --bg-alt: #ecebea;
+  --panel: #faf9f8;
+  --accent: #b84a40;
   --accent-deep: #8b2e26;
-  --cream: #eeedec;
-  --muted: #9a9590;
+  --muted: #706a66;
 """.strip(),
     },
     "pet": {
-        "theme_color": "#14100c",
+        "theme_color": "#f7f5f1",
         "theme_vars": """
-  --ink: #14100c;
-  --accent: #c9a06c;
-  --accent-deep: #8b6b3f;
-  --cream: #f5f0e8;
-  --muted: #a89a88;
+  --bg: #f7f5f1;
+  --bg-alt: #eeece8;
+  --panel: #faf8f4;
+  --accent: #a88450;
+  --accent-deep: #7a5a32;
+  --muted: #7a7268;
 """.strip(),
     },
     "cafe": {
-        "theme_color": "#120e0c",
+        "theme_color": "#f6f3f0",
         "theme_vars": """
-  --ink: #120e0c;
-  --accent: #b8734a;
+  --bg: #f6f3f0;
+  --bg-alt: #ece8e4;
+  --panel: #faf7f4;
+  --accent: #a86a42;
   --accent-deep: #7a4a2e;
-  --cream: #f4ede6;
-  --muted: #a89888;
+  --muted: #7a7068;
 """.strip(),
     },
 }

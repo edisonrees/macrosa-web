@@ -1,5 +1,90 @@
 [
   {
+    "slug": "kg-plumbing-gas",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\kg-plumbing-gas",
+    "name": "KG Plumbing and Gas"
+  },
+  {
+    "slug": "mh-plumbing-services",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\mh-plumbing-services",
+    "name": "MH Plumbing Services"
+  },
+  {
+    "slug": "jaymichel-hair",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\jaymichel-hair",
+    "name": "Jaymichel Hair and Beauty"
+  },
+  {
+    "slug": "b-the-barber",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\b-the-barber",
+    "name": "B The Barber"
+  },
+  {
+    "slug": "bsparkz-electrics",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\bsparkz-electrics",
+    "name": "Bsparkz Electrics"
+  },
+  {
+    "slug": "canham-eatery",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\canham-eatery",
+    "name": "Canham Eatery"
+  },
+  {
+    "slug": "champion-barber-shop",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\champion-barber-shop",
+    "name": "Champion Barber Shop"
+  },
+  {
+    "slug": "cut-above-grooming",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\cut-above-grooming",
+    "name": "Cut Above Grooming"
+  },
+  {
+    "slug": "dagostino-electrical",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\dagostino-electrical",
+    "name": "D'Agostino Electrical"
+  },
+  {
+    "slug": "kazzs-jamaican-kitchen",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\kazzs-jamaican-kitchen",
+    "name": "Kazz's Jamaican Kitchen"
+  },
+  {
+    "slug": "lash-generation",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lash-generation",
+    "name": "Lash Generation"
+  },
+  {
+    "slug": "lumi-brow-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lumi-brow-studio",
+    "name": "Lumi Brow Studio"
+  },
+  {
+    "slug": "mech-mobile",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\mech-mobile",
+    "name": "Mech Mobile"
+  },
+  {
+    "slug": "megs-dog-walking",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\megs-dog-walking",
+    "name": "Meg's Dog Walking Service"
+  },
+  {
+    "slug": "paws-in-the-park",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\paws-in-the-park",
+    "name": "Paws in the Park"
+  },
+  {
+    "slug": "that-girl-lashess",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\that-girl-lashess",
+    "name": "that girl lashess"
+  },
+  {
+    "slug": "yundie-dc-gardening",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\yundie-dc-gardening",
+    "name": "Yundie DC Gardening and Mowing"
+  },
+  {
     "slug": "pureflow-plumbing",
     "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\pureflow-plumbing",
     "name": "PureFlow Plumbing and Gas"
@@ -38,5 +123,135 @@
     "slug": "studio-b-nails",
     "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\studio-b-nails",
     "name": "Studio B Nails.Co"
+  },
+  {
+    "slug": "halo-lashes",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\halo-lashes",
+    "name": "Halo Lashes"
+  },
+  {
+    "slug": "flick-and-flutter-lash",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\flick-and-flutter-lash",
+    "name": "Flick and Flutter Lash"
+  },
+  {
+    "slug": "kikididit",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\kikididit",
+    "name": "Kikididit"
+  },
+  {
+    "slug": "studio-eire",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\studio-eire",
+    "name": "Studio Eire"
+  },
+  {
+    "slug": "lilly-c-nails",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lilly-c-nails",
+    "name": "Lilly c nails"
+  },
+  {
+    "slug": "fluffy-dog-grooming",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\fluffy-dog-grooming",
+    "name": "Fluffy Dog Grooming"
+  },
+  {
+    "slug": "pampered-with-love-pet",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\pampered-with-love-pet",
+    "name": "Pampered with Love Pet Grooming and Spa"
+  },
+  {
+    "slug": "pimp-my-paws",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\pimp-my-paws",
+    "name": "Pimp My Paws"
+  },
+  {
+    "slug": "sash-hair-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\sash-hair-studio",
+    "name": "SASH hair studio"
+  },
+  {
+    "slug": "a-blended-place",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\a-blended-place",
+    "name": "A Blended Place"
+  },
+  {
+    "slug": "lisas-mane-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\lisas-mane-studio",
+    "name": "Lisa's Mane Studio"
+  },
+  {
+    "slug": "prep-perth",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\prep-perth",
+    "name": "Prep Perth"
+  },
+  {
+    "slug": "juicy-beauty",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\juicy-beauty",
+    "name": "Juicy Beauty"
+  },
+  {
+    "slug": "thp-auto-mobile",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\thp-auto-mobile",
+    "name": "THP Auto Mobile Mechanic"
+  },
+  {
+    "slug": "jds-pressure-cleaning",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\jds-pressure-cleaning",
+    "name": "JDS Pressure Cleaning"
+  },
+  {
+    "slug": "pooches-beauty-bar",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\pooches-beauty-bar",
+    "name": "Pooches Beauty Bar"
+  },
+  {
+    "slug": "belashed-by-km",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\belashed-by-km",
+    "name": "Belashed.bykm"
+  },
+  {
+    "slug": "md-beauty-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\md-beauty-studio",
+    "name": "MD Beauty Studio"
+  },
+  {
+    "slug": "white-feather-beauty",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\white-feather-beauty",
+    "name": "White Feather Beauty"
+  },
+  {
+    "slug": "tay-luxe-studio",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\tay-luxe-studio",
+    "name": "Tay Luxe Studio"
+  },
+  {
+    "slug": "gelato-nails-subiaco",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\gelato-nails-subiaco",
+    "name": "Gelato Nails"
+  },
+  {
+    "slug": "ace-mobile-mechanic",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\ace-mobile-mechanic",
+    "name": "A.C.E Mobile Mechanic"
+  },
+  {
+    "slug": "cambos-mobile-mechanic",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\cambos-mobile-mechanic",
+    "name": "Cambo's Mobile Mechanic"
+  },
+  {
+    "slug": "perth-mech-mobile",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\perth-mech-mobile",
+    "name": "Perth Mech Mobile Mechanics"
+  },
+  {
+    "slug": "salty-dog-pet-salon",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\salty-dog-pet-salon",
+    "name": "Salty Dog Pet Salon"
+  },
+  {
+    "slug": "one-and-all-cleaning",
+    "path": "C:\\Users\\ediso\\Downloads\\Macrosa\\demos\\one-and-all-cleaning",
+    "name": "One and All Mobile Cleaning"
   }
 ]
