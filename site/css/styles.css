@@ -424,9 +424,26 @@ h2 {
   transform: scale(1.15);
 }
 
-.pricing-panel {
-  max-width: 640px;
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  max-width: 1100px;
   margin: 0 auto;
+}
+
+.pricing-panel-featured {
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 20%, transparent);
+}
+
+.pricing-panel .btn-block {
+  margin-top: 1.25rem;
+}
+
+.pricing-panel {
+  max-width: none;
+  margin: 0;
   padding: clamp(1.5rem, 3vw, 2.25rem);
   background: var(--panel);
   border: 1px solid var(--line);
@@ -546,7 +563,8 @@ h2 {
   .nav { display: none; }
 
   .process-rail,
-  .contact-grid {
+  .contact-grid,
+  .pricing-grid {
     grid-template-columns: 1fr;
   }
 

@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
 
 Services, phone number, mobile layout and a contact form. Free to look at.
 
-If you want it live I charge $650 one-off. I handle hosting and any small text changes. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 Let me know what you think or ignore this if it is not useful.
 

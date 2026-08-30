@@ -4,7 +4,6 @@
 import json
 import subprocess
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
 
 SEND = Path(r"C:\cursor-agent-tools\scripts\discord-bridge\send.py")
@@ -19,7 +18,7 @@ I am Edison from Caisson, web developer in Perth. I came across Jaymichel Hair a
 I built a free preview for you here:
 {DEMO}
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, ignore this and sorry for the bother.
+If you like it I can get it live from $250 one-off (Medium: basic support, Google indexing, your own domain). Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 
 Cheers,
 Edison Rees
@@ -32,7 +31,7 @@ I am Edison from Caisson, web developer in Perth. I found KG Plumbing and Gas on
 I built a free preview for you here:
 {DEMO}
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, ignore this and sorry for the bother.
+If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 
 Cheers,
 Edison Rees
@@ -45,7 +44,7 @@ I am Edison from Caisson, web developer in Perth. I found D'Agostino Electrical 
 I built a free preview for you here:
 {DEMO}
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, ignore this and sorry for the bother.
+If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 
 Cheers,
 Edison Rees
@@ -63,7 +62,7 @@ I made a preview site for you:
 
 It includes your phone number, email, services and a contact form. Happy for you to click through and tell me what you think.
 
-If you want it live I charge $650 one-off. I can usually turn it around in a few days. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Medium is $250 one-off: everything in Basic plus basic support, Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 No worries if you are not interested.
 
@@ -84,7 +83,7 @@ I built a preview site for you anyway, no charge to look at it:
 
 It has your services, phone number, contact form and works on mobile.
 
-If you want it live properly I can do that for $650 one-off. That includes hosting setup and any small changes you want. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 If it is not for you, no stress at all.
 
@@ -105,7 +104,7 @@ I built a preview site for your business:
 
 Services, phone number, mobile layout and a contact form. Free to look at.
 
-If you want it live I charge $650 one-off. I handle hosting and any small text changes. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 Let me know what you think or ignore this if it is not useful.
 
@@ -152,7 +151,11 @@ def main() -> None:
     before = OUTBOX.stat().st_size if OUTBOX.exists() else 0
     queued = 0
 
-    queue("**OUTREACH APPROVAL QUEUE (top 3)**\nCaisson · $650 one-off · good bloke discount available\nReply APPROVE + lead name + channel to send. Nothing sent yet.")
+    queue(
+        "**OUTREACH APPROVAL QUEUE (top 3)**\n"
+        "Caisson · Basic $180 / Medium $250 / Advanced $400\n"
+        "Reply APPROVE + lead name + channel to send. Nothing sent yet."
+    )
 
     for lead in LEADS:
         demo = DEMO.format(slug=lead["slug"])

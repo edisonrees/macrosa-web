@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/bsparkz-electrics/
 
 It shows your services, phone number and contact form. Works on phones.
 
-$650 one-off if you want it live on your own domain. No monthly fees from me. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 Happy to hear feedback or leave it if you are not keen.
 

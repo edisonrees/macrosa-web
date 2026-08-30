@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/champion-barber-shop/
 
 Cuts, booking info, map area and phone number on mobile.
 
-$650 one-off to go live before you pay for ads. Easy for locals to find hours and services. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 Ignore this if you are not keen.
 

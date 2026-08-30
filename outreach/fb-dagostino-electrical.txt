@@ -11,7 +11,7 @@ I am Edison from Caisson, web developer in Perth. I found D'Agostino Electrical 
 I built a free preview for you:
 https://edisonrees.github.io/macroa-web/demos/dagostino-electrical/
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back, just ask. If not, no worries.
+If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, no worries.
 
 Cheers,
 Edison Rees

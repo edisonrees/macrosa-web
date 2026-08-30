@@ -18,7 +18,7 @@ https://edisonrees.github.io/macroa-web/demos/mech-mobile/
 
 Services, call button, contact form, mobile layout.
 
-$650 one-off to deploy it properly. Happy to adjust copy with you. Happy to do a good bloke discount if the price is the only thing holding you back, just ask.
+If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in.
 
 If it is not for you, no worries at all.
 

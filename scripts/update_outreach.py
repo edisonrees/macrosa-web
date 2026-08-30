@@ -1,16 +1,44 @@
 #!/usr/bin/env python3
-"""Update outreach drafts: Caisson branding, pricing, channel notes."""
+"""Update outreach drafts: Caisson branding, tiered pricing, channel notes."""
 
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTREACH = ROOT / "outreach"
 
+MEDIUM_SLUGS = {
+    "b-the-barber",
+    "canham-eatery",
+    "jaymichel-hair",
+    "kazzs-jamaican-kitchen",
+    "lash-generation",
+    "lumi-brow-studio",
+    "that-girl-lashess",
+}
+
+EMAIL_MEDIUM = (
+    "If you want it live, Medium is $250 one-off: everything in Basic plus basic support, "
+    "Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). "
+    "Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling "
+    "tomorrow evening, so shout if you want this version locked in."
+)
+
+EMAIL_BASIC = (
+    "If you want it live, Basic is $180 one-off: mobile-ready site, contact form, and deployment. "
+    "Medium is $250 if you want basic support, Google indexing, and your own domain. "
+    "I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this version locked in."
+)
+
+SIGNATURE = """Cheers,
+Edison Rees
+Caisson · Perth
+freddison200@gmail.com"""
+
 CHANNELS = {
     "kg-plumbing-gas": "Facebook preferred (corporate email may DMARC-block @gmail.com). Email fallback: info@kgplumbingandgas.com.au",
     "mh-plumbing-services": "Facebook only (no public phone or email)",
     "jaymichel-hair": "Facebook preferred (corporate email may DMARC-block @gmail.com)",
-    "b-the-barber": "Instagram (Fresha booking only — no email found)",
+    "b-the-barber": "Instagram (Fresha booking only, no email found)",
     "bsparkz-electrics": "Facebook preferred",
     "canham-eatery": "Facebook only",
     "champion-barber-shop": "SMS preferred (0470 135 042). Facebook if listed",
@@ -26,15 +54,6 @@ CHANNELS = {
     "yundie-dc-gardening": "SMS (0436 438 748)",
 }
 
-DISCOUNT = (
-    "Happy to do a good bloke discount if the price is the only thing holding you back — just ask."
-)
-
-SIGNATURE = """Cheers,
-Edison Rees
-Caisson · Perth
-freddison200@gmail.com"""
-
 
 def channel_type(note: str) -> str:
     low = note.lower()
@@ -47,13 +66,8 @@ def channel_type(note: str) -> str:
     return "Email"
 
 
-def fix_pricing_line(line: str) -> str:
-    line = line.replace("`$650", "$650")
-    if "$650" in line and DISCOUNT.split("—")[0].strip() not in line:
-        if line.rstrip().endswith("."):
-            return line.rstrip() + " " + DISCOUNT
-        return line.rstrip() + ". " + DISCOUNT
-    return line
+def pricing_line(slug: str) -> str:
+    return EMAIL_MEDIUM if slug in MEDIUM_SLUGS else EMAIL_BASIC
 
 
 def update_draft(path: Path, slug: str) -> bool:
@@ -66,19 +80,16 @@ def update_draft(path: Path, slug: str) -> bool:
     out: list[str] = []
     i = 0
 
-    # Header block
     out.append("DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD")
     out.append(f"CHANNEL: {channel_type(channel_note)}")
-    out.append(f"PRIMARY: {channel_type(channel_note)} (prefer/simultaneous — not email backup)")
+    out.append(f"PRIMARY: {channel_type(channel_note)} (prefer/simultaneous, not email backup)")
     out.append(f"CHANNEL NOTE: {channel_note}")
 
-    # Preserve TO / DEMO / Subject from original header
     for line in lines[1:]:
         if line.startswith(("TO:", "DEMO:", "Subject:")):
             if line not in out:
                 out.append(line)
 
-    # Find body start after header block
     while i < len(lines):
         line = lines[i]
         if line.startswith(("DRAFT", "CHANNEL", "TO:", "DEMO:", "Subject:", "---", "Profile:")):
@@ -92,16 +103,18 @@ def update_draft(path: Path, slug: str) -> bool:
         i += 1
 
     body: list[str] = []
+    price_set = False
     while i < len(lines):
         line = lines[i]
         if line.startswith("Cheers,"):
             break
-        if "`$650" in line or "$650" in line:
-            line = fix_pricing_line(line)
-        body.append(line)
+        if not price_set and ("$180" in line or "$250" in line or "$650" in line):
+            body.append(pricing_line(slug))
+            price_set = True
+        elif "$650" not in line and "good bloke" not in line.lower():
+            body.append(line)
         i += 1
 
-    # Trim trailing blanks before signature
     while body and body[-1].strip() == "":
         body.pop()
 
@@ -120,8 +133,8 @@ def update_facebook_template() -> None:
     path = OUTREACH / "facebook-message-template.txt"
     text = """DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
 CHANNEL: Facebook
-PRIMARY: Facebook (prefer/simultaneous — not email backup)
-CHANNEL NOTE: Facebook Messenger PRIMARY — often beats email (corporate DMARC blocks @gmail.com)
+PRIMARY: Facebook (prefer/simultaneous, not email backup)
+CHANNEL NOTE: Facebook Messenger PRIMARY, often beats email (corporate DMARC blocks @gmail.com)
 
 Hi, quick one.
 
@@ -130,7 +143,7 @@ I am Edison from Caisson, web developer in Perth. I noticed you are on Facebook 
 I built a free preview for you here:
 https://edisonrees.github.io/macroa-web/demos/kg-plumbing-gas/
 
-If you like it I can get it live for $650 one-off. Happy to do a good bloke discount if the price is the only thing holding you back — just ask. If not, ignore this and sorry for the bother.
+If you like it I can get it live from $180 one-off (Basic). Medium is $250 if you want basic support, Google indexing, and your own domain. I am rebuilding previews with upgraded tooling tomorrow evening, so shout if you want this one locked in. If not, ignore this and sorry for the bother.
 
 Cheers,
 Edison Rees
