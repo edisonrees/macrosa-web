@@ -9,19 +9,19 @@
 | KG Plumbing and Gas | 0397 882 416 | Yes | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
 | MH Plumbing Services | Contact via Facebook | No | ✅ | ✅ | Facebook | Skipped — working site / wrong lead |
 | Jaymichel Hair and Beauty | 0418 957 020 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
-| B The Barber | Book via Fresha | No | ✅ | ✅ | Instagram | Pending — IG batch (chromemcp worker 640d0852) |
+| B The Barber | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | Bsparkz Electrics | 0423 239 596 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
 | Canham Eatery | (08) 9343 3931 | No | ✅ | ✅ | Facebook | Skipped — working site |
 | Champion Barber Shop | 0470 135 042 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
 | Cut Above Grooming | 0415 396 633 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
 | D'Agostino Electrical | 0400 236 886 | No | ✅ | ✅ | Facebook | Closed — already engaged another provider (2026-08-30) |
 | Kazz's Jamaican Kitchen | 0405 362 277 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
-| Lash Generation | Book via Fresha | No | ✅ | ✅ | Instagram | Pending — IG batch (chromemcp worker 640d0852) |
-| Lumi Brow Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Pending — IG batch (chromemcp worker 640d0852) |
+| Lash Generation | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
+| Lumi Brow Studio | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | Mech Mobile | 0407 878 188 | No | ✅ | ✅ | Facebook | Skipped — no FB page found |
 | Meg's Dog Walking Service | 0422 855 420 | No | ✅ | ✅ | Facebook | Skipped — no FB page found |
 | Paws in the Park | 0406 540 024 | No | ✅ | ✅ | Email | Skipped — working site |
-| that girl lashess | Book via Fresha | No | ✅ | ✅ | Instagram | Pending — IG batch (chromemcp worker 640d0852) |
+| that girl lashess | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | Yundie DC Gardening and Mowing | 0436 438 748 | No | ✅ | ✅ | Facebook | Sent (FB Messenger, 2026-08-30) |
 | PureFlow Plumbing and Gas | 0409 477 183 | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
 | _LashesbyMonique | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-30) |
