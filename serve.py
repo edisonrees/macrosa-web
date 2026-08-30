@@ -7,6 +7,7 @@ import webbrowser
 from pathlib import Path
 
 PORT = 8765
+HOST = "127.0.0.1"
 ROOT = Path(__file__).resolve().parent
 
 class Handler(http.server.SimpleHTTPRequestHandler):
@@ -14,10 +15,10 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         super().__init__(*args, directory=str(ROOT), **kwargs)
 
 if __name__ == "__main__":
-    with socketserver.TCPServer(("", PORT), Handler) as httpd:
-        url = f"http://localhost:{PORT}/site/index.html"
-        print(f"Serving Macrosa at http://localhost:{PORT}/")
+    with socketserver.TCPServer((HOST, PORT), Handler) as httpd:
+        url = f"http://{HOST}:{PORT}/site/index.html"
+        print(f"Serving Macrosa at http://{HOST}:{PORT}/")
         print(f"Agency: {url}")
-        print(f"Demo:   http://localhost:{PORT}/demos/historic-plumbing/index.html")
+        print(f"KG demo: http://{HOST}:{PORT}/demos/kg-plumbing-gas/")
         webbrowser.open(url)
         httpd.serve_forever()

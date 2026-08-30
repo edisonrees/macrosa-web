@@ -6,10 +6,10 @@ Cloudflared quick tunnel pointing at local `serve.py` (port 8765).
 
 | URL | Purpose |
 |-----|---------|
-| https://recreational-solutions-annie-achieved.trycloudflare.com/site/ | Agency landing page |
-| https://recreational-solutions-annie-achieved.trycloudflare.com/demos/kg-plumbing-gas/ | KG Plumbing demo |
-| https://recreational-solutions-annie-achieved.trycloudflare.com/demos/mh-plumbing-services/ | MH Plumbing demo |
-| https://recreational-solutions-annie-achieved.trycloudflare.com/demos/jaymichel-hair/ | Jaymichel Hair demo |
+| https://pct-bunch-librarian-slots.trycloudflare.com/site/ | Agency landing page |
+| https://pct-bunch-librarian-slots.trycloudflare.com/demos/kg-plumbing-gas/ | KG Plumbing demo |
+| https://pct-bunch-librarian-slots.trycloudflare.com/demos/mh-plumbing-services/ | MH Plumbing demo |
+| https://pct-bunch-librarian-slots.trycloudflare.com/demos/jaymichel-hair/ | Jaymichel Hair demo |
 
 **Note:** Quick tunnels expire when the cloudflared process stops. Restart with:
 

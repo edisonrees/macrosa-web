@@ -3,10 +3,10 @@ Macrosa preview tunnel (30 Aug 2026)
 
 Use this if GitHub Pages is blocked on your network/firewall.
 
-Agency:  https://recreational-solutions-annie-achieved.trycloudflare.com/site/
-KG:      https://recreational-solutions-annie-achieved.trycloudflare.com/demos/kg-plumbing-gas/
-MH:      https://recreational-solutions-annie-achieved.trycloudflare.com/demos/mh-plumbing-services/
-Jaymichel: https://recreational-solutions-annie-achieved.trycloudflare.com/demos/jaymichel-hair/
+Agency:  https://pct-bunch-librarian-slots.trycloudflare.com/site/
+KG:      https://pct-bunch-librarian-slots.trycloudflare.com/demos/kg-plumbing-gas/
+MH:      https://pct-bunch-librarian-slots.trycloudflare.com/demos/mh-plumbing-services/
+Jaymichel: https://pct-bunch-librarian-slots.trycloudflare.com/demos/jaymichel-hair/
 
 Permanent (GitHub Pages):
 https://edisonrees.github.io/macrosa-web/site/
