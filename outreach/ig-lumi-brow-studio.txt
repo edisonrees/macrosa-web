@@ -1,0 +1,24 @@
+CHANNEL: Instagram DM
+PROFILE: https://www.instagram.com/lumi_brow_studio/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
+
+Hi,
+
+I am Edison, a web developer in Perth.
+
+I found Lumi Brow Studio on Fresha in Coodanup. Lovely home studio but no standalone site for Mandurah locals searching brow lamination.
+
+Preview here:
+
+https://edisonrees.github.io/macrosa-web/demos/lumi-brow-studio/
+
+Services, studio info and contact form on mobile.
+
+If you want it live, Medium is $250 one-off: everything in Basic plus basic support, Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this version locked in.
+
+Ignore if not useful.
+
+Cheers,
+Edison Rees
+Caisson · Perth
+freddison200@gmail.com

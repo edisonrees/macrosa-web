@@ -1,0 +1,24 @@
+CHANNEL: Instagram DM
+PROFILE: https://www.instagram.com/lashgen.wa/
+DEMO: https://edisonrees.github.io/macrosa-web/demos/lash-generation/
+
+Hi,
+
+I am Edison, a web developer in Perth.
+
+I found Lash Generation on Fresha in Gwelup. Home salon with great service but no website when people search lash extensions near Karrinyup.
+
+I built a preview:
+
+https://edisonrees.github.io/macrosa-web/demos/lash-generation/
+
+Lash services, booking prompt and mobile layout.
+
+If you want it live, Medium is $250 one-off: everything in Basic plus basic support, Google indexing setup, and your own domain (you pay the domain cost upfront before I purchase it). Basic is $180 if you just need the site live. I am rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this version locked in.
+
+No obligation.
+
+Cheers,
+Edison Rees
+Caisson · Perth
+freddison200@gmail.com
