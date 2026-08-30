@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{BUSINESS_NAME}} | {{TAGLINE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header" id="top">
+    <nav class="nav container">
+      <a class="logo" href="#top">{{BUSINESS_NAME}}</a>
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="#services">Services</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#reviews">Reviews</a></li>
+        <li><a href="#contact" class="btn btn-sm">Get a Quote</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">{{CITY}} · {{INDUSTRY}}</p>
+          <h1>{{HERO_HEADLINE}}</h1>
+          <p class="lead">{{HERO_SUBHEAD}}</p>
+          <div class="hero-actions">
+            <a href="tel:{{PHONE_RAW}}" class="btn btn-primary">{{CTA_PRIMARY}}</a>
+            <a href="#contact" class="btn btn-ghost">Request a callback</a>
+          </div>
+          <ul class="trust-row">
+            <li>✓ Licensed & insured</li>
+            <li>✓ Free quotes</li>
+            <li>✓ Same-day service</li>
+          </ul>
+        </div>
+        <div class="hero-card">
+          <div class="stat">
+            <span class="stat-num">{{YEARS}}+</span>
+            <span class="stat-label">Years experience</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">{{RATING}}</span>
+            <span class="stat-label">Google rating</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">24/7</span>
+            <span class="stat-label">Emergency callouts</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="services" id="services">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow">What we do</p>
+          <h2>Services you can rely on</h2>
+        </div>
+        <div class="service-grid">
+          {{SERVICES_HTML}}
+        </div>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="container about-grid">
+        <div>
+          <p class="eyebrow">About us</p>
+          <h2>Local {{INDUSTRY}} experts in {{CITY}}</h2>
+          <p>{{ABOUT_TEXT}}</p>
+        </div>
+        <ul class="about-list">
+          <li><strong>Service area</strong><span>{{SERVICE_AREA}}</span></li>
+          <li><strong>Hours</strong><span>{{HOURS}}</span></li>
+          <li><strong>Phone</strong><span><a href="tel:{{PHONE_RAW}}">{{PHONE_DISPLAY}}</a></span></li>
+          <li><strong>Email</strong><span><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="reviews" id="reviews">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow">Testimonials</p>
+          <h2>Trusted by locals</h2>
+        </div>
+        <div class="review-grid">
+          {{REVIEWS_HTML}}
+        </div>
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <div class="container contact-grid">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2>Get your free quote today</h2>
+          <p>Call <a href="tel:{{PHONE_RAW}}">{{PHONE_DISPLAY}}</a> or send a message — we reply fast.</p>
+        </div>
+        <form class="contact-form" action="mailto:{{EMAIL}}" method="post" enctype="text/plain">
+          <label>Name<input type="text" name="name" required /></label>
+          <label>Phone<input type="tel" name="phone" required /></label>
+          <label>Message<textarea name="message" rows="4" required></textarea></label>
+          <button type="submit" class="btn btn-primary">Send enquiry</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year"></span> {{BUSINESS_NAME}}. All rights reserved.</p>
+      <p>{{ADDRESS}}</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
