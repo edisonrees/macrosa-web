@@ -6,6 +6,29 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TARGETS = json.loads((ROOT / "leads" / "targets.json").read_text(encoding="utf-8"))
+OUTREACH = ROOT / "outreach"
+
+
+def is_real_mobile(lead: dict) -> bool:
+    raw = lead.get("phone_raw", "")
+    if not raw.startswith("+614"):
+        return False
+    if raw.startswith("+614000000"):
+        return False
+    return True
+
+
+def primary_channel(lead: dict) -> str:
+    if is_real_mobile(lead):
+        return "WhatsApp"
+    if lead.get("instagram"):
+        return "Instagram"
+    return "Email"
+
+
+BURST100 = set(
+    (ROOT / "leads" / "burst100_slugs.txt").read_text(encoding="utf-8").strip().splitlines()
+) if (ROOT / "leads" / "burst100_slugs.txt").exists() else set()
 
 # Status from prior session + new batch defaults
 STATUS = {
@@ -77,8 +100,20 @@ for lead in TARGETS:
         ig = lead.get("instagram", "")
         handle = ig.split("instagram.com/")[-1].rstrip("/") if ig else slug
         status = f"Ready — draft in outreach/ig-{slug}.txt (@{handle})"
+    elif slug in BURST100:
+        ch = primary_channel(lead)
+        if ch == "WhatsApp":
+            status = f"Ready — draft in outreach/wa-{slug}.txt"
+        elif ch == "Instagram":
+            ig = lead.get("instagram", "")
+            handle = ig.split("instagram.com/")[-1].rstrip("/") if ig else slug
+            status = f"Ready — draft in outreach/ig-{slug}.txt (@{handle})"
+        else:
+            status = "Ready — no WA/IG channel"
     else:
-        ch = "Facebook" if "facebook" in lead.get("source", "") else "Instagram"
+        ch = primary_channel(lead) if is_real_mobile(lead) or lead.get("instagram") else (
+            "Facebook" if "facebook" in lead.get("source", "") else "Instagram"
+        )
         status = "Ready"
 
     rows.append(f"| {name} | {phone} | {website} | {demo} | {draft} | {ch} | {status} |")
@@ -88,7 +123,7 @@ body = f"""# Lead pipeline tracker — Caisson
 
 **{n} leads in targets.json | All demos built | Drafts in outreach/**
 
-**Overnight batch (2026-08-30 ~9pm):** 26 new WA leads added, demos built and pushed to GitHub Pages. IG outreach deferred (chromemcp worker 640d0852 finishing original 12). New FB leads ready for browsermcp.
+**Burst-100 batch (2026-08-31):** +29 Perth/WA leads (71→100). Demos built. WA-first outreach; Instagram for IG-handle leads without real mobile. Facebook suspended — no FB sends.
 
 | Business | Phone | Website? | Demo | Draft | Channel | Status |
 |----------|-------|----------|------|-------|---------|--------|
@@ -98,10 +133,11 @@ body += """
 
 ## Contact channel priority
 
-1. **Instagram / Facebook** — PRIMARY. DM first or simultaneously; not as email backup.
-2. **SMS** — listed mobile numbers (requires Edison approval)
+1. **WhatsApp** — PRIMARY when real WA mobile (+614, not placeholder)
+2. **Instagram** — for IG-handle leads without WhatsApp mobile
 3. **Email** — when found via Facebook About or ABN lookup; fallback only
-4. **Phone** — highest conversion, needs Edison
+4. **Phone call** — highest conversion, needs Edison
+5. **Facebook** — SUSPENDED (account banned). Do not send.
 
 ## Pricing (Caisson)
 

@@ -1,0 +1,1481 @@
+[
+  {
+    "slug": "luna-bakes-perth",
+    "name": "Luna Bakes",
+    "logo_text": "LUNA",
+    "industry": "Cupcakes and Cakes",
+    "city": "Winthrop",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Custom cakes and cupcakes, Winthrop",
+    "phone_raw": "+61400000038",
+    "phone_display": "Message via Instagram",
+    "address": "Winthrop, WA",
+    "service_area": "Winthrop, Melville and Perth south",
+    "years": 5,
+    "rating": "5.0",
+    "hero_headline": "Cakes that look as good as they taste.",
+    "hero_subhead": "Jess at Luna Bakes creates custom cakes and cupcakes from a home kitchen in Winthrop for weddings, birthdays and everyday treats.",
+    "about_headline": "Home based. Instagram orders.",
+    "about": "Luna Bakes is a Winthrop home bakery known locally for beautifully decorated cakes and cupcakes. Orders and enquiries run through Instagram DMs.",
+    "band_headline": "Celebration coming up?",
+    "band_text": "DM on Instagram @lunabakesperth to discuss flavours, design and pickup.",
+    "gallery_captions": [
+      "Custom celebration cakes",
+      "Cupcake boxes",
+      "Wedding and event work",
+      "Winthrop home bakery"
+    ],
+    "source": "https://www.instagram.com/lunabakesperth/",
+    "instagram": "https://www.instagram.com/lunabakesperth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram DM only. No standalone website.",
+    "services": [
+      {
+        "title": "Custom cakes",
+        "desc": "Celebration and wedding cakes to order."
+      },
+      {
+        "title": "Cupcakes",
+        "desc": "Themed boxes and single flavour runs."
+      },
+      {
+        "title": "Special occasions",
+        "desc": "Engagements, birthdays and corporate treats."
+      },
+      {
+        "title": "Instagram orders",
+        "desc": "DM for quotes and lead times."
+      }
+    ]
+  },
+  {
+    "slug": "nikos-confectionery",
+    "name": "Niko's Confectionery",
+    "logo_text": "NIKO",
+    "industry": "Cupcakes and Cookies",
+    "city": "Ellenbrook",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Home bakery, Ellenbrook",
+    "phone_raw": "+61400000039",
+    "phone_display": "Message via Instagram",
+    "address": "Ellenbrook, WA",
+    "service_area": "Ellenbrook, Aveley and Perth north-east",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Cupcakes and cookies made with care.",
+    "hero_subhead": "Niko's Confectionery is a home-based Ellenbrook bakery specialising in cupcakes, cookies and custom dessert orders.",
+    "about_headline": "Small batch. Personal service.",
+    "about": "Niko's Confectionery creates custom cupcakes and cookies from a home kitchen in Ellenbrook. Orders are managed through Instagram.",
+    "band_headline": "Need a custom order?",
+    "band_text": "DM @nikos_confectionery on Instagram for flavours and availability.",
+    "gallery_captions": [
+      "Custom cupcakes",
+      "Cookie boxes",
+      "Ellenbrook orders",
+      "Home bakery treats"
+    ],
+    "source": "https://www.instagram.com/nikos_confectionery/",
+    "instagram": "https://www.instagram.com/nikos_confectionery/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram only. No website.",
+    "services": [
+      {
+        "title": "Cupcakes",
+        "desc": "Custom flavours and designs."
+      },
+      {
+        "title": "Cookies",
+        "desc": "Gift boxes and event orders."
+      },
+      {
+        "title": "Celebration orders",
+        "desc": "Birthdays and special occasions."
+      },
+      {
+        "title": "DM enquiries",
+        "desc": "Quotes via Instagram."
+      }
+    ]
+  },
+  {
+    "slug": "noahs-cakery",
+    "name": "Noahs Cakery",
+    "logo_text": "NOAH",
+    "industry": "Cakes and Cupcakes",
+    "city": "Perth",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Perth cakes and cupcakes",
+    "phone_raw": "+61400000040",
+    "phone_display": "Message via Instagram",
+    "address": "Perth, WA",
+    "service_area": "Perth metro",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Piped buttercream. Bold designs.",
+    "hero_subhead": "Noahs Cakery creates custom Perth cakes and cupcakes with detailed piping and celebration styling.",
+    "about_headline": "Instagram first bakery.",
+    "about": "Noahs Cakery is a Perth home baker sharing work on Instagram and taking custom cake and cupcake orders by DM.",
+    "band_headline": "Custom cake needed?",
+    "band_text": "Message @noahs_cakery on Instagram with your date and theme.",
+    "gallery_captions": [
+      "Buttercream cakes",
+      "Cupcake sets",
+      "Themed designs",
+      "Perth custom orders"
+    ],
+    "source": "https://www.instagram.com/noahs_cakery/",
+    "instagram": "https://www.instagram.com/noahs_cakery/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram DM only.",
+    "services": [
+      {
+        "title": "Custom cakes",
+        "desc": "Buttercream and celebration cakes."
+      },
+      {
+        "title": "Cupcakes",
+        "desc": "Boxes and themed sets."
+      },
+      {
+        "title": "Special designs",
+        "desc": "Army, retro and novelty work."
+      },
+      {
+        "title": "DM orders",
+        "desc": "Enquiries through Instagram."
+      }
+    ]
+  },
+  {
+    "slug": "kiev-cake-perth",
+    "name": "Kiev Cake Perth",
+    "logo_text": "KIEV",
+    "industry": "Custom Cakes",
+    "city": "Perth",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Honey cake, macarons and number cakes",
+    "phone_raw": "+61400000041",
+    "phone_display": "Message via Instagram",
+    "address": "Perth, WA",
+    "service_area": "Perth metro",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Handmade cakes for every occasion.",
+    "hero_subhead": "Kiev Cake Perth makes honey cakes, macarons, number cakes and custom buttercream designs to order.",
+    "about_headline": "Home baker. DM to book.",
+    "about": "Kiev Cake Perth is a home-based Perth baker taking orders for custom cakes and desserts through Instagram.",
+    "band_headline": "Red velvet or honey cake?",
+    "band_text": "DM @kiev_cake_perth on Instagram to book your order.",
+    "gallery_captions": [
+      "Honey cakes",
+      "Number cakes",
+      "Buttercream flowers",
+      "Macaron stacks"
+    ],
+    "source": "https://www.instagram.com/kiev_cake_perth/",
+    "instagram": "https://www.instagram.com/kiev_cake_perth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram orders only.",
+    "services": [
+      {
+        "title": "Honey cakes",
+        "desc": "Traditional layered honey cake."
+      },
+      {
+        "title": "Number cakes",
+        "desc": "Celebration number designs."
+      },
+      {
+        "title": "Macarons",
+        "desc": "Custom macaron boxes."
+      },
+      {
+        "title": "Custom orders",
+        "desc": "DM for quotes on Instagram."
+      }
+    ]
+  },
+  {
+    "slug": "the-little-cake-maker",
+    "name": "The Little Cake Maker",
+    "logo_text": "LCM",
+    "industry": "Cupcakes and Cakes",
+    "city": "Perth",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Perth cupcakes and celebration cakes",
+    "phone_raw": "+61400000042",
+    "phone_display": "Message via Instagram",
+    "address": "Perth, WA",
+    "service_area": "Perth metro",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Pretty cupcakes. Big occasions.",
+    "hero_subhead": "The Little Cake Maker creates Perth cupcakes and cakes for hens parties, weddings and everyday celebrations.",
+    "about_headline": "Home kitchen. Instagram orders.",
+    "about": "The Little Cake Maker is a Perth cakemaker known on Instagram for themed cupcakes, hens party sets and custom celebration work.",
+    "band_headline": "Party this weekend?",
+    "band_text": "DM @thelittlecakemakerperth on Instagram to order.",
+    "gallery_captions": [
+      "Hens party cupcakes",
+      "Themed designs",
+      "Wedding and event cakes",
+      "Perth home baker"
+    ],
+    "source": "https://www.instagram.com/thelittlecakemakerperth/",
+    "instagram": "https://www.instagram.com/thelittlecakemakerperth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram only. No website.",
+    "services": [
+      {
+        "title": "Cupcakes",
+        "desc": "Themed and custom flavour boxes."
+      },
+      {
+        "title": "Celebration cakes",
+        "desc": "Birthdays, hens and events."
+      },
+      {
+        "title": "Corporate orders",
+        "desc": "Branded treats by enquiry."
+      },
+      {
+        "title": "Instagram DM",
+        "desc": "Quotes and availability via DM."
+      }
+    ]
+  },
+  {
+    "slug": "sweet-n-perth",
+    "name": "Sweet N Perth",
+    "logo_text": "SWEETN",
+    "industry": "Cupcakes and Cookies",
+    "city": "Joondalup",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Perth cakes, cupcakes and cookies",
+    "phone_raw": "+61400000043",
+    "phone_display": "Message via Instagram",
+    "address": "Joondalup, WA",
+    "service_area": "Joondalup and Perth northern suburbs",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Retro cakes with personality.",
+    "hero_subhead": "Sweet N Perth is a Joondalup home baker doing heart cakes, cupcakes and cookies with bold retro styling.",
+    "about_headline": "Northern suburbs favourite.",
+    "about": "Sweet N Perth shares custom cake and cupcake work on Instagram and takes orders from Joondalup and Perth's north.",
+    "band_headline": "Need a statement cake?",
+    "band_text": "DM @sweetn_perth on Instagram for designs and pickup.",
+    "gallery_captions": [
+      "Heart cakes",
+      "Cupcake boxes",
+      "Retro styling",
+      "Joondalup orders"
+    ],
+    "source": "https://www.instagram.com/sweetn_perth/",
+    "instagram": "https://www.instagram.com/sweetn_perth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram primary. No public mobile.",
+    "services": [
+      {
+        "title": "Custom cakes",
+        "desc": "Retro and themed celebration cakes."
+      },
+      {
+        "title": "Cupcakes",
+        "desc": "Boxes for events and gifts."
+      },
+      {
+        "title": "Cookies",
+        "desc": "Decorated cookie sets."
+      },
+      {
+        "title": "DM orders",
+        "desc": "Enquiries via Instagram."
+      }
+    ]
+  },
+  {
+    "slug": "michael-mcd-hair",
+    "name": "Michael McDonald Hair",
+    "logo_text": "MCD",
+    "industry": "Mobile Barber",
+    "city": "Perth",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Mobile barber, Perth metro",
+    "phone_raw": "+61473734991",
+    "phone_display": "0473 734 991",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and surrounds",
+    "years": 8,
+    "rating": "5.0",
+    "hero_headline": "The barber comes to you.",
+    "hero_subhead": "Michael McDonald brings professional mobile haircuts and fades to homes and workplaces across Perth.",
+    "about_headline": "Slick Mick. Mobile cuts.",
+    "about": "Michael McDonald Hair is a Perth mobile barber known as Slick Mick, offering fades, tapers and scissor cuts at your location.",
+    "band_headline": "Need a cut at home?",
+    "band_text": "Call or text 0473 734 991 or DM @michael_mcd_hair on Instagram.",
+    "gallery_captions": [
+      "Mobile fades",
+      "Scissor cuts",
+      "Workplace visits",
+      "Perth metro"
+    ],
+    "source": "https://www.instagram.com/michael_mcd_hair/",
+    "instagram": "https://www.instagram.com/michael_mcd_hair/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Mobile, Instagram and phone. No standalone business website.",
+    "services": [
+      {
+        "title": "Mobile haircuts",
+        "desc": "Fades, tapers and scissor cuts at your door."
+      },
+      {
+        "title": "Workplace visits",
+        "desc": "Cuts at offices and job sites."
+      },
+      {
+        "title": "Home appointments",
+        "desc": "Private mobile service across Perth."
+      },
+      {
+        "title": "Instagram booking",
+        "desc": "DM or call to lock in a time."
+      }
+    ]
+  },
+  {
+    "slug": "tash-maree-hair",
+    "name": "Tash Maree Hair Design",
+    "logo_text": "TASH",
+    "industry": "Mobile Hair",
+    "city": "Perth",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Mobile hair, Perth metro",
+    "phone_raw": "+61447019293",
+    "phone_display": "0447 019 293",
+    "address": "Perth, WA",
+    "service_area": "Perth metro",
+    "years": 10,
+    "rating": "5.0",
+    "hero_headline": "Hair styling at your place.",
+    "hero_subhead": "Tash Maree brings cuts, colour and styling to clients across Perth with a fully mobile setup.",
+    "about_headline": "Mobile. Flexible. Experienced.",
+    "about": "Tash Maree Hair Design is a Perth mobile hairdresser offering cuts, colour and event styling at your home or venue.",
+    "band_headline": "Event or regular cut?",
+    "band_text": "Call 0447 019 293 or DM @tashmaree_hairdesign on Instagram.",
+    "gallery_captions": [
+      "Mobile styling",
+      "Colour work",
+      "Event hair",
+      "Perth metro"
+    ],
+    "source": "https://www.instagram.com/tashmaree_hairdesign/",
+    "instagram": "https://www.instagram.com/tashmaree_hairdesign/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Phone and Instagram. No website.",
+    "services": [
+      {
+        "title": "Mobile cuts",
+        "desc": "Women's and men's cuts at your location."
+      },
+      {
+        "title": "Colour",
+        "desc": "Tints, highlights and toners."
+      },
+      {
+        "title": "Event styling",
+        "desc": "Formals, weddings and special occasions."
+      },
+      {
+        "title": "Home visits",
+        "desc": "Flexible mobile appointments."
+      }
+    ]
+  },
+  {
+    "slug": "fretzy-fadez",
+    "name": "Fretzy Fadez",
+    "logo_text": "FRETZY",
+    "industry": "Barber",
+    "city": "Wellard",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home barber studio, Wellard",
+    "phone_raw": "+61400000044",
+    "phone_display": "Book via Instagram",
+    "address": "Wellard, WA 6170",
+    "service_area": "Wellard, Baldivis and Perth south",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Clean fades. Wellard local.",
+    "hero_subhead": "Fretzy Fadez runs a home barber studio in Wellard with fades and trims booked through Instagram and Booksy.",
+    "about_headline": "By appointment. Home studio.",
+    "about": "Fretzy Fadez is a Wellard based barber offering fades and trims from a home studio. Address shared after booking via @Fretzy_Fadez.",
+    "band_headline": "Need a fade?",
+    "band_text": "Message @Fretzy_Fadez on Instagram for address and booking.",
+    "gallery_captions": [
+      "Skin fades",
+      "Tapers and trims",
+      "Wellard studio",
+      "Repeat clients"
+    ],
+    "source": "https://www.instagram.com/Fretzy_Fadez/",
+    "instagram": "https://www.instagram.com/Fretzy_Fadez/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram and Booksy. No standalone website.",
+    "services": [
+      {
+        "title": "Fade and trim",
+        "desc": "Classic and skin fades."
+      },
+      {
+        "title": "Design work",
+        "desc": "Line-ups and creative styles."
+      },
+      {
+        "title": "Home studio",
+        "desc": "Private appointments in Wellard."
+      },
+      {
+        "title": "Instagram booking",
+        "desc": "DM for address after booking."
+      }
+    ]
+  },
+  {
+    "slug": "the-little-brow-studio",
+    "name": "The Little Brow Studio",
+    "logo_text": "BROW",
+    "industry": "Brows and Cosmetic Tattoo",
+    "city": "Eden Hill",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Natural brow design, Eden Hill",
+    "phone_raw": "+61401091493",
+    "phone_display": "0401 091 493",
+    "address": "21 Padbury Way, Eden Hill WA 6054",
+    "service_area": "Eden Hill, Morley and Perth north-east",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Brows that suit your face.",
+    "hero_subhead": "Saya at The Little Brow Studio specialises in natural brow design, touch-ups and lip tattoo from a private Eden Hill home studio.",
+    "about_headline": "One client at a time.",
+    "about": "The Little Brow Studio is a private home-based brow studio in Eden Hill focused on natural-looking brow design and cosmetic tattoo work.",
+    "band_headline": "Brow refresh needed?",
+    "band_text": "Text 0401 091 493 or book through Fresha.",
+    "gallery_captions": [
+      "Natural brow design",
+      "Brow tattoo",
+      "Lip tattoo",
+      "Eden Hill studio"
+    ],
+    "source": "https://www.fresha.com/a/the-little-brow-studio-eden-hill-21-padbury-way-fusvjt14",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Phone, text and Fresha. No standalone website.",
+    "services": [
+      {
+        "title": "Natural brow design",
+        "desc": "Shaping matched to your features."
+      },
+      {
+        "title": "Brow touch-ups",
+        "desc": "Existing client maintenance."
+      },
+      {
+        "title": "Lip tattoo",
+        "desc": "Cosmetic lip work by appointment."
+      },
+      {
+        "title": "Private studio",
+        "desc": "One-on-one Eden Hill appointments."
+      }
+    ]
+  },
+  {
+    "slug": "haus-of-solace",
+    "name": "Haus of Solace",
+    "logo_text": "SOLACE",
+    "industry": "Lash and Brow",
+    "city": "Camillo",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Luxury lashes and brows, Camillo",
+    "phone_raw": "+61400000045",
+    "phone_display": "Book via Instagram",
+    "address": "9 Lantana Way, Camillo WA 6111",
+    "service_area": "Camillo, Armadale and Perth south-east",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Lashes and brows in a calm space.",
+    "hero_subhead": "Haus of Solace is a private Camillo home studio for luxury lash extensions, lifts and brow lamination.",
+    "about_headline": "Cozy studio. Personalised sets.",
+    "about": "Haus of Solace offers luxury lash and brow treatments from a private home studio in Camillo with booking via Instagram bio link.",
+    "band_headline": "New set or refill?",
+    "band_text": "Book through the link in @hausofsolace.beauty on Instagram.",
+    "gallery_captions": [
+      "Classic lashes",
+      "Volume sets",
+      "Brow lamination",
+      "Camillo home studio"
+    ],
+    "source": "https://www.fresha.com/a/haus-of-solace-camillo-9-lantana-way-mfxlct0d",
+    "instagram": "https://www.instagram.com/hausofsolace.beauty/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Instagram booking link. Fresha deprecated.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic through volume sets."
+      },
+      {
+        "title": "Brow lamination",
+        "desc": "Lifted, styled brows."
+      },
+      {
+        "title": "Lash lift",
+        "desc": "Low-maintenance lash lift and tint."
+      },
+      {
+        "title": "Memberships",
+        "desc": "Regular client lash plans."
+      }
+    ]
+  },
+  {
+    "slug": "bentley-nail-maker",
+    "name": "Bentley Nail Maker",
+    "logo_text": "NAOMI",
+    "industry": "Nail Studio",
+    "city": "Bentley",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home nail studio, Bentley",
+    "phone_raw": "+61400000046",
+    "phone_display": "Book via Fresha",
+    "address": "5B Boulder Street, Bentley WA 6102",
+    "service_area": "Bentley, Victoria Park and Perth south",
+    "years": 5,
+    "rating": "5.0",
+    "hero_headline": "Russian manicure. Quiet studio.",
+    "hero_subhead": "Naomi runs a private home nail studio in Bentley specialising in Russian manicures, builder gel and acrylic extensions.",
+    "about_headline": "One client. Full focus.",
+    "about": "Bentley Nail Maker is a home-based nail studio offering Russian manicures and sculpted sets in a calm, private space south of the river.",
+    "band_headline": "New set or infill?",
+    "band_text": "Book on Fresha or DM @nail_maker.au on Instagram.",
+    "gallery_captions": [
+      "Russian manicure",
+      "Builder gel sets",
+      "Acrylic extensions",
+      "Bentley studio"
+    ],
+    "source": "https://www.fresha.com/a/bentley-nail-maker-bentley-boulder-street-vb7nr5vl",
+    "instagram": "https://www.instagram.com/nail_maker.au/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram. No website.",
+    "services": [
+      {
+        "title": "Russian manicure",
+        "desc": "Precision cuticle and gel work."
+      },
+      {
+        "title": "Builder gel",
+        "desc": "Structured natural nail enhancements."
+      },
+      {
+        "title": "Acrylic extensions",
+        "desc": "Sculpted sets and infills."
+      },
+      {
+        "title": "Pedicures",
+        "desc": "Dry Russian toes and deluxe pedicures."
+      }
+    ]
+  },
+  {
+    "slug": "gals-perth",
+    "name": "Gals Perth",
+    "logo_text": "GALS",
+    "industry": "Nails and Lashes",
+    "city": "Langford",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Private nail studio, Langford",
+    "phone_raw": "+61400000047",
+    "phone_display": "Book via Fresha",
+    "address": "20 Foxwood Way, Langford WA 6147",
+    "service_area": "Langford, Thornlie and Perth south-east",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Nails done properly.",
+    "hero_subhead": "Gals Perth is a calm private nail studio in Langford offering gel, soft gel extensions and brow services.",
+    "about_headline": "Refined. Personal. Local.",
+    "about": "Gals Perth is a home nail studio in Langford run by Euweilis, known for detailed nail art and a relaxed one-on-one experience.",
+    "band_headline": "Book your appointment?",
+    "band_text": "Book on Fresha or check @galsperth on Instagram.",
+    "gallery_captions": [
+      "Soft gel nails",
+      "Nail art",
+      "Brow services",
+      "Langford studio"
+    ],
+    "source": "https://www.fresha.com/a/gals-perth-langford-20-foxwood-way-fwdhfnlo",
+    "instagram": "https://www.instagram.com/galsperth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only.",
+    "services": [
+      {
+        "title": "Soft gel extensions",
+        "desc": "Structured gel nail enhancements."
+      },
+      {
+        "title": "Dry manicure",
+        "desc": "Gel polish and nail care."
+      },
+      {
+        "title": "Nail art",
+        "desc": "Custom designs and seasonal sets."
+      },
+      {
+        "title": "Brow tidy",
+        "desc": "Brow shaping add-ons."
+      }
+    ]
+  },
+  {
+    "slug": "pampered-little-pups",
+    "name": "Pampered Little Pups",
+    "logo_text": "PUPS",
+    "industry": "Dog Grooming",
+    "city": "Stirling",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Small dog grooming, Stirling",
+    "phone_raw": "+61400000048",
+    "phone_display": "Book via Fresha",
+    "address": "4 Pompei Crescent, Stirling WA 6021",
+    "service_area": "Stirling, Scarborough and Perth north",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Gentle grooms for small dogs.",
+    "hero_subhead": "Pampered Little Pups specialises in dogs under 10kg with de-shedding, full grooms and hygiene trims in Stirling.",
+    "about_headline": "Small dogs only. Calm space.",
+    "about": "Pampered Little Pups is a Stirling grooming studio focused on small and double-coated breeds in a quiet, welcoming environment.",
+    "band_headline": "First groom or regular slot?",
+    "band_text": "Book on Fresha or DM @pamperedlittlepups on Instagram.",
+    "gallery_captions": [
+      "Full grooms",
+      "De-shedding",
+      "Hygiene trims",
+      "Stirling studio"
+    ],
+    "source": "https://www.fresha.com/a/pampered-little-pups-stirling-4-pompei-crescent-ytznjwuj",
+    "instagram": "https://www.instagram.com/pamperedlittlepups/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram. No website.",
+    "services": [
+      {
+        "title": "Full grooms",
+        "desc": "Wash, dry, clip and style for small dogs."
+      },
+      {
+        "title": "De-shedding",
+        "desc": "Coat care for double-coated breeds."
+      },
+      {
+        "title": "Hygiene trims",
+        "desc": "Face, feet and sanitary tidy-ups."
+      },
+      {
+        "title": "Small dogs",
+        "desc": "Under 10kg by appointment."
+      }
+    ]
+  },
+  {
+    "slug": "house-of-luxxe",
+    "name": "House of Luxxe",
+    "logo_text": "LUXXE",
+    "industry": "Lash Extensions",
+    "city": "Hamersley",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home lash studio, Hamersley",
+    "phone_raw": "+61400000049",
+    "phone_display": "Book via Fresha",
+    "address": "72 Vickers Street, Hamersley WA 6022",
+    "service_area": "Hamersley, Warwick and Perth north",
+    "years": 5,
+    "rating": "5.0",
+    "hero_headline": "Lashes you wake up in.",
+    "hero_subhead": "Monika at House of Luxxe creates classic to volume lash sets from a cozy Hamersley home salon.",
+    "about_headline": "Licensed. Hygienic. Local.",
+    "about": "House of Luxxe is a Hamersley home lash studio offering tailored extension sets, lifts and lash memberships.",
+    "band_headline": "Natural or full glam?",
+    "band_text": "Book on Fresha or DM @houseofluxxe_ on Instagram.",
+    "gallery_captions": [
+      "Classic sets",
+      "Volume lashes",
+      "Lash lift",
+      "Hamersley studio"
+    ],
+    "source": "https://www.fresha.com/a/house-of-luxxe-hamersley-72-vickers-street-qhe31oqv",
+    "instagram": "https://www.instagram.com/houseofluxxe_/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram. No website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic, hybrid and volume sets."
+      },
+      {
+        "title": "Lash infills",
+        "desc": "Two to three week refills."
+      },
+      {
+        "title": "Lash lift",
+        "desc": "Lift and tint for low maintenance."
+      },
+      {
+        "title": "Memberships",
+        "desc": "Regular client lash plans."
+      }
+    ]
+  },
+  {
+    "slug": "brookelyn-beauty",
+    "name": "Brookelyn Beauty",
+    "logo_text": "BROOK",
+    "industry": "Lash and Brow",
+    "city": "Balcatta",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home beauty salon, Balcatta",
+    "phone_raw": "+61400000050",
+    "phone_display": "Book via Fresha",
+    "address": "2B Yarram Road, Balcatta WA 6021",
+    "service_area": "Balcatta, Stirling and Perth north",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Lashes and brows with care.",
+    "hero_subhead": "Brookelyn runs a relaxing home salon in Balcatta for lash extensions, lifts, brows and cosmetic tattoo training.",
+    "about_headline": "Six years experience.",
+    "about": "Brookelyn Beauty is a Balcatta home salon offering lash extensions, brow services and cosmetic tattoo work in a private setting.",
+    "band_headline": "Lash lift or extensions?",
+    "band_text": "Book on Fresha or DM @brookelynbeautyy on Instagram.",
+    "gallery_captions": [
+      "Lash extensions",
+      "Lash lift",
+      "Brow lamination",
+      "Balcatta home salon"
+    ],
+    "source": "https://www.fresha.com/a/brookelyn-beauty-perth-2b-yarram-road-vx7iwsba",
+    "instagram": "https://www.instagram.com/brookelynbeautyy/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic and volume sets."
+      },
+      {
+        "title": "Lash growth lift",
+        "desc": "Lift treatments with growth focus."
+      },
+      {
+        "title": "Brow services",
+        "desc": "Wax, tint and lamination."
+      },
+      {
+        "title": "Cosmetic tattoo",
+        "desc": "Brow and lip tattoo by appointment."
+      }
+    ]
+  },
+  {
+    "slug": "lush-lash-beauty",
+    "name": "Lush Lash and Beauty",
+    "logo_text": "LUSH",
+    "industry": "Lash and Beauty",
+    "city": "Scarborough",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash and beauty, Scarborough",
+    "phone_raw": "+61400000051",
+    "phone_display": "Book via Fresha",
+    "address": "61 Sackville Terrace, Scarborough WA 6019",
+    "service_area": "Scarborough, Trigg and Perth coastal",
+    "years": 8,
+    "rating": "5.0",
+    "hero_headline": "Lashes and beauty by the coast.",
+    "hero_subhead": "Lush Lash and Beauty on Sackville Terrace offers lash extensions, brows, hair and body treatments in Scarborough.",
+    "about_headline": "Coastal salon. Personal service.",
+    "about": "Lush Lash and Beauty is a Scarborough lash and beauty studio known for extensions, brow work and a welcoming client experience.",
+    "band_headline": "New set or brow tidy?",
+    "band_text": "Book on Fresha or DM @lushlashperth on Instagram.",
+    "gallery_captions": [
+      "Lash extensions",
+      "Brow shaping",
+      "Scarborough studio",
+      "Coastal clients"
+    ],
+    "source": "https://www.fresha.com/a/lush-lash-beauty-scarborough-61-sackville-terrace-w9ixls3x",
+    "instagram": "https://www.instagram.com/lushlashperth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram. No standalone website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic, hybrid and volume."
+      },
+      {
+        "title": "Brow shaping",
+        "desc": "Tint, wax and lamination."
+      },
+      {
+        "title": "Beauty treatments",
+        "desc": "Facials and body sculpting add-ons."
+      },
+      {
+        "title": "Scarborough studio",
+        "desc": "Appointment-only on Sackville Terrace."
+      }
+    ]
+  },
+  {
+    "slug": "fierce-lash-brow-edit",
+    "name": "Fierce Lash and Brow Edit",
+    "logo_text": "FIERCE",
+    "industry": "Lash and Brow",
+    "city": "Cardup",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash and brow studio, Cardup",
+    "phone_raw": "+61400000052",
+    "phone_display": "Book via Fresha",
+    "address": "99 Bournbrook Avenue, Cardup WA 6122",
+    "service_area": "Cardup, Byford and Perth south-east",
+    "years": 4,
+    "rating": "5.0",
+    "hero_headline": "Bold lashes. Defined brows.",
+    "hero_subhead": "Fierce Lash and Brow Edit in Cardup offers mega volume lashes, classic sets, brow work and teeth whitening.",
+    "about_headline": "Personalised lash looks.",
+    "about": "Fierce Lash and Brow Edit is a Cardup beauty studio creating tailored lash extensions from classic through mega volume.",
+    "band_headline": "Drama or natural?",
+    "band_text": "Book on Fresha or DM @fiercelashandbrowedit on Instagram.",
+    "gallery_captions": [
+      "Mega volume",
+      "Classic lashes",
+      "Brow lamination",
+      "Cardup studio"
+    ],
+    "source": "https://www.fresha.com/a/fierce-lash-and-brow-edit-cardup-99-bournbrook-avenue-qwvc45hn",
+    "instagram": "https://www.instagram.com/fiercelashandbrowedit/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram only.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic through mega volume."
+      },
+      {
+        "title": "Lash lift",
+        "desc": "Lift and tint packages."
+      },
+      {
+        "title": "Brow styling",
+        "desc": "Lamination and shaping."
+      },
+      {
+        "title": "Teeth whitening",
+        "desc": "Add-on beauty treatments."
+      }
+    ]
+  },
+  {
+    "slug": "mats-mobile-dog-grooming",
+    "name": "Mat's Mobile Dog Grooming",
+    "logo_text": "MATS",
+    "industry": "Mobile Dog Grooming",
+    "city": "Port Kennedy",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Mobile dog grooming, Rockingham",
+    "phone_raw": "+61412938691",
+    "phone_display": "0412 938 691",
+    "address": "10 Langston Close, Port Kennedy WA 6172",
+    "service_area": "Rockingham, Port Kennedy, Baldivis and Singleton",
+    "years": 7,
+    "rating": "5.0",
+    "hero_headline": "The groomer comes to you.",
+    "hero_subhead": "Mat's Mobile Dog Grooming covers Rockingham through Baldivis with full grooms and bath services at your home.",
+    "about_headline": "Mobile. Local. Trusted.",
+    "about": "Mat's Mobile Dog Grooming is a Port Kennedy based mobile groomer serving the Rockingham area with one-on-one care at your door.",
+    "band_headline": "Book your groom?",
+    "band_text": "Call 0412 938 691 or book online through Moego.",
+    "gallery_captions": [
+      "Full grooms",
+      "Bath and tidy",
+      "Mobile van",
+      "Rockingham area"
+    ],
+    "source": "https://booking.moego.pet/ol/landing?name=JimsDogWashBaldivis",
+    "has_website": false,
+    "website_note": "Moego booking page only. Pitch proper site.",
+    "demo_flag": "outreach",
+    "contact_note": "Phone and Moego booking. No standalone website.",
+    "services": [
+      {
+        "title": "Full grooms",
+        "desc": "Wash, dry, clip and style at your home."
+      },
+      {
+        "title": "Bath and tidy",
+        "desc": "Between-groom freshen-ups."
+      },
+      {
+        "title": "Mobile service",
+        "desc": "Rockingham to Baldivis coverage."
+      },
+      {
+        "title": "All breeds",
+        "desc": "Small to large dogs by appointment."
+      }
+    ]
+  },
+  {
+    "slug": "yorkshire-painting-service",
+    "name": "Yorkshire Painting Service",
+    "logo_text": "YORK",
+    "industry": "Painting",
+    "city": "Hillarys",
+    "image_set": "gardener",
+    "theme": "gardener",
+    "tagline": "Residential painting, Hillarys",
+    "phone_raw": "+61417452206",
+    "phone_display": "0417 452 206",
+    "address": "Hillarys, WA",
+    "service_area": "Hillarys, northern suburbs and Perth metro",
+    "years": 15,
+    "rating": "5.0",
+    "hero_headline": "Quality paint. Fair quotes.",
+    "hero_subhead": "Yorkshire Painting Service handles interior and exterior repaints for homes across Hillarys and Perth's north.",
+    "about_headline": "Local painter. Facebook enquiries.",
+    "about": "Yorkshire Painting Service is a Hillarys based painting team with strong local reviews and enquiries through Facebook and phone.",
+    "band_headline": "Planning a repaint?",
+    "band_text": "Call 0417 452 206 or message on Facebook for a free quote.",
+    "gallery_captions": [
+      "Interior repaints",
+      "Exterior facades",
+      "Hillarys jobs",
+      "Northern suburbs"
+    ],
+    "source": "https://www.facebook.com/YorkshirePaintingService/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Facebook and phone only. No standalone website.",
+    "services": [
+      {
+        "title": "Interior painting",
+        "desc": "Rooms, ceilings and trim work."
+      },
+      {
+        "title": "Exterior painting",
+        "desc": "Facades, eaves and outdoor areas."
+      },
+      {
+        "title": "Repaints",
+        "desc": "Full home refresh projects."
+      },
+      {
+        "title": "Free quotes",
+        "desc": "Call or Facebook message."
+      }
+    ]
+  },
+  {
+    "slug": "perth-hidden-beauty",
+    "name": "Perth Hidden Beauty",
+    "logo_text": "HIDDEN",
+    "industry": "Lash and Brow",
+    "city": "Cannington",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Lash and brow salon, Cannington",
+    "phone_raw": "+61447337466",
+    "phone_display": "0447 337 466",
+    "address": "Unit 17/53 Cecil Avenue, Cannington WA 6107",
+    "service_area": "Cannington, Carousel and Perth south-east",
+    "years": 8,
+    "rating": "5.0",
+    "hero_headline": "Lashes and brows near Carousel.",
+    "hero_subhead": "Hidden Beauty is a boutique Cannington salon for lash extensions, brow shaping and tanning near Westfield Carousel.",
+    "about_headline": "Established local salon.",
+    "about": "Perth Hidden Beauty is a long-running Cannington lash and brow salon with direct phone bookings and a strong local following.",
+    "band_headline": "Lash fill or brow shape?",
+    "band_text": "Call 0447 337 466 to book.",
+    "gallery_captions": [
+      "Lash extensions",
+      "Brow shaping",
+      "Cannington salon",
+      "Carousel local"
+    ],
+    "source": "https://www.fresha.com/lvp/perth-hidden-beauty-cecil-avenue-cannington-loZae7",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Phone and Fresha listing. No standalone website.",
+    "services": [
+      {
+        "title": "Lash extensions",
+        "desc": "Classic and volume sets."
+      },
+      {
+        "title": "Lash refills",
+        "desc": "Two to three week maintenance."
+      },
+      {
+        "title": "Brow shaping",
+        "desc": "Tint, wax and sculpting."
+      },
+      {
+        "title": "Spray tan",
+        "desc": "Tanning add-on services."
+      }
+    ]
+  },
+  {
+    "slug": "ink-and-ivory-artistry",
+    "name": "Ink and Ivory Artistry",
+    "logo_text": "INK",
+    "industry": "Nail Studio",
+    "city": "Bayswater",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Nail artistry, Bayswater",
+    "phone_raw": "+61400000053",
+    "phone_display": "Book via Fresha",
+    "address": "89A Whatley Crescent, Bayswater WA 6053",
+    "service_area": "Bayswater, Maylands and Perth inner north",
+    "years": 5,
+    "rating": "5.0",
+    "hero_headline": "Nail health meets nail art.",
+    "hero_subhead": "Zuri at Ink and Ivory Artistry creates BIAB, gel overlays and detailed nail art from a Bayswater studio.",
+    "about_headline": "Meticulous. Creative. Healthy nails.",
+    "about": "Ink and Ivory Artistry is a Bayswater nail studio focused on nail health, BIAB structures and custom art.",
+    "band_headline": "New set or nail art?",
+    "band_text": "Book on Fresha or DM @ink.and.ivory.artistry on Instagram.",
+    "gallery_captions": [
+      "BIAB overlays",
+      "Nail art",
+      "Gel extensions",
+      "Bayswater studio"
+    ],
+    "source": "https://www.fresha.com/",
+    "instagram": "https://www.instagram.com/ink.and.ivory.artistry/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and Instagram. No standalone website.",
+    "services": [
+      {
+        "title": "BIAB and gel",
+        "desc": "Builder gel overlays and structured sets."
+      },
+      {
+        "title": "Nail art",
+        "desc": "Custom designs and event nails."
+      },
+      {
+        "title": "Gel extensions",
+        "desc": "Gel-X and sculpted enhancements."
+      },
+      {
+        "title": "Infills",
+        "desc": "Regular maintenance appointments."
+      }
+    ]
+  },
+  {
+    "slug": "the-dessert-obsession",
+    "name": "The Dessert Obsession",
+    "logo_text": "DESSERT",
+    "industry": "Cupcakes and Baking",
+    "city": "Byford",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Cupcakes and slices, Byford",
+    "phone_raw": "+61400000054",
+    "phone_display": "Message via Facebook",
+    "email": "bec@thedessertobsession.com.au",
+    "address": "Byford, WA",
+    "service_area": "Byford, Armadale and Perth south-east",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Sweet treats for every occasion.",
+    "hero_subhead": "The Dessert Obsession makes cupcake bouquets, corporate cookies and celebration orders from Byford.",
+    "about_headline": "Home baker. Local orders.",
+    "about": "The Dessert Obsession is a Byford home bakery taking custom cupcake and cookie orders via Facebook and email.",
+    "band_headline": "Corporate gifting or party?",
+    "band_text": "Email bec@thedessertobsession.com.au or message on Facebook.",
+    "gallery_captions": [
+      "Cupcake bouquets",
+      "Corporate cookies",
+      "Celebration boxes",
+      "Byford orders"
+    ],
+    "source": "https://www.facebook.com/sprinkles2crumbs",
+    "instagram": "https://www.instagram.com/sprinkles2crumbs/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Facebook, Instagram and email. No standalone website.",
+    "services": [
+      {
+        "title": "Cupcake bouquets",
+        "desc": "Gift boxes from 7 to 19 cupcakes."
+      },
+      {
+        "title": "Corporate cookies",
+        "desc": "Logo branding and edible prints."
+      },
+      {
+        "title": "Celebration orders",
+        "desc": "Birthdays, Mothers Day and events."
+      },
+      {
+        "title": "Byford pickup",
+        "desc": "Local collection by arrangement."
+      }
+    ]
+  },
+  {
+    "slug": "pauly-ks-kitchen",
+    "name": "Pauly K's Kitchen",
+    "logo_text": "PAULY",
+    "industry": "Food Truck and Catering",
+    "city": "Perth",
+    "image_set": "cafe",
+    "theme": "cafe",
+    "tagline": "Hawker food truck, Perth",
+    "phone_raw": "+61400000055",
+    "phone_display": "Email or Facebook",
+    "email": "paulykskitchen@gmail.com",
+    "address": "Perth, WA",
+    "service_area": "Perth metro events and markets",
+    "years": 10,
+    "rating": "4.9",
+    "hero_headline": "Authentic hawker street food.",
+    "hero_subhead": "Pauly K's Kitchen serves roti canai, satay and hawker favourites from a Perth food truck and catering setup.",
+    "about_headline": "Events. Markets. Catering.",
+    "about": "Pauly K's Kitchen is a Perth mobile hawker food business catering events with Malaysian and Asian street food.",
+    "band_headline": "Event or festival?",
+    "band_text": "Email paulykskitchen@gmail.com or message on Facebook.",
+    "gallery_captions": [
+      "Roti canai",
+      "Chicken satay",
+      "Curry puffs",
+      "Food truck catering"
+    ],
+    "source": "https://www.facebook.com/paulykskitchen",
+    "instagram": "https://www.instagram.com/paulykskitchen/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Facebook, Instagram and email. No standalone website.",
+    "services": [
+      {
+        "title": "Food truck",
+        "desc": "Rolling hawker menu at markets."
+      },
+      {
+        "title": "Event catering",
+        "desc": "Private and corporate packages."
+      },
+      {
+        "title": "Hawker favourites",
+        "desc": "Satay, roti and curry puffs."
+      },
+      {
+        "title": "Enquiries",
+        "desc": "Email or social message for quotes."
+      }
+    ]
+  },
+  {
+    "slug": "moceys-home-studio",
+    "name": "Moey's Home Studio",
+    "logo_text": "MOEY",
+    "industry": "Barber",
+    "city": "Canning Vale",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Home barber studio, Canning Vale",
+    "phone_raw": "+61400000056",
+    "phone_display": "Book via Fresha",
+    "address": "44 Ashmore Avenue, Canning Vale WA 6155",
+    "service_area": "Canning Vale, Willetton and Perth south",
+    "years": 3,
+    "rating": "5.0",
+    "hero_headline": "Fades in a home studio.",
+    "hero_subhead": "Moey runs a private Canning Vale barber studio for skin fades, scissor cuts and kids cuts.",
+    "about_headline": "Relaxed. Skilled. Local.",
+    "about": "Moey's Home Studio is a Canning Vale home barber space with appointment-only cuts booked on Fresha.",
+    "band_headline": "Need a fade?",
+    "band_text": "Book through Fresha for Canning Vale appointments.",
+    "gallery_captions": [
+      "Skin fades",
+      "Scissor cuts",
+      "Kids cuts",
+      "Canning Vale studio"
+    ],
+    "source": "https://www.fresha.com/a/moeys-home-studio-canning-vale-44-ashmore-avenue-lajkoo0n",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha booking only. No website.",
+    "services": [
+      {
+        "title": "Skin fade",
+        "desc": "Classic and skin fades."
+      },
+      {
+        "title": "Scissor cut",
+        "desc": "Traditional barber cuts."
+      },
+      {
+        "title": "Kids cut",
+        "desc": "Standard and fade kids styles."
+      },
+      {
+        "title": "Home studio",
+        "desc": "Private Canning Vale appointments."
+      }
+    ]
+  },
+  {
+    "slug": "shona-threading-perth",
+    "name": "Shona Threading and Waxing Perth",
+    "logo_text": "SHONA",
+    "industry": "Beauty and Threading",
+    "city": "Victoria Park",
+    "image_set": "salon",
+    "theme": "salon",
+    "tagline": "Threading and waxing, Victoria Park",
+    "phone_raw": "+61400000057",
+    "phone_display": "Book via Fresha",
+    "address": "Kiosk K02, Victoria Park Central, 366 Albany Highway, Victoria Park WA 6100",
+    "service_area": "Victoria Park, Bentley and Perth inner south",
+    "years": 7,
+    "rating": "4.9",
+    "hero_headline": "Brows and threading done properly.",
+    "hero_subhead": "Shona offers brow threading, waxing and beauty services at Victoria Park Central.",
+    "about_headline": "Central location. Walk-in friendly.",
+    "about": "Shona Threading and Waxing Perth operates from a kiosk at Victoria Park Central.",
+    "band_headline": "Brow tidy today?",
+    "band_text": "Visit Victoria Park Central or book on Fresha.",
+    "gallery_captions": [
+      "Brow threading",
+      "Waxing services",
+      "Victoria Park kiosk",
+      "Tint and shape"
+    ],
+    "source": "https://www.fresha.com/",
+    "instagram": "https://www.instagram.com/shonathreadingperth/",
+    "has_website": false,
+    "demo_flag": "outreach",
+    "contact_note": "Fresha and kiosk. No standalone website.",
+    "services": [
+      {
+        "title": "Eyebrow threading",
+        "desc": "Precision brow shaping."
+      },
+      {
+        "title": "Waxing",
+        "desc": "Face and body wax services."
+      },
+      {
+        "title": "Brow tint",
+        "desc": "Tint and shape packages."
+      },
+      {
+        "title": "Victoria Park kiosk",
+        "desc": "Albany Highway central location."
+      }
+    ]
+  },
+  {
+    "slug": "waggy-tails-doggy-wash",
+    "name": "Waggy Tails Doggy Wash",
+    "logo_text": "WAGGY",
+    "industry": "Mobile Dog Grooming",
+    "city": "Ellenbrook",
+    "image_set": "pet",
+    "theme": "pet",
+    "tagline": "Mobile dog wash, Ellenbrook",
+    "phone_raw": "+61419941895",
+    "phone_display": "0419 941 895",
+    "email": "tpw_174@bigpond.com",
+    "address": "94 Charlottes Vista, Ellenbrook WA 6069",
+    "service_area": "Ellenbrook and Perth metro within 20km",
+    "years": 12,
+    "rating": "4.9",
+    "hero_headline": "Mobile wash and groom.",
+    "hero_subhead": "Waggy Tails brings hydrobath washing and grooming to Ellenbrook and nearby suburbs.",
+    "about_headline": "Family owned. Dog lovers.",
+    "about": "Waggy Tails Doggy Wash is an Ellenbrook mobile dog wash serving the metro area within roughly 20km.",
+    "band_headline": "Book a pamper session?",
+    "band_text": "Call 0419 941 895 or email tpw_174@bigpond.com.",
+    "gallery_captions": [
+      "Hydrobath wash",
+      "Mobile grooming",
+      "Nail clipping",
+      "Ellenbrook based"
+    ],
+    "source": "https://www.facebook.com/waggytailsdoggywash",
+    "has_website": false,
+    "website_note": "Basic waggytailsdoggywash.com.au. Pitch proper site.",
+    "demo_flag": "outreach",
+    "contact_note": "Phone and email. Basic/outdated web presence.",
+    "services": [
+      {
+        "title": "Mobile dog wash",
+        "desc": "Warm hydrobath at your home."
+      },
+      {
+        "title": "Dog grooming",
+        "desc": "Full grooms and tidy-ups."
+      },
+      {
+        "title": "Nail clipping",
+        "desc": "Nails and basic hygiene."
+      },
+      {
+        "title": "Ellenbrook area",
+        "desc": "Metro within 20km of Ellenbrook."
+      }
+    ]
+  },
+  {
+    "slug": "manbun-mowing",
+    "name": "Manbun Mowing",
+    "logo_text": "MANBUN",
+    "industry": "Gardening and Lawn Care",
+    "city": "Perth",
+    "image_set": "gardener",
+    "theme": "gardener",
+    "tagline": "Lawn mowing and garden care, Perth",
+    "phone_raw": "+61422742022",
+    "phone_display": "0422 742 022",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and surrounds",
+    "years": 6,
+    "rating": "5.0",
+    "hero_headline": "Lawns under control.",
+    "hero_subhead": "Manbun Mowing handles lawn mowing, garden clean-ups and end of lease garden work across Perth.",
+    "about_headline": "Reliable. Local. Fair pricing.",
+    "about": "Manbun Mowing is a Perth gardening service for lawn maintenance and vacate garden work.",
+    "band_headline": "Overgrown yard or lease clean?",
+    "band_text": "Call or text 0422 742 022 for a free quote.",
+    "gallery_captions": [
+      "Lawn mowing",
+      "Garden clean-ups",
+      "End of lease tidy",
+      "Perth metro"
+    ],
+    "source": "https://www.facebook.com/manbunmowing",
+    "has_website": false,
+    "website_note": "Basic manbunmowing.com one-pager. Pitch upgrade.",
+    "demo_flag": "outreach",
+    "contact_note": "Phone and Facebook. Basic site only.",
+    "services": [
+      {
+        "title": "Lawn mowing",
+        "desc": "Regular and one-off mows with edging."
+      },
+      {
+        "title": "Garden maintenance",
+        "desc": "Weeding, pruning and tidy-ups."
+      },
+      {
+        "title": "End of lease",
+        "desc": "Vacate garden clean packages."
+      },
+      {
+        "title": "Tree care",
+        "desc": "Basic tree trimming by quote."
+      }
+    ]
+  },
+  {
+    "slug": "leading-edge-mechanical",
+    "name": "Leading Edge Mechanical",
+    "logo_text": "LEM",
+    "industry": "Mobile Mechanic",
+    "city": "Perth",
+    "image_set": "mechanic",
+    "theme": "mechanic",
+    "tagline": "Mobile mechanic, Perth metro",
+    "phone_raw": "+61408558119",
+    "phone_display": "0408 558 119",
+    "email": "info@lemech.com.au",
+    "address": "Perth, WA",
+    "service_area": "Perth metro and surrounds",
+    "years": 5,
+    "rating": "4.9",
+    "hero_headline": "Mechanic that comes to you.",
+    "hero_subhead": "Leading Edge Mechanical is a Perth mobile mechanic for servicing, repairs and roadside help.",
+    "about_headline": "Fully equipped mobile workshop.",
+    "about": "Leading Edge Mechanical brings car servicing and repairs to your home or workplace across Perth.",
+    "band_headline": "Service due or car playing up?",
+    "band_text": "Call 0408 558 119 or book online.",
+    "gallery_captions": [
+      "Mobile servicing",
+      "Roadside repairs",
+      "Logbook services",
+      "Perth metro"
+    ],
+    "source": "https://www.facebook.com/leadingedgemech",
+    "has_website": false,
+    "website_note": "Has lemech.com.au but pitch mobile-first upgrade.",
+    "demo_flag": "outreach",
+    "contact_note": "Phone primary. Basic website exists.",
+    "services": [
+      {
+        "title": "Logbook servicing",
+        "desc": "Manufacturer scheduled services."
+      },
+      {
+        "title": "Repairs",
+        "desc": "Diagnostics and mechanical fixes."
+      },
+      {
+        "title": "Roadside help",
+        "desc": "Breakdown assistance across Perth."
+      },
+      {
+        "title": "Mobile workshop",
+        "desc": "We come to your home or office."
+      }
+    ]
+  }
+]
