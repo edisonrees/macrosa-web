@@ -77,17 +77,17 @@
 | Celeste's Dog Grooming | 0433 007 934 | No | ✅ | ✅ | WhatsApp | Ready |
 | Ruby's Bakehouse | 0488 414 732 | No | ✅ | ✅ | WhatsApp | Ready |
 | Cupcakes with Love | 0402 299 202 | No | ✅ | ✅ | WhatsApp | Ready |
-| Luna Bakes | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-luna-bakes-perth.txt (@lunabakesperth) |
-| Niko's Confectionery | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-nikos-confectionery.txt (@nikos_confectionery) |
+| Luna Bakes | Message via Instagram | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| Niko's Confectionery | Message via Instagram | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
 | Noahs Cakery | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-noahs-cakery.txt (@noahs_cakery) |
 | Kiev Cake Perth | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-kiev-cake-perth.txt (@kiev_cake_perth) |
 | The Little Cake Maker | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-the-little-cake-maker.txt (@thelittlecakemakerperth) |
 | Sweet N Perth | Message via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-sweet-n-perth.txt (@sweetn_perth) |
-| Michael McDonald Hair | 0473 734 991 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-michael-mcd-hair.txt |
-| Tash Maree Hair Design | 0447 019 293 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-tash-maree-hair.txt |
-| Fretzy Fadez | Book via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-fretzy-fadez.txt (@Fretzy_Fadez) |
-| The Little Brow Studio | 0401 091 493 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-the-little-brow-studio.txt |
-| Haus of Solace | Book via Instagram | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-haus-of-solace.txt (@hausofsolace.beauty) |
+| Michael McDonald Hair | 0473 734 991 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Tash Maree Hair Design | 0447 019 293 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Fretzy Fadez | Book via Instagram | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
+| The Little Brow Studio | 0401 091 493 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Haus of Solace | Book via Instagram | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
 | Bentley Nail Maker | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-bentley-nail-maker.txt (@nail_maker.au) |
 | Gals Perth | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-gals-perth.txt (@galsperth) |
 | Pampered Little Pups | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pampered-little-pups.txt (@pamperedlittlepups) |
@@ -95,17 +95,17 @@
 | Brookelyn Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-brookelyn-beauty.txt (@brookelynbeautyy) |
 | Lush Lash and Beauty | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-lush-lash-beauty.txt (@lushlashperth) |
 | Fierce Lash and Brow Edit | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-fierce-lash-brow-edit.txt (@fiercelashandbrowedit) |
-| Mat's Mobile Dog Grooming | 0412 938 691 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-mats-mobile-dog-grooming.txt |
-| Yorkshire Painting Service | 0417 452 206 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-yorkshire-painting-service.txt |
-| Perth Hidden Beauty | 0447 337 466 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-perth-hidden-beauty.txt |
+| Mat's Mobile Dog Grooming | 0412 938 691 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Yorkshire Painting Service | 0417 452 206 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Perth Hidden Beauty | 0447 337 466 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
 | Ink and Ivory Artistry | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-ink-and-ivory-artistry.txt (@ink.and.ivory.artistry) |
 | The Dessert Obsession | Message via Facebook | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-the-dessert-obsession.txt (@sprinkles2crumbs) |
 | Pauly K's Kitchen | Email or Facebook | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-pauly-ks-kitchen.txt (@paulykskitchen) |
-| Moey's Home Studio | Book via Fresha | No | ✅ | ✅ | Email | Ready — no WA/IG channel |
+| Moey's Home Studio | Book via Fresha | No | ✅ | ✅ | Email | Skipped — no Instagram handle (Fresha only) |
 | Shona Threading and Waxing Perth | Book via Fresha | No | ✅ | ✅ | Instagram | Ready — draft in outreach/ig-shona-threading-perth.txt (@shonathreadingperth) |
-| Waggy Tails Doggy Wash | 0419 941 895 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-waggy-tails-doggy-wash.txt |
-| Manbun Mowing | 0422 742 022 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-manbun-mowing.txt |
-| Leading Edge Mechanical | 0408 558 119 | No | ✅ | ✅ | WhatsApp | Ready — draft in outreach/wa-leading-edge-mechanical.txt |
+| Waggy Tails Doggy Wash | 0419 941 895 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Manbun Mowing | 0422 742 022 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Leading Edge Mechanical | 0408 558 119 | No | ✅ | ✅ | WhatsApp | Skipped — not on WhatsApp (+61 408 558 119) |
 
 ## Contact channel priority
 
