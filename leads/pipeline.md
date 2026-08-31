@@ -59,25 +59,25 @@
 | Perth Mech Mobile Mechanics | Message via Facebook | Yes | ✅ | ✅ | Facebook | Skipped — working site (perthmech.com.au) |
 | Salty Dog Pet Salon | Book via Fresha | No | ✅ | ✅ | Instagram | Sent (IG DM, 2026-08-31) |
 | One and All Mobile Cleaning | Message via Facebook | No | ✅ | ✅ | Facebook | Ready (FB draft); WhatsApp skipped — placeholder phone |
-| Bee Painting Services | 0405 789 789 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Perth City Painters | 0411 427 787 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Ezyclean Carpet Cleaning | 0456 104 380 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| After Builder Projects | 0401 208 079 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Apex Home Maintenance WA | 0419 951 171 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| C Bee's Cupcakes | 0423 834 891 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Cupcakin Fun | 0423 640 565 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| A Tiny Bobcat Landscaping | 0412 776 377 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Satay Kings | 0415 819 868 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Big 5 Curry Den | 0402 214 522 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| HoneyBee Cupcakes | 0424 508 229 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Cupcakes By Sharona | (08) 9494 2159 | No | ✅ | ✅ | Facebook | Ready (FB draft) |
-| The Barber Queen Mobile Barber | Book via Facebook | No | ✅ | ✅ | Facebook | Ready (FB draft) |
-| Simon Says Burger | 0414 174 666 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| That's Delish | 0400 601 071 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| B.L.A.B's Mobile Dog Grooming | 0477 071 021 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Celeste's Dog Grooming | 0433 007 934 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Ruby's Bakehouse | 0488 414 732 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
-| Cupcakes with Love | 0402 299 202 | No | ✅ | ✅ | WhatsApp | Ready (WA draft) |
+| Bee Painting Services | 0405 789 789 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Perth City Painters | 0411 427 787 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Ezyclean Carpet Cleaning | 0456 104 380 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| After Builder Projects | 0401 208 079 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Apex Home Maintenance WA | 0419 951 171 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| C Bee's Cupcakes | 0423 834 891 | No | ✅ | ✅ | WhatsApp | Skipped — not on WhatsApp (FB draft ready) |
+| Cupcakin Fun | 0423 640 565 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| A Tiny Bobcat Landscaping | 0412 776 377 | No | ✅ | ✅ | WhatsApp | Skipped — not on WhatsApp (FB draft ready) |
+| Satay Kings | 0415 819 868 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Big 5 Curry Den | 0402 214 522 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| HoneyBee Cupcakes | 0424 508 229 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Cupcakes By Sharona | (08) 9494 2159 | No | ✅ | ✅ | Facebook | Ready (FB draft); WA skipped — landline |
+| The Barber Queen Mobile Barber | Book via Facebook | No | ✅ | ✅ | Facebook | Ready (FB draft); WA skipped — placeholder phone |
+| Simon Says Burger | 0414 174 666 | No | ✅ | ✅ | WhatsApp | Skipped — not on WhatsApp (IG draft ready) |
+| That's Delish | 0400 601 071 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| B.L.A.B's Mobile Dog Grooming | 0477 071 021 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Celeste's Dog Grooming | 0433 007 934 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
+| Ruby's Bakehouse | 0488 414 732 | No | ✅ | ✅ | WhatsApp | Skipped — not on WhatsApp (IG draft ready) |
+| Cupcakes with Love | 0402 299 202 | No | ✅ | ✅ | WhatsApp | Sent (WhatsApp, 2026-08-31) |
 ## Contact channel priority
 
 1. **WhatsApp** — PRIMARY when real AU mobile documented
