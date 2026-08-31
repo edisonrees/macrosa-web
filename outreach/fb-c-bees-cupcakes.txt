@@ -1,0 +1,16 @@
+DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
+CHANNEL: Facebook Messenger
+PAGE: https://www.facebook.com/search/top?q=c%20bee%27s%20cupcakes%20perth
+DEMO: https://edisonrees.github.io/macrosa-web/demos/c-bees-cupcakes/
+
+Hi, quick one from Edison at Caisson (web dev in Perth).
+
+I found C Bee's Cupcakes on Facebook. Good work around Parkwood but no proper website when locals search Google.
+
+Built a free preview:
+https://edisonrees.github.io/macrosa-web/demos/c-bees-cupcakes/ 
+
+$180 one-off (Basic: mobile site, contact form, deployment) if you want it live. Medium is $250 if you want basic support, Google indexing and your own domain. Rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this locked in. No stress if not for you.
+
+Cheers,
+Edison · Caisson · Perth

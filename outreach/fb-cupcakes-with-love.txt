@@ -1,0 +1,16 @@
+DRAFT ONLY - DO NOT SEND WITHOUT EDISON APPROVAL ON DISCORD
+CHANNEL: Facebook Messenger
+PAGE: https://www.facebook.com/search/top?q=cupcakes%20with%20love%20yangebup
+DEMO: https://edisonrees.github.io/macrosa-web/demos/cupcakes-with-love/
+
+Hi, quick one from Edison at Caisson (web dev in Perth).
+
+I found Cupcakes with Love on Facebook. Good work around Yangebup but no proper website when locals search Google.
+
+Built a free preview:
+https://edisonrees.github.io/macrosa-web/demos/cupcakes-with-love/ 
+
+$180 one-off (Basic: mobile site, contact form, deployment) if you want it live. Medium is $250 if you want basic support, Google indexing and your own domain. Rebuilding previews with upgraded tooling tomorrow at 7pm Perth, so shout if you want this locked in. No stress if not for you.
+
+Cheers,
+Edison · Caisson · Perth
