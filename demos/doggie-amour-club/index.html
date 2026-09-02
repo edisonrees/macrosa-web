@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Doggie Amour Club | Working prototype</title>
+<style>
+  :root {
+    --ink: #16130f;
+    --ink-2: #4b443c;
+    --paper: #f3ede3;
+    --card: #fbf7f0;
+    --line: #d8cdbc;
+    --hot: #b0341d;
+    --hot-dark: #8a2716;
+    --go: #2f5d3a;
+    --radius-lg: 18px;
+    --radius-md: 10px;
+    --radius-sm: 5px;
+  }
+
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Anthropic Serif", Charter, Georgia, serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  h1, h2, h3, .ui {
+    font-family: "Anthropic Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .wrap { max-width: 460px; margin: 0 auto; padding: 0 18px 64px; }
+
+  /* mode switch */
+  .modebar {
+    position: sticky; top: 0; z-index: 20;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    padding: 10px 18px;
+    display: flex; gap: 8px; align-items: center;
+  }
+  .modebar .tag {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink-2); margin-right: auto;
+  }
+  .seg { display: flex; border: 1px solid var(--line); border-radius: var(--radius-md); overflow: hidden; }
+  .seg button {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 13px; font-weight: 600;
+    border: 0; background: transparent; color: var(--ink-2);
+    padding: 7px 13px; cursor: pointer;
+  }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--card); }
+
+  header.hero { padding: 30px 0 18px; }
+  header.hero .brand {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--hot); margin-bottom: 10px;
+  }
+  header.hero h1 { font-size: 34px; line-height: 1.08; margin: 0 0 10px; }
+  header.hero p { margin: 0; color: var(--ink-2); }
+
+  /* membership card */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+    margin: 18px 0;
+  }
+  .card .row { display: flex; align-items: baseline; justify-content: space-between; }
+  .balance {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 52px; font-weight: 600; line-height: 1; letter-spacing: -0.03em;
+  }
+  .balance.spent { color: var(--ink-2); }
+  .meta { font-size: 13px; color: var(--ink-2); }
+  .memberid {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 15px; letter-spacing: 0.14em;
+    border: 1px dashed var(--line); border-radius: var(--radius-sm);
+    padding: 9px 12px; margin-top: 14px; text-align: center;
+  }
+
+  .bar { height: 7px; background: #e6dccc; border-radius: 99px; overflow: hidden; margin: 14px 0 6px; }
+  .bar > i { display: block; height: 100%; background: var(--hot); border-radius: 99px; transition: width 700ms cubic-bezier(.22,1,.36,1); }
+
+  button.primary, button.ghost {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 15px; font-weight: 600;
+    width: 100%; padding: 13px 16px; margin-top: 12px;
+    border-radius: var(--radius-md); cursor: pointer; border: 1px solid transparent;
+    transition: background 180ms cubic-bezier(.22,1,.36,1);
+  }
+  button.primary { background: var(--hot); color: #fff; }
+  button.primary:hover { background: var(--hot-dark); }
+  button.primary:disabled { background: #c9bfae; color: #7d746a; cursor: not-allowed; }
+  button.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+
+  .steps { margin: 26px 0 0; padding: 0; list-style: none; counter-reset: s; }
+  .steps li {
+    counter-increment: s;
+    display: grid; grid-template-columns: 26px 1fr; gap: 12px;
+    padding: 11px 0; border-top: 1px solid var(--line);
+  }
+  .steps li::before {
+    content: counter(s);
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 12px; font-weight: 600; color: var(--hot);
+    padding-top: 3px;
+  }
+
+  /* staff */
+  .staff h2 { font-size: 21px; margin: 26px 0 4px; }
+  .staff .lookup { display: flex; gap: 8px; margin-top: 14px; }
+  .staff input {
+    flex: 1; min-width: 0;
+    font-family: ui-monospace, Menlo, Consolas, monospace;
+    font-size: 16px; letter-spacing: 0.12em; text-transform: uppercase;
+    padding: 12px; border: 1px solid var(--line); border-radius: var(--radius-md);
+    background: var(--card); color: var(--ink);
+  }
+  .staff input:focus { outline: 2px solid var(--hot); outline-offset: -1px; }
+  .staff .lookup button { width: auto; margin: 0; padding: 12px 18px; }
+
+  .result { margin-top: 16px; }
+  .verdict {
+    font-family: "Anthropic Sans", Helvetica, Arial, sans-serif;
+    font-size: 19px; font-weight: 600; margin-bottom: 3px;
+  }
+  .verdict.ok { color: var(--go); }
+  .verdict.no { color: var(--hot); }
+
+  /* skeleton loading */
+  .skel { border-radius: var(--radius-sm); background: #e6dccc; position: relative; overflow: hidden; }
+  .skel::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,.6), transparent);
+    transform: translateX(-100%);
+    animation: sweep 1.15s cubic-bezier(.4,0,.2,1) infinite;
+  }
+  @keyframes sweep { to { transform: translateX(100%); } }
+  .skel.line { height: 13px; margin: 9px 0; }
+  .skel.big { height: 46px; width: 55%; }
+
+  .log { margin-top: 26px; }
+  .log h3 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-2); margin: 0 0 8px; }
+  .log ol { margin: 0; padding: 0; list-style: none; font-size: 14px; }
+  .log li { padding: 8px 0; border-top: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; }
+  .log .when { color: var(--ink-2); font-size: 13px; white-space: nowrap; }
+  .log .none { color: var(--ink-2); padding-top: 8px; border-top: 1px solid var(--line); }
+
+  footer {
+    margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line);
+    font-size: 13px; color: var(--ink-2);
+  }
+  footer a { color: var(--ink-2); }
+  .note {
+    background: #efe6d6; border: 1px solid var(--line);
+    border-radius: var(--radius-md); padding: 13px 15px; font-size: 14px; margin-top: 22px;
+  }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<div class="modebar">
+  <span class="tag">Prototype</span>
+  <div class="seg" role="group" aria-label="Choose view">
+    <button id="btnCustomer" aria-pressed="true">Customer</button>
+    <button id="btnStaff" aria-pressed="false">Staff</button>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <!-- CUSTOMER -->
+  <section id="viewCustomer">
+    <header class="hero">
+      <div class="brand">Doggie Amour</div>
+      <h1>Thirty dollars of grooming, every month.</h1>
+      <p>Members pay $30 a month and get $30 towards a groom at Doggie Amour. Claim it once a month, whenever suits.</p>
+    </header>
+
+    <div class="card" id="joinCard">
+      <div class="row">
+        <div>
+          <div class="meta">Membership</div>
+          <div class="balance">$30</div>
+        </div>
+        <div class="meta" style="text-align:right">per month<br>cancel anytime</div>
+      </div>
+      <button class="primary" id="btnJoin">Join the club</button>
+      <div class="meta" style="margin-top:10px">Card is not charged in this prototype.</div>
+    </div>
+
+    <div class="card" id="loadingCard" hidden>
+      <div class="skel line" style="width:38%"></div>
+      <div class="skel big"></div>
+      <div class="skel line"></div>
+      <div class="skel line" style="width:70%"></div>
+    </div>
+
+    <div class="card" id="memberCard" hidden>
+      <div class="row">
+        <div>
+          <div class="meta" id="cycleLabel">Credit available</div>
+          <div class="balance" id="creditValue">$30</div>
+        </div>
+        <div class="meta" style="text-align:right" id="resetLabel"></div>
+      </div>
+      <div class="bar"><i id="cycleBar" style="width:0%"></i></div>
+      <div class="meta" id="cycleText"></div>
+      <div class="memberid" id="memberCode">------</div>
+      <div class="meta" style="margin-top:10px">Show this code when you arrive.</div>
+      <button class="ghost" id="btnLeave">Cancel membership</button>
+    </div>
+
+    <ol class="steps">
+      <li>Join once. Thirty dollars a month, cancel whenever you like.</li>
+      <li>You get a member code. It lives on your phone.</li>
+      <li>Book what you want, show the code, thirty dollars comes off.</li>
+      <li>Staff mark it claimed so it cannot be used twice in the same month.</li>
+      <li>On the first of the month your credit goes back to thirty dollars.</li>
+    </ol>
+
+    <div class="note">
+      This is a working prototype, not a live product. Membership state is stored in this browser only, so you can test the whole flow including the monthly reset without anything being charged or sent anywhere.
+    </div>
+  </section>
+
+  <!-- STAFF -->
+  <section id="viewStaff" class="staff" hidden>
+    <header class="hero">
+      <div class="brand">Doggie Amour</div>
+      <h1>Counter screen.</h1>
+      <p>Type the member code the customer shows you, then mark it claimed.</p>
+    </header>
+
+    <div class="card">
+      <h2 style="margin-top:0">Check a member</h2>
+      <div class="meta">Codes are six characters.</div>
+      <div class="lookup">
+        <input id="codeInput" maxlength="6" placeholder="AB12CD" autocomplete="off" spellcheck="false" inputmode="text" aria-label="Member code">
+        <button class="primary ui" id="btnLookup" style="width:auto;margin:0">Check</button>
+      </div>
+
+      <div class="result" id="lookupLoading" hidden>
+        <div class="skel line" style="width:44%"></div>
+        <div class="skel line" style="width:66%"></div>
+      </div>
+
+      <div class="result" id="lookupResult" hidden>
+        <div class="verdict" id="verdict"></div>
+        <div class="meta" id="verdictDetail"></div>
+        <button class="primary" id="btnClaim" hidden>Mark thirty dollars claimed</button>
+      </div>
+    </div>
+
+    <div class="log">
+      <h3>Claims this month</h3>
+      <ol id="claimLog"></ol>
+    </div>
+
+    <div class="note">
+      In the real build this screen runs on your tablet and the claim is recorded against the member on the server, so a code claimed at one location cannot be claimed again somewhere else five minutes later.
+    </div>
+  </section>
+
+<div class="note" style="margin-top:18px"><strong class="ui">Want one of these running for real?</strong><br>It takes about a week and a half to build properly, with real payments and the claim recorded on a server rather than on one phone. <a href="mailto:freddison200@gmail.com?subject=Membership%20system%20for%20Doggie%20Amour">Email me</a> or reply on Instagram and I will tell you what it costs.</div>
+  <footer>
+    Prototype built for Doggie Amour by Caisson, Perth.
+    <a href="#" id="lnkTerms">Terms</a> and <a href="#" id="lnkPrivacy">Privacy</a>.
+    No payment is taken and no data leaves this device.
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var KEY = "daclub.v1";
+  var $ = function (id) { return document.getElementById(id); };
+
+  function monthKey(d) {
+    d = d || new Date();
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0");
+  }
+
+  function monthName(d) {
+    return d.toLocaleDateString("en-AU", { month: "long" });
+  }
+
+  function load() {
+    try {
+      var raw = localStorage.getItem(KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch (e) { return null; }
+  }
+
+  function save(s) {
+    try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) {}
+  }
+
+  function makeCode() {
+    var alphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+    var out = "";
+    for (var i = 0; i < 6; i++) {
+      out += alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+    }
+    return out;
+  }
+
+  var state = load();
+
+  function creditFor(s) {
+    if (!s) { return 0; }
+    return s.claimedMonth === monthKey() ? 0 : 30;
+  }
+
+  function daysLeft() {
+    var now = new Date();
+    var next = new Date(now.getFullYear(), now.getMonth() + 1, 1);
+    return Math.ceil((next - now) / 86400000);
+  }
+
+  function cycleProgress() {
+    var now = new Date();
+    var start = new Date(now.getFullYear(), now.getMonth(), 1);
+    var end = new Date(now.getFullYear(), now.getMonth() + 1, 1);
+    return Math.min(100, Math.max(0, ((now - start) / (end - start)) * 100));
+  }
+
+  function renderCustomer() {
+    var joined = !!state;
+    $("joinCard").hidden = joined;
+    $("memberCard").hidden = !joined;
+    if (!joined) { return; }
+
+    var credit = creditFor(state);
+    $("creditValue").textContent = "$" + credit;
+    $("creditValue").className = "balance" + (credit === 0 ? " spent" : "");
+    $("cycleLabel").textContent = credit === 0 ? "Claimed this month" : "Credit available";
+    $("memberCode").textContent = state.code;
+
+    var d = daysLeft();
+    $("resetLabel").innerHTML = "resets in<br>" + d + (d === 1 ? " day" : " days");
+    $("cycleBar").style.width = cycleProgress().toFixed(1) + "%";
+    $("cycleText").textContent = credit === 0
+      ? "Next thirty dollars lands on the first of " + monthName(new Date(new Date().getFullYear(), new Date().getMonth() + 1, 1)) + "."
+      : "Use it any time before the end of the month.";
+  }
+
+  function renderLog() {
+    var list = $("claimLog");
+    list.innerHTML = "";
+    var claims = (state && state.history ? state.history : []).filter(function (c) {
+      return c.month === monthKey();
+    });
+    if (!claims.length) {
+      var li = document.createElement("li");
+      li.className = "none";
+      li.textContent = "Nothing claimed yet this month.";
+      list.appendChild(li);
+      return;
+    }
+    claims.slice().reverse().forEach(function (c) {
+      var li = document.createElement("li");
+      var a = document.createElement("span");
+      a.textContent = c.code + " claimed $30";
+      var b = document.createElement("span");
+      b.className = "when";
+      b.textContent = c.at;
+      li.appendChild(a); li.appendChild(b);
+      list.appendChild(li);
+    });
+  }
+
+  // join flow, with a real loading state
+  $("btnJoin").addEventListener("click", function () {
+    $("joinCard").hidden = true;
+    $("loadingCard").hidden = false;
+    setTimeout(function () {
+      state = { code: makeCode(), joined: new Date().toISOString(), claimedMonth: null, history: [] };
+      save(state);
+      $("loadingCard").hidden = true;
+      renderCustomer();
+      renderLog();
+    }, 900);
+  });
+
+  $("btnLeave").addEventListener("click", function () {
+    state = null;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    renderCustomer();
+    renderLog();
+  });
+
+  // staff lookup
+  function doLookup() {
+    var code = ($("codeInput").value || "").trim().toUpperCase();
+    $("lookupResult").hidden = true;
+    $("btnClaim").hidden = true;
+    if (code.length !== 6) {
+      $("lookupLoading").hidden = true;
+      $("lookupResult").hidden = false;
+      $("verdict").textContent = "Enter six characters";
+      $("verdict").className = "verdict no";
+      $("verdictDetail").textContent = "The member code on the customer's phone is six characters long.";
+      return;
+    }
+    $("lookupLoading").hidden = false;
+    setTimeout(function () {
+      $("lookupLoading").hidden = true;
+      $("lookupResult").hidden = false;
+      if (!state || state.code !== code) {
+        $("verdict").textContent = "No member with that code";
+        $("verdict").className = "verdict no";
+        $("verdictDetail").textContent = "Check the code and try again. In the live build this checks every member, not just this device.";
+        return;
+      }
+      if (state.claimedMonth === monthKey()) {
+        $("verdict").textContent = "Already claimed this month";
+        $("verdict").className = "verdict no";
+        $("verdictDetail").textContent = "This member used their thirty dollars already. Their credit returns on the first.";
+        return;
+      }
+      $("verdict").textContent = "Member is good for $30";
+      $("verdict").className = "verdict ok";
+      $("verdictDetail").textContent = "Take thirty dollars off the order, then mark it claimed.";
+      $("btnClaim").hidden = false;
+    }, 650);
+  }
+
+  $("btnLookup").addEventListener("click", doLookup);
+  $("codeInput").addEventListener("keydown", function (e) {
+    if (e.key === "Enter") { doLookup(); }
+  });
+
+  $("btnClaim").addEventListener("click", function () {
+    if (!state) { return; }
+    state.claimedMonth = monthKey();
+    state.history = state.history || [];
+    state.history.push({
+      code: state.code,
+      month: monthKey(),
+      at: new Date().toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit" })
+    });
+    save(state);
+    $("verdict").textContent = "Claimed";
+    $("verdict").className = "verdict ok";
+    $("verdictDetail").textContent = "Thirty dollars recorded against this member for " + monthName(new Date()) + ".";
+    $("btnClaim").hidden = true;
+    renderLog();
+    renderCustomer();
+  });
+
+  // view switching
+  function setView(which) {
+    var cust = which === "customer";
+    $("viewCustomer").hidden = !cust;
+    $("viewStaff").hidden = cust;
+    $("btnCustomer").setAttribute("aria-pressed", String(cust));
+    $("btnStaff").setAttribute("aria-pressed", String(!cust));
+    if (!cust) { renderLog(); }
+  }
+  $("btnCustomer").addEventListener("click", function () { setView("customer"); });
+  $("btnStaff").addEventListener("click", function () { setView("staff"); });
+
+  $("lnkTerms").addEventListener("click", function (e) {
+    e.preventDefault();
+    alertless("Terms", "Prototype only. No membership is created, no payment is taken, and nothing is stored outside this browser. A live version would carry proper terms covering billing, cancellation and credit expiry.");
+  });
+  $("lnkPrivacy").addEventListener("click", function (e) {
+    e.preventDefault();
+    alertless("Privacy", "This prototype stores a single member record in your own browser and sends nothing anywhere. A live version would store member records on the server and would collect only what billing and claiming require.");
+  });
+
+  function alertless(title, body) {
+    var host = document.querySelector("footer");
+    var old = document.getElementById("legalBox");
+    if (old) { old.remove(); }
+    var box = document.createElement("div");
+    box.id = "legalBox";
+    box.className = "note";
+    box.innerHTML = "<strong class='ui'>" + title + "</strong><br>" + body;
+    host.appendChild(box);
+  }
+
+  renderCustomer();
+  renderLog();
+})();
+</script>
+</body>
+</html>
